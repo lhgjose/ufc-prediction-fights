@@ -68,3 +68,8 @@ class UFCStatsClient:
         """Get single fighter details page."""
         url = f"{BASE_URL}/fighter-details/{fighter_id}"
         return self.get(url)
+
+    def get_upcoming_events(self) -> BeautifulSoup:
+        """Get upcoming events page."""
+        url = f"{BASE_URL}/statistics/events/upcoming"
+        return self.get(url)

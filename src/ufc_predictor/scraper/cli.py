@@ -12,7 +12,7 @@ def main():
     parser = argparse.ArgumentParser(description="Scrape UFC data from UFCStats.com")
     parser.add_argument(
         "command",
-        choices=["full", "events", "fights", "fighters", "stats"],
+        choices=["full", "events", "fights", "fighters", "stats", "upcoming"],
         help="Command to run",
     )
     parser.add_argument(
@@ -79,6 +79,21 @@ def main():
     elif args.command == "fighters":
         fighters = scraper.scrape_fighters_from_fights(skip_existing=skip_existing)
         print(f"Scraped {len(fighters)} fighters")
+
+    elif args.command == "upcoming":
+        events = scraper.get_upcoming_events()
+        if not events:
+            print("No upcoming events found.")
+        else:
+            print(f"Found {len(events)} upcoming event(s):\n")
+            for event in events:
+                date_str = event["date"].strftime("%b %d, %Y") if event["date"] else "TBD"
+                location = event["location"] or "TBD"
+                print(f"  {event['name']}")
+                print(f"    Date: {date_str}")
+                print(f"    Location: {location}")
+                print(f"    ID: {event['event_id']}")
+                print()
 
 
 if __name__ == "__main__":

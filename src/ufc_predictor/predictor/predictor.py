@@ -402,18 +402,22 @@ class FightPredictor:
         """Calculate KO/TKO finish potential."""
         score = 0.0
 
-        # Winner's knockout power
+        # Winner's knockout power (primary factor)
         ko_power = winner.get_rating(SkillDimension.KNOCKOUT_POWER)
-        score += (ko_power - 1500) * 0.5
+        score += (ko_power - 1500) * 0.7  # Increased weight
 
-        # Loser's chin (striking defense + inverse of KO losses)
+        # Loser's chin vulnerability
         chin_rating = loser.get_rating(SkillDimension.STRIKING_DEFENSE)
-        chin_penalty = loser.ko_losses * 15  # Each KO loss = vulnerability
-        score += (1500 - chin_rating) * 0.3 + chin_penalty
+        chin_penalty = loser.ko_losses * 20  # Increased penalty per KO loss
+        score += (1500 - chin_rating) * 0.4 + chin_penalty
 
         # Volume striking contributes to TKO potential
         volume = winner.get_rating(SkillDimension.STRIKING_VOLUME)
-        score += (volume - 1500) * 0.2
+        score += (volume - 1500) * 0.25
+
+        # Pressure creates more KO opportunities
+        pressure = winner.get_rating(SkillDimension.PRESSURE)
+        score += (pressure - 1500) * 0.15
 
         return score
 
@@ -425,17 +429,21 @@ class FightPredictor:
         """Calculate submission finish potential."""
         score = 0.0
 
-        # Winner's submission offense
+        # Winner's submission offense (primary factor)
         sub_off = winner.get_rating(SkillDimension.SUBMISSION_OFFENSE)
-        score += (sub_off - 1500) * 0.6
+        score += (sub_off - 1500) * 0.8  # Increased weight
 
         # Loser's submission defense
         sub_def = loser.get_rating(SkillDimension.SUBMISSION_DEFENSE)
-        score += (1500 - sub_def) * 0.4
+        score += (1500 - sub_def) * 0.5  # Increased weight
 
         # Wrestling offense helps get to position
         wrestling = winner.get_rating(SkillDimension.WRESTLING_OFFENSE)
-        score += (wrestling - 1500) * 0.2
+        score += (wrestling - 1500) * 0.3
+
+        # Loser's weak takedown defense creates more sub opportunities
+        td_def = loser.get_rating(SkillDimension.WRESTLING_DEFENSE)
+        score += (1500 - td_def) * 0.2
 
         return score
 
@@ -446,25 +454,37 @@ class FightPredictor:
         is_close_fight: bool,
     ) -> float:
         """Calculate decision potential."""
-        score = 30.0  # Base decision score
+        score = 20.0  # Reduced base decision score
 
         # Close fights more likely to go to decision
         if is_close_fight:
-            score += 25
+            score += 30
 
         # Good cardio increases decision likelihood
-        cardio = winner.get_rating(SkillDimension.CARDIO)
-        score += (cardio - 1500) * 0.2
+        cardio_winner = winner.get_rating(SkillDimension.CARDIO)
+        cardio_loser = loser.get_rating(SkillDimension.CARDIO)
+        avg_cardio = (cardio_winner + cardio_loser) / 2
+        score += (avg_cardio - 1500) * 0.25
 
         # Good defense on both sides increases decision likelihood
         strike_def_winner = winner.get_rating(SkillDimension.STRIKING_DEFENSE)
         strike_def_loser = loser.get_rating(SkillDimension.STRIKING_DEFENSE)
         avg_strike_def = (strike_def_winner + strike_def_loser) / 2
-        score += (avg_strike_def - 1500) * 0.3
+        score += (avg_strike_def - 1500) * 0.35
 
-        # High submission defense decreases finish likelihood
+        # High submission defense on loser decreases sub finish likelihood
         sub_def_loser = loser.get_rating(SkillDimension.SUBMISSION_DEFENSE)
         score += (sub_def_loser - 1500) * 0.2
+
+        # Low KO power from winner increases decision likelihood
+        ko_power = winner.get_rating(SkillDimension.KNOCKOUT_POWER)
+        score += (1500 - ko_power) * 0.2
+
+        # Good chin on loser (low KO losses) increases decision likelihood
+        if loser.ko_losses == 0:
+            score += 15
+        elif loser.ko_losses == 1:
+            score += 5
 
         return score
 

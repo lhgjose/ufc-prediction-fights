@@ -167,6 +167,47 @@ def parse_events_list(soup: BeautifulSoup) -> list[tuple[str, str, Optional[date
     return events
 
 
+def parse_upcoming_events(soup: BeautifulSoup) -> list[tuple[str, str, Optional[datetime], Optional[str]]]:
+    """
+    Parse upcoming events page.
+
+    Returns list of (event_id, event_name, event_date, location).
+    """
+    events = []
+    table = soup.find("table", class_="b-statistics__table-events")
+    if not table:
+        return events
+
+    rows = table.find_all("tr", class_="b-statistics__table-row")
+    for row in rows:
+        link = row.find("a", class_="b-link")
+        if not link:
+            continue
+
+        href = link.get("href", "")
+        if "/event-details/" not in href:
+            continue
+
+        event_id = _extract_id_from_url(href)
+        event_name = _get_text(link)
+
+        # Date is in a span with specific class
+        date_span = row.find("span", class_="b-statistics__date")
+        event_date = _parse_date(_get_text(date_span)) if date_span else None
+
+        # Location is in another column
+        location = None
+        cells = row.find_all("td")
+        if len(cells) >= 2:
+            location = _get_text(cells[1])
+            if location == "--" or not location:
+                location = None
+
+        events.append((event_id, event_name, event_date, location))
+
+    return events
+
+
 def parse_event_details(soup: BeautifulSoup, event_id: str) -> Event:
     """Parse single event details page."""
     # Event name

@@ -13,6 +13,7 @@ from .parsers import (
     parse_fight_details,
     parse_fighter_details,
     parse_fighters_list,
+    parse_upcoming_events,
 )
 from .storage import DataStorage
 
@@ -239,3 +240,25 @@ class UFCScraper:
             "new_fighters": len(fighters),
             "total": stats,
         }
+
+    def get_upcoming_events(self) -> list[dict]:
+        """
+        Fetch upcoming UFC events from UFCStats.com.
+
+        Returns:
+            List of dicts with event info: {id, name, date, location}
+        """
+        logger.info("Fetching upcoming events...")
+        soup = self.client.get_upcoming_events()
+        events = parse_upcoming_events(soup)
+
+        result = []
+        for event_id, name, event_date, location in events:
+            result.append({
+                "event_id": event_id,
+                "name": name,
+                "date": event_date,
+                "location": location,
+            })
+
+        return result

@@ -35,6 +35,18 @@ def main():
         default=100,
         help="Save ratings every N fights during replay (default: 100)",
     )
+    parser.add_argument(
+        "--gender",
+        choices=["male", "female", "all"],
+        default="all",
+        help="Filter by gender for 'stats' command (default: all)",
+    )
+    parser.add_argument(
+        "--min-fights",
+        type=int,
+        default=5,
+        help="Minimum UFC fights for 'stats' command (default: 5)",
+    )
 
     args = parser.parse_args()
 
@@ -55,7 +67,11 @@ def main():
             return
 
         ratings = rating_system.get_fighter_ratings(args.fighter)
-        print(f"Fighter: {args.fighter}")
+        fighter = storage.load_fighter(args.fighter)
+        fighter_name = fighter.name if fighter else args.fighter
+
+        print(f"Fighter: {fighter_name}")
+        print(f"ID: {args.fighter}")
         print(f"Total fights: {ratings.total_fights}")
         print(f"KO losses: {ratings.ko_losses}")
         print(f"Last fight: {ratings.last_fight_date}")
@@ -70,9 +86,14 @@ def main():
             print("Error: --fighter1 and --fighter2 required for 'compare' command")
             return
 
+        fighter1 = storage.load_fighter(args.fighter1)
+        fighter2 = storage.load_fighter(args.fighter2)
+        f1_name = fighter1.name if fighter1 else args.fighter1
+        f2_name = fighter2.name if fighter2 else args.fighter2
+
         comparison = rating_system.get_comparison(args.fighter1, args.fighter2)
-        print(f"Fighter 1: {args.fighter1} (avg: {comparison['fighter1_average']:.1f})")
-        print(f"Fighter 2: {args.fighter2} (avg: {comparison['fighter2_average']:.1f})")
+        print(f"Fighter 1: {f1_name} (avg: {comparison['fighter1_average']:.1f})")
+        print(f"Fighter 2: {f2_name} (avg: {comparison['fighter2_average']:.1f})")
         print(f"Overall difference: {comparison['overall_difference']:+.1f}")
         print("\nDimension breakdown:")
         for dim, data in comparison["dimensions"].items():
@@ -89,6 +110,9 @@ def main():
             print("No ratings data found. Run 'replay' first.")
             return
 
+        # Load all fighters for name lookup and gender filtering
+        all_fighters = {f.fighter_id: f for f in storage.load_all_fighters()}
+
         rating_files = list(ratings_dir.glob("*.json"))
         print(f"Total rated fighters: {len(rating_files)}")
 
@@ -98,20 +122,39 @@ def main():
             for f in rating_files:
                 with open(f) as fp:
                     data = json.load(fp)
+
+                fighter_id = data["fighter_id"]
+                total_fights = data["total_fights"]
+
+                # Apply minimum fights filter
+                if total_fights < args.min_fights:
+                    continue
+
+                # Apply gender filter
+                fighter = all_fighters.get(fighter_id)
+                if args.gender != "all" and fighter:
+                    if fighter.gender != args.gender:
+                        continue
+
                 avg = sum(
                     r["rating"] for r in data["ratings"].values()
                 ) / len(data["ratings"])
-                all_ratings.append((data["fighter_id"], avg, data["total_fights"]))
 
-            all_ratings.sort(key=lambda x: x[1], reverse=True)
+                fighter_name = fighter.name if fighter else fighter_id
+                all_ratings.append((fighter_id, fighter_name, avg, total_fights))
 
-            print("\nTop 10 rated fighters:")
-            for fighter_id, avg, fights in all_ratings[:10]:
-                print(f"  {fighter_id[:20]:20s}: {avg:7.1f} ({fights} fights)")
+            all_ratings.sort(key=lambda x: x[2], reverse=True)
 
-            print("\nBottom 10 rated fighters:")
-            for fighter_id, avg, fights in all_ratings[-10:]:
-                print(f"  {fighter_id[:20]:20s}: {avg:7.1f} ({fights} fights)")
+            gender_label = f" ({args.gender})" if args.gender != "all" else ""
+            print(f"\nFiltered fighters{gender_label}: {len(all_ratings)} (min {args.min_fights} fights)")
+
+            print(f"\nTop 10 rated fighters{gender_label}:")
+            for fighter_id, name, avg, fights in all_ratings[:10]:
+                print(f"  {name:<25s} {avg:7.1f} ({fights} fights)")
+
+            print(f"\nBottom 10 rated fighters{gender_label}:")
+            for fighter_id, name, avg, fights in all_ratings[-10:]:
+                print(f"  {name:<25s} {avg:7.1f} ({fights} fights)")
 
 
 if __name__ == "__main__":
