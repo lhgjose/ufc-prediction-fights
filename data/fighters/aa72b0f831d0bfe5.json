@@ -1,0 +1,23 @@
+{
+  "fighter_id": "aa72b0f831d0bfe5",
+  "name": "Deiveson Figueiredo",
+  "nickname": "Deus da Guerra",
+  "height_inches": 65,
+  "weight_lbs": 135,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1987-12-18",
+  "gender": "male",
+  "record_wins": 25,
+  "record_losses": 5,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.75,
+  "str_acc": 0.54,
+  "sapm": 3.54,
+  "str_def": 0.49,
+  "td_avg": 1.71,
+  "td_acc": 0.35,
+  "td_def": 0.57,
+  "sub_avg": 1.3
+}

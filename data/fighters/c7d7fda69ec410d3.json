@@ -1,0 +1,23 @@
+{
+  "fighter_id": "c7d7fda69ec410d3",
+  "name": "Kamuela Kirk",
+  "nickname": "The Jawaiian",
+  "height_inches": 70,
+  "weight_lbs": 155,
+  "reach_inches": 75,
+  "stance": "Switch",
+  "dob": "1994-04-13",
+  "gender": "male",
+  "record_wins": 12,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.22,
+  "str_acc": 0.5,
+  "sapm": 5.87,
+  "str_def": 0.4,
+  "td_avg": 1.5,
+  "td_acc": 0.26,
+  "td_def": 0.47,
+  "sub_avg": 1.2
+}

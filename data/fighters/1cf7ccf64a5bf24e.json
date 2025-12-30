@@ -1,0 +1,23 @@
+{
+  "fighter_id": "1cf7ccf64a5bf24e",
+  "name": "Oskar Piechota",
+  "nickname": "Imadlo",
+  "height_inches": 72,
+  "weight_lbs": 185,
+  "reach_inches": 76,
+  "stance": "Southpaw",
+  "dob": "1990-01-24",
+  "gender": "male",
+  "record_wins": 11,
+  "record_losses": 3,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 3.3,
+  "str_acc": 0.52,
+  "sapm": 3.93,
+  "str_def": 0.51,
+  "td_avg": 0.61,
+  "td_acc": 0.4,
+  "td_def": 0.38,
+  "sub_avg": 1.5
+}

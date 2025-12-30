@@ -1,0 +1,23 @@
+{
+  "fighter_id": "a7e3f02fe2b2fe30",
+  "name": "Danyelle Wolf",
+  "nickname": "",
+  "height_inches": 71,
+  "weight_lbs": 145,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "1983-09-08",
+  "gender": "female",
+  "record_wins": 1,
+  "record_losses": 1,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.37,
+  "str_acc": 0.25,
+  "sapm": 4.57,
+  "str_def": 0.47,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.77,
+  "sub_avg": 0.5
+}

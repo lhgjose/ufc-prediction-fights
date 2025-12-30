@@ -1,0 +1,23 @@
+{
+  "fighter_id": "b6c37948cb226e8c",
+  "name": "Benardo Sopaj",
+  "nickname": "Lion King",
+  "height_inches": 66,
+  "weight_lbs": 135,
+  "reach_inches": 66,
+  "stance": "Orthodox",
+  "dob": "2000-09-25",
+  "gender": "male",
+  "record_wins": 12,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.24,
+  "str_acc": 0.56,
+  "sapm": 4.88,
+  "str_def": 0.49,
+  "td_avg": 2.53,
+  "td_acc": 0.71,
+  "td_def": 0.76,
+  "sub_avg": 0.0
+}

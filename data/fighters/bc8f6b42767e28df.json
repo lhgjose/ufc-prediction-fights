@@ -1,0 +1,23 @@
+{
+  "fighter_id": "bc8f6b42767e28df",
+  "name": "Naoyuki Kotani",
+  "nickname": "",
+  "height_inches": 68,
+  "weight_lbs": 155,
+  "reach_inches": 66,
+  "stance": "Southpaw",
+  "dob": "1981-12-08",
+  "gender": "male",
+  "record_wins": 34,
+  "record_losses": 14,
+  "record_draws": 7,
+  "record_nc": 0,
+  "slpm": 1.02,
+  "str_acc": 0.31,
+  "sapm": 2.89,
+  "str_def": 0.5,
+  "td_avg": 0.83,
+  "td_acc": 0.16,
+  "td_def": 0.46,
+  "sub_avg": 0.8
+}

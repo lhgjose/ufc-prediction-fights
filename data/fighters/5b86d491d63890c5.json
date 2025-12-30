@@ -1,0 +1,23 @@
+{
+  "fighter_id": "5b86d491d63890c5",
+  "name": "Ludovit Klein",
+  "nickname": "Mr. Highlight",
+  "height_inches": 67,
+  "weight_lbs": 155,
+  "reach_inches": 72,
+  "stance": "Southpaw",
+  "dob": "1995-02-22",
+  "gender": "male",
+  "record_wins": 24,
+  "record_losses": 5,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.76,
+  "str_acc": 0.53,
+  "sapm": 3.48,
+  "str_def": 0.53,
+  "td_avg": 1.37,
+  "td_acc": 0.51,
+  "td_def": 0.76,
+  "sub_avg": 0.0
+}

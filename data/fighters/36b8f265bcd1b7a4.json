@@ -1,0 +1,23 @@
+{
+  "fighter_id": "36b8f265bcd1b7a4",
+  "name": "Abus Magomedov",
+  "nickname": "",
+  "height_inches": 74,
+  "weight_lbs": 185,
+  "reach_inches": 78,
+  "stance": "Orthodox",
+  "dob": "1990-09-02",
+  "gender": "male",
+  "record_wins": 28,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.07,
+  "str_acc": 0.49,
+  "sapm": 3.43,
+  "str_def": 0.55,
+  "td_avg": 2.61,
+  "td_acc": 0.59,
+  "td_def": 1.0,
+  "sub_avg": 0.4
+}

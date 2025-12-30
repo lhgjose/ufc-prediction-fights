@@ -1,0 +1,23 @@
+{
+  "fighter_id": "e76d9f656ceb82ab",
+  "name": "Aleksandra Albu",
+  "nickname": "Stitch",
+  "height_inches": 62,
+  "weight_lbs": 115,
+  "reach_inches": 63,
+  "stance": "Orthodox",
+  "dob": "1990-07-14",
+  "gender": "female",
+  "record_wins": 3,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.83,
+  "str_acc": 0.47,
+  "sapm": 5.56,
+  "str_def": 0.38,
+  "td_avg": 2.27,
+  "td_acc": 0.5,
+  "td_def": 0.77,
+  "sub_avg": 0.4
+}

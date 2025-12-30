@@ -1,0 +1,23 @@
+{
+  "fighter_id": "ef1182eb28c17d4e",
+  "name": "Mark Striegl",
+  "nickname": "Mugen",
+  "height_inches": 68,
+  "weight_lbs": 145,
+  "reach_inches": 70,
+  "stance": "Southpaw",
+  "dob": "1988-06-23",
+  "gender": "male",
+  "record_wins": 18,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 1.4,
+  "str_acc": 0.45,
+  "sapm": 4.07,
+  "str_def": 0.4,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.66,
+  "sub_avg": 0.0
+}

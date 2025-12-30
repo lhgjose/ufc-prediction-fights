@@ -1,0 +1,23 @@
+{
+  "fighter_id": "b1b0729d27936f2f",
+  "name": "Belal Muhammad",
+  "nickname": "Remember the Name",
+  "height_inches": 71,
+  "weight_lbs": 170,
+  "reach_inches": 72,
+  "stance": "Orthodox",
+  "dob": "1988-07-09",
+  "gender": "male",
+  "record_wins": 24,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 4.43,
+  "str_acc": 0.43,
+  "sapm": 3.82,
+  "str_def": 0.55,
+  "td_avg": 2.14,
+  "td_acc": 0.36,
+  "td_def": 0.9,
+  "sub_avg": 0.1
+}

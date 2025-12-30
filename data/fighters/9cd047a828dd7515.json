@@ -1,0 +1,23 @@
+{
+  "fighter_id": "9cd047a828dd7515",
+  "name": "KB Bhullar",
+  "nickname": "The Bengal",
+  "height_inches": 76,
+  "weight_lbs": 185,
+  "reach_inches": 78,
+  "stance": "Switch",
+  "dob": "1991-10-12",
+  "gender": "male",
+  "record_wins": 8,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.31,
+  "str_acc": 0.49,
+  "sapm": 5.39,
+  "str_def": 0.45,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.0,
+  "sub_avg": 0.0
+}

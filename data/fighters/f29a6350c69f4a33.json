@@ -1,0 +1,23 @@
+{
+  "fighter_id": "f29a6350c69f4a33",
+  "name": "Miranda Maverick",
+  "nickname": "Fear The",
+  "height_inches": 63,
+  "weight_lbs": 125,
+  "reach_inches": 65,
+  "stance": "Southpaw",
+  "dob": "1997-07-01",
+  "gender": "female",
+  "record_wins": 17,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.22,
+  "str_acc": 0.44,
+  "sapm": 2.25,
+  "str_def": 0.61,
+  "td_avg": 2.16,
+  "td_acc": 0.4,
+  "td_def": 0.45,
+  "sub_avg": 0.4
+}

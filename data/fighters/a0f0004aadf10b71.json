@@ -1,0 +1,23 @@
+{
+  "fighter_id": "a0f0004aadf10b71",
+  "name": "Alexandre Pantoja",
+  "nickname": "The Cannibal",
+  "height_inches": 65,
+  "weight_lbs": 125,
+  "reach_inches": 67,
+  "stance": "Orthodox",
+  "dob": "1990-04-16",
+  "gender": "male",
+  "record_wins": 30,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.38,
+  "str_acc": 0.5,
+  "sapm": 3.88,
+  "str_def": 0.49,
+  "td_avg": 2.79,
+  "td_acc": 0.47,
+  "td_def": 0.69,
+  "sub_avg": 1.0
+}

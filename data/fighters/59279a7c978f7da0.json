@@ -1,0 +1,23 @@
+{
+  "fighter_id": "59279a7c978f7da0",
+  "name": "Al Iaquinta",
+  "nickname": "Raging",
+  "height_inches": 70,
+  "weight_lbs": 155,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "1987-04-30",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.06,
+  "str_acc": 0.4,
+  "sapm": 4.53,
+  "str_def": 0.61,
+  "td_avg": 0.63,
+  "td_acc": 0.18,
+  "td_def": 0.74,
+  "sub_avg": 0.2
+}

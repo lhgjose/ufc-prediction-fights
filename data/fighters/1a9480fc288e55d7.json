@@ -1,0 +1,23 @@
+{
+  "fighter_id": "1a9480fc288e55d7",
+  "name": "Don'Tale Mayes",
+  "nickname": "Lord Kong",
+  "height_inches": 78,
+  "weight_lbs": 260,
+  "reach_inches": 81,
+  "stance": "Orthodox",
+  "dob": "1992-01-16",
+  "gender": "male",
+  "record_wins": 11,
+  "record_losses": 9,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 3.22,
+  "str_acc": 0.43,
+  "sapm": 3.61,
+  "str_def": 0.46,
+  "td_avg": 0.59,
+  "td_acc": 0.38,
+  "td_def": 0.46,
+  "sub_avg": 0.0
+}

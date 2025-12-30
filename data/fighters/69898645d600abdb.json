@@ -1,0 +1,23 @@
+{
+  "fighter_id": "69898645d600abdb",
+  "name": "Rodolfo Bellato",
+  "nickname": "Trator",
+  "height_inches": 75,
+  "weight_lbs": 205,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1996-02-05",
+  "gender": "male",
+  "record_wins": 12,
+  "record_losses": 3,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 5.13,
+  "str_acc": 0.59,
+  "sapm": 5.86,
+  "str_def": 0.46,
+  "td_avg": 1.44,
+  "td_acc": 0.35,
+  "td_def": 0.94,
+  "sub_avg": 0.2
+}

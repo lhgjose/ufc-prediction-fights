@@ -1,0 +1,23 @@
+{
+  "fighter_id": "c136b2a8852da5bd",
+  "name": "Akbarh Arreola",
+  "nickname": "El Caballero",
+  "height_inches": 70,
+  "weight_lbs": 155,
+  "reach_inches": 71,
+  "stance": "Southpaw",
+  "dob": "1983-01-14",
+  "gender": "male",
+  "record_wins": 23,
+  "record_losses": 11,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.32,
+  "str_acc": 0.45,
+  "sapm": 4.01,
+  "str_def": 0.56,
+  "td_avg": 1.07,
+  "td_acc": 1.0,
+  "td_def": 0.33,
+  "sub_avg": 0.4
+}

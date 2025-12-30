@@ -1,0 +1,23 @@
+{
+  "fighter_id": "203c957eac95dd87",
+  "name": "Hyun Gyu Lim",
+  "nickname": "The Ace",
+  "height_inches": 75,
+  "weight_lbs": 170,
+  "reach_inches": 77,
+  "stance": "Orthodox",
+  "dob": "1985-01-16",
+  "gender": "male",
+  "record_wins": 13,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.45,
+  "str_acc": 0.41,
+  "sapm": 5.07,
+  "str_def": 0.51,
+  "td_avg": 0.23,
+  "td_acc": 1.0,
+  "td_def": 0.73,
+  "sub_avg": 0.2
+}

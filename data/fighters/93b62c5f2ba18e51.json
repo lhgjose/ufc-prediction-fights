@@ -1,0 +1,23 @@
+{
+  "fighter_id": "93b62c5f2ba18e51",
+  "name": "Gustavo Lopez",
+  "nickname": "",
+  "height_inches": 65,
+  "weight_lbs": 135,
+  "reach_inches": 67,
+  "stance": "Orthodox",
+  "dob": "1989-06-27",
+  "gender": "male",
+  "record_wins": 12,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.48,
+  "str_acc": 0.4,
+  "sapm": 3.87,
+  "str_def": 0.57,
+  "td_avg": 1.74,
+  "td_acc": 0.41,
+  "td_def": 0.31,
+  "sub_avg": 0.7
+}

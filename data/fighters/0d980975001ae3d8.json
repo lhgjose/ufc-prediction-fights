@@ -1,0 +1,23 @@
+{
+  "fighter_id": "0d980975001ae3d8",
+  "name": "Shamil Gamzatov",
+  "nickname": "",
+  "height_inches": 74,
+  "weight_lbs": 205,
+  "reach_inches": 76,
+  "stance": "Orthodox",
+  "dob": "1990-08-09",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 1,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.35,
+  "str_acc": 0.48,
+  "sapm": 3.46,
+  "str_def": 0.51,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.5,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "3253b16d38ae087d",
+  "name": "Julianna Pena",
+  "nickname": "The Venezuelan Vixen",
+  "height_inches": 66,
+  "weight_lbs": 135,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1989-08-19",
+  "gender": "female",
+  "record_wins": 13,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.1,
+  "str_acc": 0.44,
+  "sapm": 2.56,
+  "str_def": 0.57,
+  "td_avg": 1.7,
+  "td_acc": 0.54,
+  "td_def": 0.24,
+  "sub_avg": 0.8
+}

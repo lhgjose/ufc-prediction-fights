@@ -1,0 +1,23 @@
+{
+  "fighter_id": "0de720c0f1d4ab9c",
+  "name": "Danny Chavez",
+  "nickname": "The Colombian Warrior",
+  "height_inches": 68,
+  "weight_lbs": 145,
+  "reach_inches": 67,
+  "stance": "Orthodox",
+  "dob": "1987-03-14",
+  "gender": "male",
+  "record_wins": 11,
+  "record_losses": 5,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.86,
+  "str_acc": 0.38,
+  "sapm": 3.83,
+  "str_def": 0.5,
+  "td_avg": 1.95,
+  "td_acc": 0.6,
+  "td_def": 0.87,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "35e1f9984ed64206",
+  "name": "Ryan MacDonald",
+  "nickname": "Main Event",
+  "height_inches": 71,
+  "weight_lbs": 135,
+  "reach_inches": 71,
+  "stance": "Switch",
+  "dob": "1993-03-18",
+  "gender": "male",
+  "record_wins": 10,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.28,
+  "str_acc": 0.29,
+  "sapm": 6.49,
+  "str_def": 0.45,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.0,
+  "sub_avg": 0.0
+}

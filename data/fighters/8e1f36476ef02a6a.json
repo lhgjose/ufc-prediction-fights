@@ -1,0 +1,23 @@
+{
+  "fighter_id": "8e1f36476ef02a6a",
+  "name": "Jennifer Maia",
+  "nickname": "",
+  "height_inches": 64,
+  "weight_lbs": 125,
+  "reach_inches": 64,
+  "stance": "Orthodox",
+  "dob": "1988-10-06",
+  "gender": "female",
+  "record_wins": 21,
+  "record_losses": 10,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.35,
+  "str_acc": 0.38,
+  "sapm": 4.52,
+  "str_def": 0.55,
+  "td_avg": 0.42,
+  "td_acc": 0.27,
+  "td_def": 0.58,
+  "sub_avg": 0.1
+}

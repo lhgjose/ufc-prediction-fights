@@ -1,0 +1,23 @@
+{
+  "fighter_id": "a495f599e787614f",
+  "name": "Alonzo Menifield",
+  "nickname": "Atomic",
+  "height_inches": 72,
+  "weight_lbs": 205,
+  "reach_inches": 76,
+  "stance": "Orthodox",
+  "dob": "1987-10-18",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.77,
+  "str_acc": 0.53,
+  "sapm": 3.81,
+  "str_def": 0.5,
+  "td_avg": 0.5,
+  "td_acc": 0.31,
+  "td_def": 0.78,
+  "sub_avg": 0.2
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "7f6ed67d3ed3c036",
+  "name": "Cody Durden",
+  "nickname": "Custom Made",
+  "height_inches": 67,
+  "weight_lbs": 125,
+  "reach_inches": 67,
+  "stance": "Southpaw",
+  "dob": "1991-03-29",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 9,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.66,
+  "str_acc": 0.44,
+  "sapm": 4.47,
+  "str_def": 0.5,
+  "td_avg": 3.99,
+  "td_acc": 0.47,
+  "td_def": 0.75,
+  "sub_avg": 0.7
+}

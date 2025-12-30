@@ -1,0 +1,23 @@
+{
+  "fighter_id": "bf2c8e01b07d3eb1",
+  "name": "Myktybek Orolbai",
+  "nickname": "",
+  "height_inches": 70,
+  "weight_lbs": 170,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "1998-02-10",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 2,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.24,
+  "str_acc": 0.48,
+  "sapm": 3.31,
+  "str_def": 0.5,
+  "td_avg": 5.48,
+  "td_acc": 0.45,
+  "td_def": 0.4,
+  "sub_avg": 0.6
+}

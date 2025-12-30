@@ -1,0 +1,23 @@
+{
+  "fighter_id": "404ecb2700844072",
+  "name": "DeAnna Bennett",
+  "nickname": "The Argentine Assassin",
+  "height_inches": 64,
+  "weight_lbs": 125,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1984-11-18",
+  "gender": "female",
+  "record_wins": 8,
+  "record_losses": 3,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.13,
+  "str_acc": 0.58,
+  "sapm": 3.27,
+  "str_def": 0.58,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.0,
+  "sub_avg": 1.0
+}

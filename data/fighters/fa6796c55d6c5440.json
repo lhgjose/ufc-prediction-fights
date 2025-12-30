@@ -1,0 +1,23 @@
+{
+  "fighter_id": "fa6796c55d6c5440",
+  "name": "Curtis Blaydes",
+  "nickname": "Razor",
+  "height_inches": 76,
+  "weight_lbs": 265,
+  "reach_inches": 80,
+  "stance": "Orthodox",
+  "dob": "1991-02-18",
+  "gender": "male",
+  "record_wins": 19,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 3.56,
+  "str_acc": 0.5,
+  "sapm": 2.0,
+  "str_def": 0.58,
+  "td_avg": 5.38,
+  "td_acc": 0.48,
+  "td_def": 0.31,
+  "sub_avg": 0.0
+}

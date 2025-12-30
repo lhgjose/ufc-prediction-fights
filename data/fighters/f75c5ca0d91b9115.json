@@ -1,0 +1,23 @@
+{
+  "fighter_id": "f75c5ca0d91b9115",
+  "name": "Richie Smullen",
+  "nickname": "",
+  "height_inches": 69,
+  "weight_lbs": 155,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1991-08-17",
+  "gender": "male",
+  "record_wins": 3,
+  "record_losses": 1,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 1.98,
+  "str_acc": 0.77,
+  "sapm": 2.26,
+  "str_def": 0.65,
+  "td_avg": 8.49,
+  "td_acc": 0.66,
+  "td_def": 0.0,
+  "sub_avg": 0.0
+}

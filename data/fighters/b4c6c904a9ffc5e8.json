@@ -1,0 +1,23 @@
+{
+  "fighter_id": "b4c6c904a9ffc5e8",
+  "name": "Ashley Yoder",
+  "nickname": "SpiderMonkey",
+  "height_inches": 67,
+  "weight_lbs": 115,
+  "reach_inches": 69,
+  "stance": "Southpaw",
+  "dob": "1987-10-20",
+  "gender": "female",
+  "record_wins": 8,
+  "record_losses": 9,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.42,
+  "str_acc": 0.39,
+  "sapm": 4.13,
+  "str_def": 0.47,
+  "td_avg": 1.09,
+  "td_acc": 0.27,
+  "td_def": 0.66,
+  "sub_avg": 0.6
+}

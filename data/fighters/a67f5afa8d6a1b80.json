@@ -1,0 +1,23 @@
+{
+  "fighter_id": "a67f5afa8d6a1b80",
+  "name": "Ryan Spann",
+  "nickname": "Superman",
+  "height_inches": 77,
+  "weight_lbs": 205,
+  "reach_inches": 79,
+  "stance": "Orthodox",
+  "dob": "1991-08-24",
+  "gender": "male",
+  "record_wins": 23,
+  "record_losses": 11,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.19,
+  "str_acc": 0.39,
+  "sapm": 4.14,
+  "str_def": 0.43,
+  "td_avg": 1.3,
+  "td_acc": 0.34,
+  "td_def": 0.52,
+  "sub_avg": 1.8
+}

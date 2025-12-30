@@ -1,0 +1,23 @@
+{
+  "fighter_id": "2e45d08b3f2f02c8",
+  "name": "Malcolm Wellmaker",
+  "nickname": "The Machine",
+  "height_inches": 70,
+  "weight_lbs": 135,
+  "reach_inches": 71,
+  "stance": "Switch",
+  "dob": "1994-06-04",
+  "gender": "male",
+  "record_wins": 10,
+  "record_losses": 1,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.8,
+  "str_acc": 0.56,
+  "sapm": 5.39,
+  "str_def": 0.52,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.57,
+  "sub_avg": 0.0
+}

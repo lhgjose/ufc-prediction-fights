@@ -1,0 +1,23 @@
+{
+  "fighter_id": "f2b6fdb20675b11c",
+  "name": "Mike Perry",
+  "nickname": "Platinum",
+  "height_inches": 70,
+  "weight_lbs": 170,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1991-09-15",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 8,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.32,
+  "str_acc": 0.47,
+  "sapm": 5.16,
+  "str_def": 0.52,
+  "td_avg": 0.81,
+  "td_acc": 0.4,
+  "td_def": 0.78,
+  "sub_avg": 0.2
+}

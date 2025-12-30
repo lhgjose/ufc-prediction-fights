@@ -1,0 +1,23 @@
+{
+  "fighter_id": "c730a0be691dc081",
+  "name": "Jared Gooden",
+  "nickname": "NiteTrain",
+  "height_inches": 72,
+  "weight_lbs": 170,
+  "reach_inches": 77,
+  "stance": "Orthodox",
+  "dob": "1993-12-05",
+  "gender": "male",
+  "record_wins": 23,
+  "record_losses": 10,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.4,
+  "str_acc": 0.48,
+  "sapm": 6.74,
+  "str_def": 0.45,
+  "td_avg": 0.91,
+  "td_acc": 0.45,
+  "td_def": 0.65,
+  "sub_avg": 0.4
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "0c9c0a43d3f3f49d",
+  "name": "Marcelo Guimaraes",
+  "nickname": "Magrao",
+  "height_inches": 72,
+  "weight_lbs": 185,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1983-06-25",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 2,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.67,
+  "str_acc": 0.51,
+  "sapm": 4.41,
+  "str_def": 0.62,
+  "td_avg": 1.99,
+  "td_acc": 0.13,
+  "td_def": 0.0,
+  "sub_avg": 0.0
+}

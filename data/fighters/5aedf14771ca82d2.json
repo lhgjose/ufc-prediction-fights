@@ -1,0 +1,23 @@
+{
+  "fighter_id": "5aedf14771ca82d2",
+  "name": "Wilson Reis",
+  "nickname": "",
+  "height_inches": 64,
+  "weight_lbs": 125,
+  "reach_inches": 65,
+  "stance": "Southpaw",
+  "dob": "1985-01-06",
+  "gender": "male",
+  "record_wins": 23,
+  "record_losses": 10,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 1.83,
+  "str_acc": 0.29,
+  "sapm": 3.04,
+  "str_def": 0.55,
+  "td_avg": 5.15,
+  "td_acc": 0.42,
+  "td_def": 0.47,
+  "sub_avg": 0.6
+}

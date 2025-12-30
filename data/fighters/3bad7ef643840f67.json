@@ -1,0 +1,23 @@
+{
+  "fighter_id": "3bad7ef643840f67",
+  "name": "Joe Lauzon",
+  "nickname": "",
+  "height_inches": 70,
+  "weight_lbs": 155,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1984-05-22",
+  "gender": "male",
+  "record_wins": 28,
+  "record_losses": 16,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.84,
+  "str_acc": 0.39,
+  "sapm": 5.39,
+  "str_def": 0.54,
+  "td_avg": 2.39,
+  "td_acc": 0.45,
+  "td_def": 0.54,
+  "sub_avg": 2.0
+}

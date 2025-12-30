@@ -1,0 +1,23 @@
+{
+  "fighter_id": "52b6bf4528130e86",
+  "name": "Shem Rock",
+  "nickname": "",
+  "height_inches": 71,
+  "weight_lbs": 155,
+  "reach_inches": 73,
+  "stance": "Southpaw",
+  "dob": "1993-11-05",
+  "gender": "male",
+  "record_wins": 12,
+  "record_losses": 2,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.93,
+  "str_acc": 0.42,
+  "sapm": 3.4,
+  "str_def": 0.56,
+  "td_avg": 1.0,
+  "td_acc": 0.11,
+  "td_def": 0.8,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "cffb87059e645bd1",
+  "name": "Denise Gomes",
+  "nickname": "Dee",
+  "height_inches": 62,
+  "weight_lbs": 115,
+  "reach_inches": 63,
+  "stance": "Orthodox",
+  "dob": "1999-12-30",
+  "gender": "female",
+  "record_wins": 12,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.43,
+  "str_acc": 0.49,
+  "sapm": 3.16,
+  "str_def": 0.51,
+  "td_avg": 1.45,
+  "td_acc": 0.34,
+  "td_def": 0.66,
+  "sub_avg": 0.7
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "597499ac7a5aac62",
+  "name": "Abdul-Kareem Al-Selwady",
+  "nickname": "Pride of Palestine",
+  "height_inches": 68,
+  "weight_lbs": 155,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1995-04-10",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.14,
+  "str_acc": 0.34,
+  "sapm": 3.6,
+  "str_def": 0.59,
+  "td_avg": 2.32,
+  "td_acc": 0.3,
+  "td_def": 0.2,
+  "sub_avg": 0.0
+}

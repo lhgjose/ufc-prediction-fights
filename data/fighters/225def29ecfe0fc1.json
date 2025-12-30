@@ -1,0 +1,23 @@
+{
+  "fighter_id": "225def29ecfe0fc1",
+  "name": "Carlos Huachin",
+  "nickname": "Perro Malo",
+  "height_inches": 64,
+  "weight_lbs": 135,
+  "reach_inches": 67,
+  "stance": "Southpaw",
+  "dob": "1996-06-04",
+  "gender": "male",
+  "record_wins": 10,
+  "record_losses": 5,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.1,
+  "str_acc": 0.21,
+  "sapm": 4.8,
+  "str_def": 0.5,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.66,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "13a0275fa13c4d26",
+  "name": "Jared Cannonier",
+  "nickname": "The Killa Gorilla",
+  "height_inches": 71,
+  "weight_lbs": 185,
+  "reach_inches": 77,
+  "stance": "Switch",
+  "dob": "1984-03-16",
+  "gender": "male",
+  "record_wins": 18,
+  "record_losses": 9,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.42,
+  "str_acc": 0.49,
+  "sapm": 4.35,
+  "str_def": 0.56,
+  "td_avg": 0.54,
+  "td_acc": 0.4,
+  "td_def": 0.64,
+  "sub_avg": 0.0
+}

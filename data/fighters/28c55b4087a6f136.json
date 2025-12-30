@@ -1,0 +1,23 @@
+{
+  "fighter_id": "28c55b4087a6f136",
+  "name": "Elvis Mutapcic",
+  "nickname": "The King",
+  "height_inches": 72,
+  "weight_lbs": 185,
+  "reach_inches": 72,
+  "stance": "Orthodox",
+  "dob": "1986-07-19",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.41,
+  "str_acc": 0.4,
+  "sapm": 4.27,
+  "str_def": 0.38,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.81,
+  "sub_avg": 0.0
+}

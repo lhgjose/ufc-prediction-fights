@@ -1,0 +1,23 @@
+{
+  "fighter_id": "2c5f5749569eef66",
+  "name": "Tainara Lisboa",
+  "nickname": "Thai Panther",
+  "height_inches": 67,
+  "weight_lbs": 135,
+  "reach_inches": 67,
+  "stance": "Orthodox",
+  "dob": "1991-03-02",
+  "gender": "female",
+  "record_wins": 7,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.01,
+  "str_acc": 0.44,
+  "sapm": 2.88,
+  "str_def": 0.45,
+  "td_avg": 1.67,
+  "td_acc": 0.31,
+  "td_def": 0.53,
+  "sub_avg": 0.3
+}

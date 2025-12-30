@@ -1,0 +1,23 @@
+{
+  "fighter_id": "8f0d576beba1cfcd",
+  "name": "Matt Dwyer",
+  "nickname": "",
+  "height_inches": 76,
+  "weight_lbs": 170,
+  "reach_inches": 76,
+  "stance": "Orthodox",
+  "dob": "1989-12-17",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.57,
+  "str_acc": 0.34,
+  "sapm": 3.24,
+  "str_def": 0.54,
+  "td_avg": 0.44,
+  "td_acc": 0.1,
+  "td_def": 0.6,
+  "sub_avg": 0.0
+}

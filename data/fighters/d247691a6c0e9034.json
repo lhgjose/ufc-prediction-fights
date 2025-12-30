@@ -1,0 +1,23 @@
+{
+  "fighter_id": "d247691a6c0e9034",
+  "name": "Cub Swanson",
+  "nickname": "",
+  "height_inches": 68,
+  "weight_lbs": 145,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "1983-11-02",
+  "gender": "male",
+  "record_wins": 30,
+  "record_losses": 14,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.79,
+  "str_acc": 0.51,
+  "sapm": 4.0,
+  "str_def": 0.59,
+  "td_avg": 1.01,
+  "td_acc": 0.5,
+  "td_def": 0.63,
+  "sub_avg": 0.4
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "a8e6a69796280f17",
+  "name": "Nate Marquardt",
+  "nickname": "The Great",
+  "height_inches": 72,
+  "weight_lbs": 185,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "1979-04-20",
+  "gender": "male",
+  "record_wins": 35,
+  "record_losses": 19,
+  "record_draws": 2,
+  "record_nc": 0,
+  "slpm": 2.71,
+  "str_acc": 0.49,
+  "sapm": 2.32,
+  "str_def": 0.55,
+  "td_avg": 1.87,
+  "td_acc": 0.51,
+  "td_def": 0.7,
+  "sub_avg": 0.8
+}

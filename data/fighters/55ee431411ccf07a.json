@@ -1,0 +1,23 @@
+{
+  "fighter_id": "55ee431411ccf07a",
+  "name": "Olivier Aubin-Mercier",
+  "nickname": "The Canadian Gangster",
+  "height_inches": 69,
+  "weight_lbs": 155,
+  "reach_inches": 70,
+  "stance": "Southpaw",
+  "dob": "1989-02-23",
+  "gender": "male",
+  "record_wins": 11,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.48,
+  "str_acc": 0.51,
+  "sapm": 2.97,
+  "str_def": 0.55,
+  "td_avg": 2.36,
+  "td_acc": 0.33,
+  "td_def": 0.7,
+  "sub_avg": 0.5
+}

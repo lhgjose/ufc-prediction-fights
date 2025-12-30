@@ -1,0 +1,23 @@
+{
+  "fighter_id": "6a96ad1bc34fb113",
+  "name": "Ismail Naurdiev",
+  "nickname": "",
+  "height_inches": 70,
+  "weight_lbs": 185,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "1996-08-18",
+  "gender": "male",
+  "record_wins": 25,
+  "record_losses": 8,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.66,
+  "str_acc": 0.52,
+  "sapm": 1.75,
+  "str_def": 0.64,
+  "td_avg": 1.48,
+  "td_acc": 0.4,
+  "td_def": 0.73,
+  "sub_avg": 0.2
+}

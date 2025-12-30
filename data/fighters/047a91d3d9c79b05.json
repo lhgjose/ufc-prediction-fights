@@ -1,0 +1,23 @@
+{
+  "fighter_id": "047a91d3d9c79b05",
+  "name": "Collin Anglin",
+  "nickname": "",
+  "height_inches": 69,
+  "weight_lbs": 145,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1993-02-20",
+  "gender": "male",
+  "record_wins": 8,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.59,
+  "str_acc": 0.48,
+  "sapm": 5.54,
+  "str_def": 0.51,
+  "td_avg": 2.28,
+  "td_acc": 0.66,
+  "td_def": 1.0,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "7339d340aa2889cb",
+  "name": "Kyle Noke",
+  "nickname": "",
+  "height_inches": 73,
+  "weight_lbs": 170,
+  "reach_inches": 76,
+  "stance": "Southpaw",
+  "dob": "1980-03-18",
+  "gender": "male",
+  "record_wins": 22,
+  "record_losses": 10,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.23,
+  "str_acc": 0.5,
+  "sapm": 2.09,
+  "str_def": 0.64,
+  "td_avg": 1.53,
+  "td_acc": 0.54,
+  "td_def": 0.66,
+  "sub_avg": 0.8
+}

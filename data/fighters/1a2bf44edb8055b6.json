@@ -1,0 +1,23 @@
+{
+  "fighter_id": "1a2bf44edb8055b6",
+  "name": "Serhiy Sidey",
+  "nickname": "",
+  "height_inches": 71,
+  "weight_lbs": 135,
+  "reach_inches": 72,
+  "stance": "Switch",
+  "dob": "1996-07-04",
+  "gender": "male",
+  "record_wins": 12,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.49,
+  "str_acc": 0.39,
+  "sapm": 4.26,
+  "str_def": 0.54,
+  "td_avg": 1.58,
+  "td_acc": 0.25,
+  "td_def": 0.2,
+  "sub_avg": 1.3
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "d0c29452d3272603",
+  "name": "Dan Miller",
+  "nickname": "",
+  "height_inches": 73,
+  "weight_lbs": 185,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "1981-06-30",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 8,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 2.03,
+  "str_acc": 0.36,
+  "sapm": 3.06,
+  "str_def": 0.49,
+  "td_avg": 1.67,
+  "td_acc": 0.54,
+  "td_def": 0.47,
+  "sub_avg": 1.8
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "887961364be5ceb3",
+  "name": "King Green",
+  "nickname": "",
+  "height_inches": 70,
+  "weight_lbs": 155,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1986-09-09",
+  "gender": "male",
+  "record_wins": 33,
+  "record_losses": 17,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 6.3,
+  "str_acc": 0.52,
+  "sapm": 3.64,
+  "str_def": 0.62,
+  "td_avg": 1.21,
+  "td_acc": 0.4,
+  "td_def": 0.72,
+  "sub_avg": 0.3
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "8765559b6a29a421",
+  "name": "Gaetano Pirrello",
+  "nickname": "El Tigre",
+  "height_inches": 67,
+  "weight_lbs": 135,
+  "reach_inches": 65,
+  "stance": "Orthodox",
+  "dob": "1992-04-29",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 0.99,
+  "str_acc": 0.55,
+  "sapm": 2.44,
+  "str_def": 0.42,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.3,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "9014c02eff8b3d62",
+  "name": "Carlos Ulberg",
+  "nickname": "Black Jag",
+  "height_inches": 76,
+  "weight_lbs": 205,
+  "reach_inches": 77,
+  "stance": "Orthodox",
+  "dob": "1990-11-07",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 1,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 6.54,
+  "str_acc": 0.55,
+  "sapm": 4.04,
+  "str_def": 0.51,
+  "td_avg": 0.55,
+  "td_acc": 0.6,
+  "td_def": 0.85,
+  "sub_avg": 0.2
+}

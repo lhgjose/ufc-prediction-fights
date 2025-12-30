@@ -1,0 +1,23 @@
+{
+  "fighter_id": "98c23cb6da5b3352",
+  "name": "Aleksei Oleinik",
+  "nickname": "The Boa Constrictor",
+  "height_inches": 74,
+  "weight_lbs": 240,
+  "reach_inches": 80,
+  "stance": "Orthodox",
+  "dob": "1977-06-20",
+  "gender": "male",
+  "record_wins": 60,
+  "record_losses": 17,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.29,
+  "str_acc": 0.48,
+  "sapm": 3.8,
+  "str_def": 0.44,
+  "td_avg": 1.82,
+  "td_acc": 0.46,
+  "td_def": 0.37,
+  "sub_avg": 1.9
+}

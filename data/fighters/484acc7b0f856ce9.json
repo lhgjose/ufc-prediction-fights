@@ -1,0 +1,23 @@
+{
+  "fighter_id": "484acc7b0f856ce9",
+  "name": "Ben Saunders",
+  "nickname": "Killa B",
+  "height_inches": 74,
+  "weight_lbs": 170,
+  "reach_inches": 77,
+  "stance": "Orthodox",
+  "dob": "1983-04-13",
+  "gender": "male",
+  "record_wins": 22,
+  "record_losses": 13,
+  "record_draws": 2,
+  "record_nc": 0,
+  "slpm": 3.23,
+  "str_acc": 0.5,
+  "sapm": 3.58,
+  "str_def": 0.51,
+  "td_avg": 0.2,
+  "td_acc": 0.4,
+  "td_def": 0.66,
+  "sub_avg": 1.3
+}

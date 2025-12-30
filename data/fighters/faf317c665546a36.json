@@ -1,0 +1,23 @@
+{
+  "fighter_id": "faf317c665546a36",
+  "name": "Santiago Luna",
+  "nickname": "BorderBoy",
+  "height_inches": 69,
+  "weight_lbs": 135,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "2004-08-06",
+  "gender": "male",
+  "record_wins": 7,
+  "record_losses": 0,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.36,
+  "str_acc": 0.37,
+  "sapm": 4.29,
+  "str_def": 0.5,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 1.0,
+  "sub_avg": 0.0
+}

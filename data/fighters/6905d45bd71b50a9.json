@@ -1,0 +1,23 @@
+{
+  "fighter_id": "6905d45bd71b50a9",
+  "name": "Leo Kuntz",
+  "nickname": "The Lion",
+  "height_inches": 70,
+  "weight_lbs": 155,
+  "reach_inches": null,
+  "stance": "Orthodox",
+  "dob": "1983-10-03",
+  "gender": "male",
+  "record_wins": 18,
+  "record_losses": 4,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 1.68,
+  "str_acc": 0.32,
+  "sapm": 3.8,
+  "str_def": 0.45,
+  "td_avg": 1.99,
+  "td_acc": 0.25,
+  "td_def": 0.33,
+  "sub_avg": 0.7
+}

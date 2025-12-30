@@ -1,0 +1,23 @@
+{
+  "fighter_id": "528b071cf3da7c56",
+  "name": "Luana Carolina",
+  "nickname": "Dread",
+  "height_inches": 66,
+  "weight_lbs": 135,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1993-06-11",
+  "gender": "female",
+  "record_wins": 11,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.65,
+  "str_acc": 0.51,
+  "sapm": 3.46,
+  "str_def": 0.51,
+  "td_avg": 0.3,
+  "td_acc": 0.37,
+  "td_def": 0.68,
+  "sub_avg": 0.6
+}

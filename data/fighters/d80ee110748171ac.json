@@ -1,0 +1,23 @@
+{
+  "fighter_id": "d80ee110748171ac",
+  "name": "Mike Breeden",
+  "nickname": "Money",
+  "height_inches": 70,
+  "weight_lbs": 155,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "1989-04-21",
+  "gender": "male",
+  "record_wins": 11,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.75,
+  "str_acc": 0.45,
+  "sapm": 7.28,
+  "str_def": 0.42,
+  "td_avg": 0.98,
+  "td_acc": 0.3,
+  "td_def": 0.67,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "4798e823ada58fe9",
+  "name": "Veronica Hardy",
+  "nickname": "",
+  "height_inches": 64,
+  "weight_lbs": 125,
+  "reach_inches": 64,
+  "stance": "Southpaw",
+  "dob": "1995-10-30",
+  "gender": "female",
+  "record_wins": 10,
+  "record_losses": 5,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.06,
+  "str_acc": 0.45,
+  "sapm": 3.24,
+  "str_def": 0.5,
+  "td_avg": 0.82,
+  "td_acc": 0.41,
+  "td_def": 0.51,
+  "sub_avg": 0.3
+}

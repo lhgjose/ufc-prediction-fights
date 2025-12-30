@@ -1,0 +1,23 @@
+{
+  "fighter_id": "0c258d1d8e16e5f1",
+  "name": "Kevin Natividad",
+  "nickname": "Quicksand",
+  "height_inches": 66,
+  "weight_lbs": 135,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "1993-04-02",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.68,
+  "str_acc": 0.34,
+  "sapm": 4.29,
+  "str_def": 0.47,
+  "td_avg": 3.66,
+  "td_acc": 0.5,
+  "td_def": 0.83,
+  "sub_avg": 0.0
+}

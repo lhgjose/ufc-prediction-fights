@@ -1,0 +1,23 @@
+{
+  "fighter_id": "262d32ebda89efc4",
+  "name": "Natalia Silva",
+  "nickname": "",
+  "height_inches": 64,
+  "weight_lbs": 125,
+  "reach_inches": 65,
+  "stance": "Southpaw",
+  "dob": "1997-02-03",
+  "gender": "female",
+  "record_wins": 19,
+  "record_losses": 5,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 5.04,
+  "str_acc": 0.46,
+  "sapm": 2.46,
+  "str_def": 0.65,
+  "td_avg": 0.34,
+  "td_acc": 0.25,
+  "td_def": 0.92,
+  "sub_avg": 0.0
+}

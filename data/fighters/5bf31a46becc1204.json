@@ -1,0 +1,23 @@
+{
+  "fighter_id": "5bf31a46becc1204",
+  "name": "Michael Trizano",
+  "nickname": "The Lone Wolf",
+  "height_inches": 71,
+  "weight_lbs": 145,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1991-12-31",
+  "gender": "male",
+  "record_wins": 11,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.63,
+  "str_acc": 0.53,
+  "sapm": 4.4,
+  "str_def": 0.5,
+  "td_avg": 0.36,
+  "td_acc": 0.66,
+  "td_def": 0.72,
+  "sub_avg": 0.5
+}

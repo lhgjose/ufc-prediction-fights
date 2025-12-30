@@ -1,0 +1,23 @@
+{
+  "fighter_id": "0a95c474e61a6c44",
+  "name": "Adam Yandiev",
+  "nickname": "Boroda",
+  "height_inches": 69,
+  "weight_lbs": 185,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "1988-08-07",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 1,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 0.18,
+  "str_acc": 0.08,
+  "sapm": 6.14,
+  "str_def": 0.36,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.25,
+  "sub_avg": 0.0
+}

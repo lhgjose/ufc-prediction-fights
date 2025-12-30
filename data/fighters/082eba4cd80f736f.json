@@ -1,0 +1,23 @@
+{
+  "fighter_id": "082eba4cd80f736f",
+  "name": "Jarno Errens",
+  "nickname": "",
+  "height_inches": 71,
+  "weight_lbs": 145,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1994-11-17",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.29,
+  "str_acc": 0.44,
+  "sapm": 3.29,
+  "str_def": 0.61,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.33,
+  "sub_avg": 0.3
+}

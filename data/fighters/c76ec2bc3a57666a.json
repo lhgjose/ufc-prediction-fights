@@ -1,0 +1,23 @@
+{
+  "fighter_id": "c76ec2bc3a57666a",
+  "name": "Mitch Clarke",
+  "nickname": "Danger Zone",
+  "height_inches": 70,
+  "weight_lbs": 155,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1985-11-24",
+  "gender": "male",
+  "record_wins": 11,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.35,
+  "str_acc": 0.34,
+  "sapm": 3.27,
+  "str_def": 0.47,
+  "td_avg": 0.64,
+  "td_acc": 0.15,
+  "td_def": 0.5,
+  "sub_avg": 0.4
+}

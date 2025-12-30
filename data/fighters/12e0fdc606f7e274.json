@@ -1,0 +1,23 @@
+{
+  "fighter_id": "12e0fdc606f7e274",
+  "name": "Luis Saldana",
+  "nickname": "",
+  "height_inches": 71,
+  "weight_lbs": 145,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1991-01-27",
+  "gender": "male",
+  "record_wins": 16,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 5.16,
+  "str_acc": 0.5,
+  "sapm": 3.65,
+  "str_def": 0.6,
+  "td_avg": 0.64,
+  "td_acc": 0.17,
+  "td_def": 0.44,
+  "sub_avg": 0.2
+}

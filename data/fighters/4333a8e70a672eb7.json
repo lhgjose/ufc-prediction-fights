@@ -1,0 +1,23 @@
+{
+  "fighter_id": "4333a8e70a672eb7",
+  "name": "Brogan Walker",
+  "nickname": "The Bear",
+  "height_inches": 64,
+  "weight_lbs": 125,
+  "reach_inches": 67,
+  "stance": "Switch",
+  "dob": "1988-08-02",
+  "gender": "female",
+  "record_wins": 8,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 1.84,
+  "str_acc": 0.32,
+  "sapm": 3.32,
+  "str_def": 0.47,
+  "td_avg": 1.02,
+  "td_acc": 0.75,
+  "td_def": 0.11,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "700a674c042b7a96",
+  "name": "Cody Gibson",
+  "nickname": "The Renegade",
+  "height_inches": 70,
+  "weight_lbs": 135,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1987-09-11",
+  "gender": "male",
+  "record_wins": 22,
+  "record_losses": 12,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.63,
+  "str_acc": 0.46,
+  "sapm": 3.22,
+  "str_def": 0.57,
+  "td_avg": 2.12,
+  "td_acc": 0.37,
+  "td_def": 0.69,
+  "sub_avg": 0.6
+}

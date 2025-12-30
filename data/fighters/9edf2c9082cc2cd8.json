@@ -1,0 +1,23 @@
+{
+  "fighter_id": "9edf2c9082cc2cd8",
+  "name": "Blood Diamond",
+  "nickname": "",
+  "height_inches": 71,
+  "weight_lbs": 170,
+  "reach_inches": 76,
+  "stance": "Switch",
+  "dob": "1988-07-10",
+  "gender": "male",
+  "record_wins": 3,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.12,
+  "str_acc": 0.55,
+  "sapm": 2.17,
+  "str_def": 0.48,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.73,
+  "sub_avg": 0.0
+}

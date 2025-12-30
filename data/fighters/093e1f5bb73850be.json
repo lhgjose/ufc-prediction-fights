@@ -1,0 +1,23 @@
+{
+  "fighter_id": "093e1f5bb73850be",
+  "name": "Anthony Hernandez",
+  "nickname": "Fluffy",
+  "height_inches": 72,
+  "weight_lbs": 185,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1993-10-18",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 4.59,
+  "str_acc": 0.62,
+  "sapm": 2.53,
+  "str_def": 0.49,
+  "td_avg": 6.46,
+  "td_acc": 0.48,
+  "td_def": 0.68,
+  "sub_avg": 1.8
+}

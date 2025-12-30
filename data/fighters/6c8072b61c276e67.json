@@ -1,0 +1,23 @@
+{
+  "fighter_id": "6c8072b61c276e67",
+  "name": "Jessica-Rose Clark",
+  "nickname": "",
+  "height_inches": 65,
+  "weight_lbs": 135,
+  "reach_inches": 64,
+  "stance": "Orthodox",
+  "dob": "1987-11-28",
+  "gender": "female",
+  "record_wins": 11,
+  "record_losses": 9,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 3.73,
+  "str_acc": 0.51,
+  "sapm": 3.51,
+  "str_def": 0.58,
+  "td_avg": 1.66,
+  "td_acc": 0.42,
+  "td_def": 0.62,
+  "sub_avg": 0.3
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "cf615eb4b7862c76",
+  "name": "Hayder Hassan",
+  "nickname": "Hulk",
+  "height_inches": 70,
+  "weight_lbs": 170,
+  "reach_inches": null,
+  "stance": null,
+  "dob": "1982-10-20",
+  "gender": "male",
+  "record_wins": 6,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.11,
+  "str_acc": 0.46,
+  "sapm": 3.16,
+  "str_def": 0.48,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.25,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "7138a15258dabf20",
+  "name": "Bruna Brasil",
+  "nickname": "",
+  "height_inches": 66,
+  "weight_lbs": 115,
+  "reach_inches": 65,
+  "stance": "Orthodox",
+  "dob": "1993-09-07",
+  "gender": "female",
+  "record_wins": 11,
+  "record_losses": 5,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.66,
+  "str_acc": 0.56,
+  "sapm": 3.82,
+  "str_def": 0.52,
+  "td_avg": 1.46,
+  "td_acc": 0.64,
+  "td_def": 0.53,
+  "sub_avg": 0.2
+}

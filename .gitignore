@@ -46,13 +46,10 @@ htmlcov/
 # macOS
 .DS_Store
 
-# Data (keep structure, ignore contents)
-data/fighters/*.json
-data/fights/*.json
-data/events/*.json
-data/ratings/*.json
+# Data - include in repo for deployment
+# Tracking data (predictions) - ignore for privacy
 data/tracking/*.json
-!data/**/.gitkeep
+!data/tracking/.gitkeep
 
 # Streamlit
 .streamlit/secrets.toml

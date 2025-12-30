@@ -1,0 +1,23 @@
+{
+  "fighter_id": "9bcf8603ceb25680",
+  "name": "Dong Hyun Kim",
+  "nickname": "Stun Gun",
+  "height_inches": 74,
+  "weight_lbs": 170,
+  "reach_inches": 76,
+  "stance": "Southpaw",
+  "dob": "1981-11-17",
+  "gender": "male",
+  "record_wins": 22,
+  "record_losses": 4,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 2.12,
+  "str_acc": 0.49,
+  "sapm": 1.89,
+  "str_def": 0.58,
+  "td_avg": 2.93,
+  "td_acc": 0.43,
+  "td_def": 0.71,
+  "sub_avg": 0.6
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "20bccc9bb4ceb23e",
+  "name": "Melquizael Costa",
+  "nickname": "The Dalmatian",
+  "height_inches": 70,
+  "weight_lbs": 145,
+  "reach_inches": 71,
+  "stance": "Southpaw",
+  "dob": "1996-09-14",
+  "gender": "male",
+  "record_wins": 25,
+  "record_losses": 7,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.42,
+  "str_acc": 0.49,
+  "sapm": 3.06,
+  "str_def": 0.54,
+  "td_avg": 1.93,
+  "td_acc": 0.38,
+  "td_def": 0.58,
+  "sub_avg": 1.2
+}

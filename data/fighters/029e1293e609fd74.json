@@ -1,0 +1,23 @@
+{
+  "fighter_id": "029e1293e609fd74",
+  "name": "Abubakar Nurmagomedov",
+  "nickname": "",
+  "height_inches": 71,
+  "weight_lbs": 170,
+  "reach_inches": 72,
+  "stance": "Orthodox",
+  "dob": "1989-11-13",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 4,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.78,
+  "str_acc": 0.53,
+  "sapm": 2.61,
+  "str_def": 0.65,
+  "td_avg": 1.25,
+  "td_acc": 0.22,
+  "td_def": 0.88,
+  "sub_avg": 0.0
+}

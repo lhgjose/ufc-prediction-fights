@@ -1,0 +1,23 @@
+{
+  "fighter_id": "b67d6bacc68d4c92",
+  "name": "Daniel Santos",
+  "nickname": "Willycat",
+  "height_inches": 67,
+  "weight_lbs": 145,
+  "reach_inches": 67,
+  "stance": "Orthodox",
+  "dob": "1995-03-12",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.76,
+  "str_acc": 0.4,
+  "sapm": 5.03,
+  "str_def": 0.51,
+  "td_avg": 3.01,
+  "td_acc": 0.4,
+  "td_def": 0.73,
+  "sub_avg": 0.0
+}

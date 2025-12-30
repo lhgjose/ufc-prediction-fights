@@ -1,0 +1,23 @@
+{
+  "fighter_id": "e99eb0ef25885de5",
+  "name": "Mitch Ramirez",
+  "nickname": "",
+  "height_inches": 71,
+  "weight_lbs": 155,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1992-11-03",
+  "gender": "male",
+  "record_wins": 8,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.51,
+  "str_acc": 0.44,
+  "sapm": 3.98,
+  "str_def": 0.37,
+  "td_avg": 0.59,
+  "td_acc": 0.33,
+  "td_def": 0.25,
+  "sub_avg": 0.0
+}

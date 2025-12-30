@@ -1,0 +1,23 @@
+{
+  "fighter_id": "80d8aed0ca9b00f3",
+  "name": "Montana De La Rosa",
+  "nickname": "",
+  "height_inches": 67,
+  "weight_lbs": 125,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1995-02-14",
+  "gender": "female",
+  "record_wins": 13,
+  "record_losses": 9,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.9,
+  "str_acc": 0.37,
+  "sapm": 3.39,
+  "str_def": 0.45,
+  "td_avg": 1.85,
+  "td_acc": 0.33,
+  "td_def": 0.68,
+  "sub_avg": 0.8
+}

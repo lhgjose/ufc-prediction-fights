@@ -1,0 +1,23 @@
+{
+  "fighter_id": "3df5493bb279226f",
+  "name": "Amanda Lemos",
+  "nickname": "",
+  "height_inches": 64,
+  "weight_lbs": 115,
+  "reach_inches": 65,
+  "stance": "Southpaw",
+  "dob": "1987-05-22",
+  "gender": "female",
+  "record_wins": 15,
+  "record_losses": 5,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.75,
+  "str_acc": 0.55,
+  "sapm": 3.24,
+  "str_def": 0.45,
+  "td_avg": 1.02,
+  "td_acc": 0.62,
+  "td_def": 0.64,
+  "sub_avg": 0.7
+}

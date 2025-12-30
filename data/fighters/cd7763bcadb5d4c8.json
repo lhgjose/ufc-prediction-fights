@@ -1,0 +1,23 @@
+{
+  "fighter_id": "cd7763bcadb5d4c8",
+  "name": "Alan Patrick",
+  "nickname": "Nuguette",
+  "height_inches": 71,
+  "weight_lbs": 155,
+  "reach_inches": 74,
+  "stance": "Southpaw",
+  "dob": "1983-07-19",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 1.82,
+  "str_acc": 0.4,
+  "sapm": 2.95,
+  "str_def": 0.43,
+  "td_avg": 3.01,
+  "td_acc": 0.33,
+  "td_def": 0.43,
+  "sub_avg": 0.3
+}

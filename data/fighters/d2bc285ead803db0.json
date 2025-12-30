@@ -1,0 +1,23 @@
+{
+  "fighter_id": "d2bc285ead803db0",
+  "name": "Louis Smolka",
+  "nickname": "Da Last Samurai",
+  "height_inches": 69,
+  "weight_lbs": 135,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1991-07-16",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 9,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.67,
+  "str_acc": 0.47,
+  "sapm": 4.11,
+  "str_def": 0.53,
+  "td_avg": 1.69,
+  "td_acc": 0.35,
+  "td_def": 0.32,
+  "sub_avg": 1.8
+}

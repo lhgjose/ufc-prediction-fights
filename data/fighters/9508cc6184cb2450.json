@@ -1,0 +1,23 @@
+{
+  "fighter_id": "9508cc6184cb2450",
+  "name": "Eric McConico",
+  "nickname": "",
+  "height_inches": 72,
+  "weight_lbs": 185,
+  "reach_inches": 77,
+  "stance": "Southpaw",
+  "dob": "1990-05-09",
+  "gender": "male",
+  "record_wins": 10,
+  "record_losses": 4,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.61,
+  "str_acc": 0.43,
+  "sapm": 3.23,
+  "str_def": 0.46,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.64,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "8f2deefe8c5dfb5d",
+  "name": "Alberto Uda",
+  "nickname": "",
+  "height_inches": 75,
+  "weight_lbs": 185,
+  "reach_inches": null,
+  "stance": "Orthodox",
+  "dob": "1984-08-08",
+  "gender": "male",
+  "record_wins": 12,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 1.79,
+  "str_acc": 0.52,
+  "sapm": 3.49,
+  "str_def": 0.45,
+  "td_avg": 2.83,
+  "td_acc": 0.5,
+  "td_def": 0.66,
+  "sub_avg": 0.0
+}

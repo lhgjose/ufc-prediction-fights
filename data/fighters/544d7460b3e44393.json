@@ -1,0 +1,23 @@
+{
+  "fighter_id": "544d7460b3e44393",
+  "name": "Albert Morales",
+  "nickname": "The Warrior",
+  "height_inches": 69,
+  "weight_lbs": 135,
+  "reach_inches": 72,
+  "stance": "Orthodox",
+  "dob": "1991-05-25",
+  "gender": "male",
+  "record_wins": 7,
+  "record_losses": 4,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.81,
+  "str_acc": 0.35,
+  "sapm": 3.96,
+  "str_def": 0.56,
+  "td_avg": 0.91,
+  "td_acc": 0.35,
+  "td_def": 0.7,
+  "sub_avg": 0.2
+}

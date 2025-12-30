@@ -1,0 +1,23 @@
+{
+  "fighter_id": "6e00cfffd54653c4",
+  "name": "Tyson Nam",
+  "nickname": "",
+  "height_inches": 67,
+  "weight_lbs": 125,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1983-10-06",
+  "gender": "male",
+  "record_wins": 21,
+  "record_losses": 14,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.87,
+  "str_acc": 0.33,
+  "sapm": 4.97,
+  "str_def": 0.65,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.87,
+  "sub_avg": 0.0
+}

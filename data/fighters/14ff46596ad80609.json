@@ -1,0 +1,23 @@
+{
+  "fighter_id": "14ff46596ad80609",
+  "name": "Norman Parke",
+  "nickname": "Stormin'",
+  "height_inches": 71,
+  "weight_lbs": 155,
+  "reach_inches": 70,
+  "stance": "Southpaw",
+  "dob": "1986-12-22",
+  "gender": "male",
+  "record_wins": 23,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.06,
+  "str_acc": 0.35,
+  "sapm": 2.88,
+  "str_def": 0.64,
+  "td_avg": 1.98,
+  "td_acc": 0.26,
+  "td_def": 0.77,
+  "sub_avg": 0.0
+}

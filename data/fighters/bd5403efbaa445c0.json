@@ -1,0 +1,23 @@
+{
+  "fighter_id": "bd5403efbaa445c0",
+  "name": "Sean Soriano",
+  "nickname": "",
+  "height_inches": 69,
+  "weight_lbs": 145,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "1989-10-06",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 8,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.18,
+  "str_acc": 0.61,
+  "sapm": 2.14,
+  "str_def": 0.56,
+  "td_avg": 1.33,
+  "td_acc": 0.55,
+  "td_def": 0.52,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,20 @@
+{
+  "event_id": "354808cf38d9d73c",
+  "name": "UFC 194: Aldo vs McGregor",
+  "event_date": "2015-12-12",
+  "location": "Las Vegas, Nevada, USA",
+  "fight_ids": [
+    "b302e12550278ffd",
+    "ff389a4326fc9255",
+    "f83c6bdd553b5851",
+    "8fe1859721e95ce3",
+    "3b321550c8b4aae6",
+    "c4fd59db24f978ec",
+    "0eab2845f901f8b6",
+    "01924e35b149b28f",
+    "fa2e2a035b36b9d6",
+    "5edfc539cc58a28d",
+    "064404b0aaf6f95d",
+    "d48f938269b8ed0b"
+  ]
+}

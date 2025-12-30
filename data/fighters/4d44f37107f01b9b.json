@@ -1,0 +1,23 @@
+{
+  "fighter_id": "4d44f37107f01b9b",
+  "name": "Tom Lawlor",
+  "nickname": "Filthy",
+  "height_inches": 72,
+  "weight_lbs": 205,
+  "reach_inches": 74,
+  "stance": "Southpaw",
+  "dob": "1983-05-15",
+  "gender": "male",
+  "record_wins": 10,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 2.5,
+  "str_acc": 0.42,
+  "sapm": 2.41,
+  "str_def": 0.6,
+  "td_avg": 2.46,
+  "td_acc": 0.32,
+  "td_def": 0.57,
+  "sub_avg": 1.4
+}

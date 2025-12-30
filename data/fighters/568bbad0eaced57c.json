@@ -1,0 +1,23 @@
+{
+  "fighter_id": "568bbad0eaced57c",
+  "name": "Shanna Young",
+  "nickname": "The Shanimal",
+  "height_inches": 67,
+  "weight_lbs": 125,
+  "reach_inches": 65,
+  "stance": "Orthodox",
+  "dob": "1991-02-20",
+  "gender": "female",
+  "record_wins": 9,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.18,
+  "str_acc": 0.47,
+  "sapm": 4.88,
+  "str_def": 0.43,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.53,
+  "sub_avg": 0.6
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "57b10fca4f9c9a7a",
+  "name": "Alex Oliveira",
+  "nickname": "Cowboy",
+  "height_inches": 71,
+  "weight_lbs": 170,
+  "reach_inches": 76,
+  "stance": "Orthodox",
+  "dob": "1988-02-21",
+  "gender": "male",
+  "record_wins": 22,
+  "record_losses": 12,
+  "record_draws": 1,
+  "record_nc": 2,
+  "slpm": 2.99,
+  "str_acc": 0.51,
+  "sapm": 2.55,
+  "str_def": 0.46,
+  "td_avg": 2.35,
+  "td_acc": 0.38,
+  "td_def": 0.63,
+  "sub_avg": 0.6
+}

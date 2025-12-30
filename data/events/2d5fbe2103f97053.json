@@ -1,0 +1,20 @@
+{
+  "event_id": "2d5fbe2103f97053",
+  "name": "UFC 235: Jones vs. Smith",
+  "event_date": "2019-03-02",
+  "location": "Las Vegas, Nevada, USA",
+  "fight_ids": [
+    "5b9f545890407976",
+    "851645c373f50e16",
+    "97dabff880f33202",
+    "ec149b086b0e7fac",
+    "39fa341fb9161d6f",
+    "bac3ac8d7330d05d",
+    "7adaf85915993137",
+    "3744d4cdaa6b242b",
+    "e3826e06d68ed4af",
+    "7a26c9407ef64e10",
+    "8adc6266a7c2fd40",
+    "0405e4446e8f239a"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "de75d1c45a39e221",
+  "name": "Sergio Pettis",
+  "nickname": "",
+  "height_inches": 66,
+  "weight_lbs": 125,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1993-08-18",
+  "gender": "male",
+  "record_wins": 18,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.88,
+  "str_acc": 0.37,
+  "sapm": 2.91,
+  "str_def": 0.65,
+  "td_avg": 0.85,
+  "td_acc": 0.4,
+  "td_def": 0.67,
+  "sub_avg": 0.4
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "8614b7134913f5d5",
+  "name": "Jarjis Danho",
+  "nickname": "Man Mountain",
+  "height_inches": 75,
+  "weight_lbs": 265,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "1983-10-15",
+  "gender": "male",
+  "record_wins": 7,
+  "record_losses": 1,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 3.38,
+  "str_acc": 0.5,
+  "sapm": 5.25,
+  "str_def": 0.49,
+  "td_avg": 0.51,
+  "td_acc": 0.16,
+  "td_def": 1.0,
+  "sub_avg": 0.0
+}

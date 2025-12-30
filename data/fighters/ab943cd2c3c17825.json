@@ -1,0 +1,23 @@
+{
+  "fighter_id": "ab943cd2c3c17825",
+  "name": "Marcos Rogerio de Lima",
+  "nickname": "Pezao",
+  "height_inches": 73,
+  "weight_lbs": 253,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1985-06-25",
+  "gender": "male",
+  "record_wins": 22,
+  "record_losses": 10,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.7,
+  "str_acc": 0.57,
+  "sapm": 2.9,
+  "str_def": 0.51,
+  "td_avg": 1.4,
+  "td_acc": 0.45,
+  "td_def": 0.59,
+  "sub_avg": 0.5
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "3ecd936bd8814108",
+  "name": "Cat Zingano",
+  "nickname": "Alpha",
+  "height_inches": 66,
+  "weight_lbs": 145,
+  "reach_inches": 68,
+  "stance": "Southpaw",
+  "dob": "1982-07-01",
+  "gender": "female",
+  "record_wins": 10,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.57,
+  "str_acc": 0.61,
+  "sapm": 1.63,
+  "str_def": 0.47,
+  "td_avg": 2.77,
+  "td_acc": 0.65,
+  "td_def": 0.42,
+  "sub_avg": 0.8
+}

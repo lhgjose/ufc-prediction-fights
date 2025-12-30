@@ -1,0 +1,23 @@
+{
+  "fighter_id": "fc9a9559a05f2704",
+  "name": "Eddie Wineland",
+  "nickname": "",
+  "height_inches": 67,
+  "weight_lbs": 135,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1984-06-26",
+  "gender": "male",
+  "record_wins": 24,
+  "record_losses": 16,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.4,
+  "str_acc": 0.29,
+  "sapm": 3.76,
+  "str_def": 0.68,
+  "td_avg": 0.34,
+  "td_acc": 0.33,
+  "td_def": 0.86,
+  "sub_avg": 0.1
+}

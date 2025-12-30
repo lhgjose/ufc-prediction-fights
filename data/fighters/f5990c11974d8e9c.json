@@ -1,0 +1,23 @@
+{
+  "fighter_id": "f5990c11974d8e9c",
+  "name": "Mike Pyle",
+  "nickname": "Quicksand",
+  "height_inches": 72,
+  "weight_lbs": 170,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "1975-09-18",
+  "gender": "male",
+  "record_wins": 27,
+  "record_losses": 14,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.74,
+  "str_acc": 0.45,
+  "sapm": 2.84,
+  "str_def": 0.6,
+  "td_avg": 1.8,
+  "td_acc": 0.35,
+  "td_def": 0.7,
+  "sub_avg": 1.5
+}

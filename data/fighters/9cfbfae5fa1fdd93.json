@@ -1,0 +1,23 @@
+{
+  "fighter_id": "9cfbfae5fa1fdd93",
+  "name": "Geraldo de Freitas",
+  "nickname": "Spartan",
+  "height_inches": 67,
+  "weight_lbs": 135,
+  "reach_inches": 72,
+  "stance": "Orthodox",
+  "dob": "1991-09-30",
+  "gender": "male",
+  "record_wins": 12,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.67,
+  "str_acc": 0.52,
+  "sapm": 2.62,
+  "str_def": 0.5,
+  "td_avg": 3.0,
+  "td_acc": 0.45,
+  "td_def": 0.59,
+  "sub_avg": 0.0
+}

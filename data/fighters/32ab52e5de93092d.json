@@ -1,0 +1,23 @@
+{
+  "fighter_id": "32ab52e5de93092d",
+  "name": "Steve Erceg",
+  "nickname": "Astroboy",
+  "height_inches": 68,
+  "weight_lbs": 125,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1995-07-27",
+  "gender": "male",
+  "record_wins": 13,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.0,
+  "str_acc": 0.45,
+  "sapm": 3.79,
+  "str_def": 0.52,
+  "td_avg": 1.15,
+  "td_acc": 0.27,
+  "td_def": 0.62,
+  "sub_avg": 0.4
+}

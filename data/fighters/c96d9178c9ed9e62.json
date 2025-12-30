@@ -1,0 +1,23 @@
+{
+  "fighter_id": "c96d9178c9ed9e62",
+  "name": "Tim Elliott",
+  "nickname": "",
+  "height_inches": 67,
+  "weight_lbs": 125,
+  "reach_inches": 66,
+  "stance": "Southpaw",
+  "dob": "1986-12-24",
+  "gender": "male",
+  "record_wins": 22,
+  "record_losses": 13,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.37,
+  "str_acc": 0.44,
+  "sapm": 2.65,
+  "str_def": 0.57,
+  "td_avg": 3.71,
+  "td_acc": 0.47,
+  "td_def": 0.59,
+  "sub_avg": 1.1
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "e7bba7ce4d6c7b07",
+  "name": "Casey Kenney",
+  "nickname": "",
+  "height_inches": 67,
+  "weight_lbs": 135,
+  "reach_inches": 68,
+  "stance": "Southpaw",
+  "dob": "1991-03-20",
+  "gender": "male",
+  "record_wins": 16,
+  "record_losses": 4,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.85,
+  "str_acc": 0.42,
+  "sapm": 4.67,
+  "str_def": 0.58,
+  "td_avg": 1.09,
+  "td_acc": 0.35,
+  "td_def": 0.61,
+  "sub_avg": 0.4
+}

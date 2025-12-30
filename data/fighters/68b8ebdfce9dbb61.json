@@ -1,0 +1,23 @@
+{
+  "fighter_id": "68b8ebdfce9dbb61",
+  "name": "Charalampos Grigoriou",
+  "nickname": "Ferocious",
+  "height_inches": 67,
+  "weight_lbs": 135,
+  "reach_inches": 67,
+  "stance": "Orthodox",
+  "dob": "1992-03-31",
+  "gender": "male",
+  "record_wins": 8,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.62,
+  "str_acc": 0.48,
+  "sapm": 3.97,
+  "str_def": 0.46,
+  "td_avg": 2.62,
+  "td_acc": 0.8,
+  "td_def": 0.9,
+  "sub_avg": 0.0
+}

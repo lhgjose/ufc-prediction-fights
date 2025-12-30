@@ -1,0 +1,23 @@
+{
+  "fighter_id": "1a54231796e24a3f",
+  "name": "Liudvik Sholinian",
+  "nickname": "Palmeyros",
+  "height_inches": 70,
+  "weight_lbs": 135,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1990-01-20",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 4,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.5,
+  "str_acc": 0.3,
+  "sapm": 5.67,
+  "str_def": 0.55,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.66,
+  "sub_avg": 0.0
+}

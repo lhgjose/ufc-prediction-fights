@@ -1,0 +1,23 @@
+{
+  "fighter_id": "78a68f1dade6aaf7",
+  "name": "Fabio Cherant",
+  "nickname": "Water Buffalo",
+  "height_inches": 73,
+  "weight_lbs": 205,
+  "reach_inches": 74,
+  "stance": "Southpaw",
+  "dob": "1994-11-25",
+  "gender": "male",
+  "record_wins": 7,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 1.35,
+  "str_acc": 0.4,
+  "sapm": 4.89,
+  "str_def": 0.38,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.0,
+  "sub_avg": 0.0
+}

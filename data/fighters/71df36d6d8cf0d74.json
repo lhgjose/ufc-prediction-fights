@@ -1,0 +1,23 @@
+{
+  "fighter_id": "71df36d6d8cf0d74",
+  "name": "Kiichi Kunimoto",
+  "nickname": "Strasser",
+  "height_inches": 70,
+  "weight_lbs": 170,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1981-05-01",
+  "gender": "male",
+  "record_wins": 18,
+  "record_losses": 7,
+  "record_draws": 2,
+  "record_nc": 1,
+  "slpm": 1.87,
+  "str_acc": 0.44,
+  "sapm": 3.92,
+  "str_def": 0.41,
+  "td_avg": 1.59,
+  "td_acc": 0.2,
+  "td_def": 0.28,
+  "sub_avg": 0.3
+}

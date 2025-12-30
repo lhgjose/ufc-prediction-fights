@@ -1,0 +1,23 @@
+{
+  "fighter_id": "6d4b63c767106d3a",
+  "name": "Vicente Luque",
+  "nickname": "The Silent Assassin",
+  "height_inches": 71,
+  "weight_lbs": 170,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1991-11-27",
+  "gender": "male",
+  "record_wins": 23,
+  "record_losses": 12,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.83,
+  "str_acc": 0.51,
+  "sapm": 5.3,
+  "str_def": 0.51,
+  "td_avg": 0.9,
+  "td_acc": 0.48,
+  "td_def": 0.6,
+  "sub_avg": 0.7
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "9fe85152f351e737",
+  "name": "Mike Swick",
+  "nickname": "Quick",
+  "height_inches": 73,
+  "weight_lbs": 170,
+  "reach_inches": 77,
+  "stance": "Orthodox",
+  "dob": "1979-06-19",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.36,
+  "str_acc": 0.37,
+  "sapm": 2.29,
+  "str_def": 0.54,
+  "td_avg": 1.06,
+  "td_acc": 0.5,
+  "td_def": 0.61,
+  "sub_avg": 0.6
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "5442f1bc4b47eaf3",
+  "name": "Chris Curtis",
+  "nickname": "Action-Man",
+  "height_inches": 70,
+  "weight_lbs": 170,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1987-07-15",
+  "gender": "male",
+  "record_wins": 32,
+  "record_losses": 12,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 5.98,
+  "str_acc": 0.5,
+  "sapm": 6.19,
+  "str_def": 0.54,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.82,
+  "sub_avg": 0.0
+}

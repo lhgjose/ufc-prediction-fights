@@ -1,0 +1,23 @@
+{
+  "fighter_id": "fd55393021a8c255",
+  "name": "Gunnar Nelson",
+  "nickname": "Gunni",
+  "height_inches": 71,
+  "weight_lbs": 170,
+  "reach_inches": 72,
+  "stance": "Switch",
+  "dob": "1988-07-28",
+  "gender": "male",
+  "record_wins": 19,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 1.77,
+  "str_acc": 0.61,
+  "sapm": 3.06,
+  "str_def": 0.48,
+  "td_avg": 2.0,
+  "td_acc": 0.52,
+  "td_def": 0.68,
+  "sub_avg": 1.0
+}

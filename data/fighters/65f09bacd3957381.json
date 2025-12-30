@@ -1,0 +1,23 @@
+{
+  "fighter_id": "65f09bacd3957381",
+  "name": "Cory Sandhagen",
+  "nickname": "",
+  "height_inches": 71,
+  "weight_lbs": 135,
+  "reach_inches": 70,
+  "stance": "Switch",
+  "dob": "1992-04-20",
+  "gender": "male",
+  "record_wins": 18,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.86,
+  "str_acc": 0.45,
+  "sapm": 3.47,
+  "str_def": 0.56,
+  "td_avg": 1.15,
+  "td_acc": 0.34,
+  "td_def": 0.56,
+  "sub_avg": 0.2
+}

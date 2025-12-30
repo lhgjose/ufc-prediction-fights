@@ -1,0 +1,23 @@
+{
+  "fighter_id": "0d7b51c9d2649a6e",
+  "name": "Dricus Du Plessis",
+  "nickname": "Stillknocks",
+  "height_inches": 73,
+  "weight_lbs": 185,
+  "reach_inches": 76,
+  "stance": "Switch",
+  "dob": "1994-01-14",
+  "gender": "male",
+  "record_wins": 23,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.18,
+  "str_acc": 0.48,
+  "sapm": 4.33,
+  "str_def": 0.52,
+  "td_avg": 2.22,
+  "td_acc": 0.51,
+  "td_def": 0.34,
+  "sub_avg": 0.7
+}

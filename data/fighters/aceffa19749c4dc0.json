@@ -1,0 +1,23 @@
+{
+  "fighter_id": "aceffa19749c4dc0",
+  "name": "Zubaira Tukhugov",
+  "nickname": "Warrior",
+  "height_inches": 68,
+  "weight_lbs": 155,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1991-01-15",
+  "gender": "male",
+  "record_wins": 20,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.17,
+  "str_acc": 0.39,
+  "sapm": 3.07,
+  "str_def": 0.63,
+  "td_avg": 2.13,
+  "td_acc": 0.39,
+  "td_def": 1.0,
+  "sub_avg": 0.0
+}

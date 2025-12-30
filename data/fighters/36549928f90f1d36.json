@@ -1,0 +1,23 @@
+{
+  "fighter_id": "36549928f90f1d36",
+  "name": "Jose Quinonez",
+  "nickname": "Teco",
+  "height_inches": 68,
+  "weight_lbs": 135,
+  "reach_inches": 69,
+  "stance": "Southpaw",
+  "dob": "1990-07-28",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.6,
+  "str_acc": 0.45,
+  "sapm": 3.0,
+  "str_def": 0.64,
+  "td_avg": 2.7,
+  "td_acc": 0.47,
+  "td_def": 0.42,
+  "sub_avg": 0.6
+}

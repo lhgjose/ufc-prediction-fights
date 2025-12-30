@@ -1,0 +1,23 @@
+{
+  "fighter_id": "3143bf892608139a",
+  "name": "Yana Santos",
+  "nickname": "",
+  "height_inches": 66,
+  "weight_lbs": 135,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1989-11-11",
+  "gender": "female",
+  "record_wins": 17,
+  "record_losses": 8,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 4.41,
+  "str_acc": 0.57,
+  "sapm": 3.12,
+  "str_def": 0.52,
+  "td_avg": 0.78,
+  "td_acc": 0.47,
+  "td_def": 0.51,
+  "sub_avg": 0.1
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "1effd880e1f1bb30",
+  "name": "Garrett Armfield",
+  "nickname": "",
+  "height_inches": 66,
+  "weight_lbs": 135,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "1996-10-09",
+  "gender": "male",
+  "record_wins": 10,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.35,
+  "str_acc": 0.53,
+  "sapm": 3.64,
+  "str_def": 0.56,
+  "td_avg": 1.1,
+  "td_acc": 0.5,
+  "td_def": 0.64,
+  "sub_avg": 0.6
+}

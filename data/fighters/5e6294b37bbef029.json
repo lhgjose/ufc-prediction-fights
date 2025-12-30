@@ -1,0 +1,23 @@
+{
+  "fighter_id": "5e6294b37bbef029",
+  "name": "Stephanie Egger",
+  "nickname": "",
+  "height_inches": 66,
+  "weight_lbs": 135,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1988-08-12",
+  "gender": "female",
+  "record_wins": 8,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.2,
+  "str_acc": 0.46,
+  "sapm": 2.48,
+  "str_def": 0.52,
+  "td_avg": 2.48,
+  "td_acc": 0.42,
+  "td_def": 0.5,
+  "sub_avg": 0.6
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "9e50097a89442158",
+  "name": "Mickey Gall",
+  "nickname": "",
+  "height_inches": 74,
+  "weight_lbs": 170,
+  "reach_inches": 74,
+  "stance": "Switch",
+  "dob": "1992-01-22",
+  "gender": "male",
+  "record_wins": 7,
+  "record_losses": 7,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.5,
+  "str_acc": 0.49,
+  "sapm": 4.72,
+  "str_def": 0.49,
+  "td_avg": 1.15,
+  "td_acc": 0.32,
+  "td_def": 0.37,
+  "sub_avg": 1.6
+}

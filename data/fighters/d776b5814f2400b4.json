@@ -1,0 +1,23 @@
+{
+  "fighter_id": "d776b5814f2400b4",
+  "name": "Ethyn Ewing",
+  "nickname": "The Professor Finesser",
+  "height_inches": 66,
+  "weight_lbs": 145,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1998-02-16",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.67,
+  "str_acc": 0.52,
+  "sapm": 5.13,
+  "str_def": 0.47,
+  "td_avg": 3.0,
+  "td_acc": 0.6,
+  "td_def": 1.0,
+  "sub_avg": 0.0
+}

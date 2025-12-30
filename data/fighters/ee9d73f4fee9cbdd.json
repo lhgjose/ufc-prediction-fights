@@ -1,0 +1,23 @@
+{
+  "fighter_id": "ee9d73f4fee9cbdd",
+  "name": "Antonio Rodrigo Nogueira",
+  "nickname": "Minotauro",
+  "height_inches": 75,
+  "weight_lbs": 240,
+  "reach_inches": 77,
+  "stance": "Orthodox",
+  "dob": "1976-06-02",
+  "gender": "male",
+  "record_wins": 34,
+  "record_losses": 10,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 1.95,
+  "str_acc": 0.42,
+  "sapm": 2.4,
+  "str_def": 0.55,
+  "td_avg": 1.3,
+  "td_acc": 0.29,
+  "td_def": 0.36,
+  "sub_avg": 2.4
+}

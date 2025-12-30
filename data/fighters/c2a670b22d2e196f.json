@@ -1,0 +1,23 @@
+{
+  "fighter_id": "c2a670b22d2e196f",
+  "name": "Aleksa Camur",
+  "nickname": "",
+  "height_inches": 73,
+  "weight_lbs": 205,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "1995-09-25",
+  "gender": "male",
+  "record_wins": 6,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.73,
+  "str_acc": 0.57,
+  "sapm": 4.26,
+  "str_def": 0.54,
+  "td_avg": 0.46,
+  "td_acc": 0.22,
+  "td_def": 0.5,
+  "sub_avg": 0.0
+}

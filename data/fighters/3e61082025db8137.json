@@ -1,0 +1,23 @@
+{
+  "fighter_id": "3e61082025db8137",
+  "name": "Yosdenis Cedeno",
+  "nickname": "Pink Panther",
+  "height_inches": 68,
+  "weight_lbs": 155,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1985-02-12",
+  "gender": "male",
+  "record_wins": 10,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 1.64,
+  "str_acc": 0.29,
+  "sapm": 1.6,
+  "str_def": 0.67,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.31,
+  "sub_avg": 0.3
+}

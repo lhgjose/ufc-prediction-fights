@@ -1,0 +1,23 @@
+{
+  "fighter_id": "b1d19449397541dc",
+  "name": "Askar Askarov",
+  "nickname": "Bullet",
+  "height_inches": 66,
+  "weight_lbs": 125,
+  "reach_inches": 67,
+  "stance": "Orthodox",
+  "dob": "1992-10-09",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 1,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.05,
+  "str_acc": 0.54,
+  "sapm": 2.8,
+  "str_def": 0.57,
+  "td_avg": 2.6,
+  "td_acc": 0.24,
+  "td_def": 0.66,
+  "sub_avg": 0.4
+}

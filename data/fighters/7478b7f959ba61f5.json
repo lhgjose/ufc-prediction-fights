@@ -1,0 +1,23 @@
+{
+  "fighter_id": "7478b7f959ba61f5",
+  "name": "Elijah Smith",
+  "nickname": "Swift",
+  "height_inches": 69,
+  "weight_lbs": 135,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "2002-09-05",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 1,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.45,
+  "str_acc": 0.47,
+  "sapm": 3.4,
+  "str_def": 0.47,
+  "td_avg": 3.51,
+  "td_acc": 0.53,
+  "td_def": 0.57,
+  "sub_avg": 0.9
+}

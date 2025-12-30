@@ -1,0 +1,23 @@
+{
+  "fighter_id": "9ce6d5a03af801b7",
+  "name": "Darren Till",
+  "nickname": "The Gorilla",
+  "height_inches": 72,
+  "weight_lbs": 185,
+  "reach_inches": 74,
+  "stance": "Southpaw",
+  "dob": "1992-12-24",
+  "gender": "male",
+  "record_wins": 18,
+  "record_losses": 5,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.3,
+  "str_acc": 0.46,
+  "sapm": 3.31,
+  "str_def": 0.56,
+  "td_avg": 0.55,
+  "td_acc": 0.46,
+  "td_def": 0.69,
+  "sub_avg": 0.0
+}

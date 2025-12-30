@@ -1,0 +1,23 @@
+{
+  "fighter_id": "fc6e681bf6658faf",
+  "name": "Ashlee Evans-Smith",
+  "nickname": "Rebel Girl",
+  "height_inches": 68,
+  "weight_lbs": 135,
+  "reach_inches": 67,
+  "stance": "Orthodox",
+  "dob": "1987-07-09",
+  "gender": "female",
+  "record_wins": 6,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.03,
+  "str_acc": 0.34,
+  "sapm": 4.59,
+  "str_def": 0.53,
+  "td_avg": 0.95,
+  "td_acc": 0.22,
+  "td_def": 0.5,
+  "sub_avg": 0.0
+}

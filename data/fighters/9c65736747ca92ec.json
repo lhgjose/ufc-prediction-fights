@@ -1,0 +1,23 @@
+{
+  "fighter_id": "9c65736747ca92ec",
+  "name": "Leonardo Santos",
+  "nickname": "",
+  "height_inches": 72,
+  "weight_lbs": 155,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1980-02-05",
+  "gender": "male",
+  "record_wins": 18,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.82,
+  "str_acc": 0.46,
+  "sapm": 3.4,
+  "str_def": 0.54,
+  "td_avg": 0.88,
+  "td_acc": 0.25,
+  "td_def": 0.86,
+  "sub_avg": 0.2
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "5ef0088c1b19beeb",
+  "name": "Bryan Caraway",
+  "nickname": "Kid Lightning",
+  "height_inches": 68,
+  "weight_lbs": 135,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1984-08-04",
+  "gender": "male",
+  "record_wins": 21,
+  "record_losses": 9,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.53,
+  "str_acc": 0.34,
+  "sapm": 3.61,
+  "str_def": 0.54,
+  "td_avg": 2.57,
+  "td_acc": 0.25,
+  "td_def": 0.8,
+  "sub_avg": 0.8
+}

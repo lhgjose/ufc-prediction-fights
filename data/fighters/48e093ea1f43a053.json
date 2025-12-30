@@ -1,0 +1,23 @@
+{
+  "fighter_id": "48e093ea1f43a053",
+  "name": "Takeya Mizugaki",
+  "nickname": "",
+  "height_inches": 67,
+  "weight_lbs": 135,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1983-12-16",
+  "gender": "male",
+  "record_wins": 21,
+  "record_losses": 11,
+  "record_draws": 2,
+  "record_nc": 0,
+  "slpm": 3.37,
+  "str_acc": 0.37,
+  "sapm": 3.27,
+  "str_def": 0.57,
+  "td_avg": 1.46,
+  "td_acc": 0.57,
+  "td_def": 0.7,
+  "sub_avg": 0.1
+}

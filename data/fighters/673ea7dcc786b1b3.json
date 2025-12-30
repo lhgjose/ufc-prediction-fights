@@ -1,0 +1,23 @@
+{
+  "fighter_id": "673ea7dcc786b1b3",
+  "name": "Bethe Correia",
+  "nickname": "Pitbull",
+  "height_inches": 65,
+  "weight_lbs": 135,
+  "reach_inches": 64,
+  "stance": "Orthodox",
+  "dob": "1983-06-22",
+  "gender": "female",
+  "record_wins": 11,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.37,
+  "str_acc": 0.43,
+  "sapm": 4.93,
+  "str_def": 0.56,
+  "td_avg": 0.39,
+  "td_acc": 0.18,
+  "td_def": 0.85,
+  "sub_avg": 0.0
+}

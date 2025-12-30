@@ -1,0 +1,23 @@
+{
+  "fighter_id": "dd12382f28296f7b",
+  "name": "Wang Guan",
+  "nickname": "The Dongbei Tiger",
+  "height_inches": 69,
+  "weight_lbs": 145,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1986-03-14",
+  "gender": "male",
+  "record_wins": 20,
+  "record_losses": 1,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.73,
+  "str_acc": 0.43,
+  "sapm": 3.27,
+  "str_def": 0.6,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.0,
+  "sub_avg": 0.0
+}

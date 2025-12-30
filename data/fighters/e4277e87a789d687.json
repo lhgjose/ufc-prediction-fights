@@ -1,0 +1,23 @@
+{
+  "fighter_id": "e4277e87a789d687",
+  "name": "Dustin Jacoby",
+  "nickname": "The Hanyak",
+  "height_inches": 75,
+  "weight_lbs": 205,
+  "reach_inches": 76,
+  "stance": "Orthodox",
+  "dob": "1988-04-04",
+  "gender": "male",
+  "record_wins": 21,
+  "record_losses": 9,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 5.37,
+  "str_acc": 0.47,
+  "sapm": 4.02,
+  "str_def": 0.57,
+  "td_avg": 0.33,
+  "td_acc": 0.25,
+  "td_def": 0.62,
+  "sub_avg": 0.0
+}

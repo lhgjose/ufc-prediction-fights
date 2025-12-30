@@ -1,0 +1,23 @@
+{
+  "fighter_id": "f2688492b9a525a3",
+  "name": "Frankie Edgar",
+  "nickname": "The Answer",
+  "height_inches": 66,
+  "weight_lbs": 135,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1981-10-16",
+  "gender": "male",
+  "record_wins": 23,
+  "record_losses": 11,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.77,
+  "str_acc": 0.4,
+  "sapm": 2.82,
+  "str_def": 0.65,
+  "td_avg": 2.29,
+  "td_acc": 0.31,
+  "td_def": 0.65,
+  "sub_avg": 0.3
+}

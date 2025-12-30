@@ -1,0 +1,23 @@
+{
+  "fighter_id": "2804ce8dadab5770",
+  "name": "Marcelo Rojo",
+  "nickname": "Pitbull",
+  "height_inches": 68,
+  "weight_lbs": 145,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1988-07-02",
+  "gender": "male",
+  "record_wins": 16,
+  "record_losses": 10,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.92,
+  "str_acc": 0.39,
+  "sapm": 6.42,
+  "str_def": 0.55,
+  "td_avg": 0.46,
+  "td_acc": 0.5,
+  "td_def": 0.66,
+  "sub_avg": 0.0
+}

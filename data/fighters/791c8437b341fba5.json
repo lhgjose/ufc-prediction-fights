@@ -1,0 +1,23 @@
+{
+  "fighter_id": "791c8437b341fba5",
+  "name": "Joanderson Brito",
+  "nickname": "Tubarao",
+  "height_inches": 68,
+  "weight_lbs": 145,
+  "reach_inches": 72,
+  "stance": "Orthodox",
+  "dob": "1995-02-11",
+  "gender": "male",
+  "record_wins": 18,
+  "record_losses": 5,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.43,
+  "str_acc": 0.51,
+  "sapm": 2.32,
+  "str_def": 0.44,
+  "td_avg": 3.38,
+  "td_acc": 0.67,
+  "td_def": 0.47,
+  "sub_avg": 1.1
+}

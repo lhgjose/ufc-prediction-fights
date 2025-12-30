@@ -1,0 +1,23 @@
+{
+  "fighter_id": "d024ed963e8bf7ea",
+  "name": "Damien Brown",
+  "nickname": "Beatdown",
+  "height_inches": 70,
+  "weight_lbs": 155,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1984-12-25",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 12,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.66,
+  "str_acc": 0.38,
+  "sapm": 4.86,
+  "str_def": 0.5,
+  "td_avg": 0.68,
+  "td_acc": 0.27,
+  "td_def": 0.53,
+  "sub_avg": 0.7
+}

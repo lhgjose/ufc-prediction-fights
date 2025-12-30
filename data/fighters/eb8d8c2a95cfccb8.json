@@ -1,0 +1,23 @@
+{
+  "fighter_id": "eb8d8c2a95cfccb8",
+  "name": "Victor Henry",
+  "nickname": "La Mangosta",
+  "height_inches": 67,
+  "weight_lbs": 135,
+  "reach_inches": 68,
+  "stance": "Switch",
+  "dob": "1987-05-04",
+  "gender": "male",
+  "record_wins": 25,
+  "record_losses": 7,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 7.17,
+  "str_acc": 0.53,
+  "sapm": 5.19,
+  "str_def": 0.48,
+  "td_avg": 1.04,
+  "td_acc": 0.42,
+  "td_def": 0.81,
+  "sub_avg": 0.3
+}

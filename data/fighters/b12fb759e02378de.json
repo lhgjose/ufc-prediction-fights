@@ -1,0 +1,23 @@
+{
+  "fighter_id": "b12fb759e02378de",
+  "name": "Gilbert Urbina",
+  "nickname": "The RGV Bad Boy",
+  "height_inches": 75,
+  "weight_lbs": 170,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1996-04-05",
+  "gender": "male",
+  "record_wins": 7,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.57,
+  "str_acc": 0.56,
+  "sapm": 4.62,
+  "str_def": 0.44,
+  "td_avg": 2.86,
+  "td_acc": 0.44,
+  "td_def": 0.0,
+  "sub_avg": 0.7
+}

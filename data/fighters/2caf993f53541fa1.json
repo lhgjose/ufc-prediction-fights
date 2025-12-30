@@ -1,0 +1,23 @@
+{
+  "fighter_id": "2caf993f53541fa1",
+  "name": "Andreas Gustafsson",
+  "nickname": "Bane",
+  "height_inches": 73,
+  "weight_lbs": 170,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1991-02-20",
+  "gender": "male",
+  "record_wins": 12,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.82,
+  "str_acc": 0.71,
+  "sapm": 3.63,
+  "str_def": 0.45,
+  "td_avg": 6.19,
+  "td_acc": 0.58,
+  "td_def": 1.0,
+  "sub_avg": 0.0
+}

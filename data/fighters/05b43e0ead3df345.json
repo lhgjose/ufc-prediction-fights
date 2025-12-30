@@ -1,0 +1,23 @@
+{
+  "fighter_id": "05b43e0ead3df345",
+  "name": "Kailin Curran",
+  "nickname": "",
+  "height_inches": 64,
+  "weight_lbs": 115,
+  "reach_inches": 65,
+  "stance": "Orthodox",
+  "dob": "1991-04-11",
+  "gender": "female",
+  "record_wins": 4,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.89,
+  "str_acc": 0.43,
+  "sapm": 4.75,
+  "str_def": 0.53,
+  "td_avg": 2.0,
+  "td_acc": 0.57,
+  "td_def": 0.61,
+  "sub_avg": 0.6
+}

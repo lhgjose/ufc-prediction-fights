@@ -1,0 +1,23 @@
+{
+  "fighter_id": "165c244bcca3ed26",
+  "name": "Seo Hee Ham",
+  "nickname": "",
+  "height_inches": 62,
+  "weight_lbs": 115,
+  "reach_inches": 62,
+  "stance": "Southpaw",
+  "dob": "1987-03-08",
+  "gender": "female",
+  "record_wins": 17,
+  "record_losses": 8,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.2,
+  "str_acc": 0.39,
+  "sapm": 5.15,
+  "str_def": 0.61,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.66,
+  "sub_avg": 0.2
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "71002dbc1743b9a7",
+  "name": "Felipe Arantes",
+  "nickname": "Sertanejo",
+  "height_inches": 68,
+  "weight_lbs": 135,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1988-02-09",
+  "gender": "male",
+  "record_wins": 18,
+  "record_losses": 10,
+  "record_draws": 1,
+  "record_nc": 2,
+  "slpm": 2.37,
+  "str_acc": 0.45,
+  "sapm": 2.66,
+  "str_def": 0.64,
+  "td_avg": 0.93,
+  "td_acc": 0.47,
+  "td_def": 0.41,
+  "sub_avg": 0.7
+}

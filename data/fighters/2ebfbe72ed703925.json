@@ -1,0 +1,23 @@
+{
+  "fighter_id": "2ebfbe72ed703925",
+  "name": "Tristan Connelly",
+  "nickname": "Boondock",
+  "height_inches": 70,
+  "weight_lbs": 145,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1985-12-12",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 8,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.31,
+  "str_acc": 0.51,
+  "sapm": 2.96,
+  "str_def": 0.5,
+  "td_avg": 0.33,
+  "td_acc": 0.14,
+  "td_def": 0.6,
+  "sub_avg": 0.3
+}

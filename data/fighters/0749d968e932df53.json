@@ -1,0 +1,23 @@
+{
+  "fighter_id": "0749d968e932df53",
+  "name": "Tarec Saffiedine",
+  "nickname": "Sponge",
+  "height_inches": 70,
+  "weight_lbs": 170,
+  "reach_inches": 70,
+  "stance": "Switch",
+  "dob": "1986-09-06",
+  "gender": "male",
+  "record_wins": 16,
+  "record_losses": 7,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.05,
+  "str_acc": 0.47,
+  "sapm": 3.06,
+  "str_def": 0.62,
+  "td_avg": 0.52,
+  "td_acc": 0.36,
+  "td_def": 0.84,
+  "sub_avg": 0.1
+}

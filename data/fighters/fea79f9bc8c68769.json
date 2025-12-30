@@ -1,0 +1,23 @@
+{
+  "fighter_id": "fea79f9bc8c68769",
+  "name": "Marlon Moraes",
+  "nickname": "Magic",
+  "height_inches": 66,
+  "weight_lbs": 135,
+  "reach_inches": 67,
+  "stance": "Orthodox",
+  "dob": "1988-04-26",
+  "gender": "male",
+  "record_wins": 23,
+  "record_losses": 10,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.37,
+  "str_acc": 0.4,
+  "sapm": 4.53,
+  "str_def": 0.54,
+  "td_avg": 0.87,
+  "td_acc": 0.41,
+  "td_def": 0.46,
+  "sub_avg": 0.3
+}

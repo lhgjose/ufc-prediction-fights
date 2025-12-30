@@ -1,0 +1,23 @@
+{
+  "fighter_id": "05339613bf8e9808",
+  "name": "Rob Font",
+  "nickname": "",
+  "height_inches": 68,
+  "weight_lbs": 135,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1987-06-25",
+  "gender": "male",
+  "record_wins": 22,
+  "record_losses": 9,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.36,
+  "str_acc": 0.45,
+  "sapm": 3.7,
+  "str_def": 0.57,
+  "td_avg": 0.74,
+  "td_acc": 0.3,
+  "td_def": 0.43,
+  "sub_avg": 0.3
+}

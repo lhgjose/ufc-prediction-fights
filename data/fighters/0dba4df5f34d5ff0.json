@@ -1,0 +1,23 @@
+{
+  "fighter_id": "0dba4df5f34d5ff0",
+  "name": "Rafael Natal",
+  "nickname": "Sapo",
+  "height_inches": 72,
+  "weight_lbs": 185,
+  "reach_inches": 77,
+  "stance": "Orthodox",
+  "dob": "1982-12-25",
+  "gender": "male",
+  "record_wins": 21,
+  "record_losses": 9,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.1,
+  "str_acc": 0.47,
+  "sapm": 2.48,
+  "str_def": 0.57,
+  "td_avg": 2.55,
+  "td_acc": 0.34,
+  "td_def": 0.77,
+  "sub_avg": 0.5
+}

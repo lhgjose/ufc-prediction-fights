@@ -1,0 +1,23 @@
+{
+  "fighter_id": "d06f8869449ba7bd",
+  "name": "Alexander Yakovlev",
+  "nickname": "Russian Thunder",
+  "height_inches": 75,
+  "weight_lbs": 155,
+  "reach_inches": 74,
+  "stance": "Southpaw",
+  "dob": "1984-07-18",
+  "gender": "male",
+  "record_wins": 24,
+  "record_losses": 10,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 1.74,
+  "str_acc": 0.47,
+  "sapm": 2.41,
+  "str_def": 0.58,
+  "td_avg": 1.66,
+  "td_acc": 0.35,
+  "td_def": 0.72,
+  "sub_avg": 0.1
+}

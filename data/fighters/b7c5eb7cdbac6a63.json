@@ -1,0 +1,23 @@
+{
+  "fighter_id": "b7c5eb7cdbac6a63",
+  "name": "Danny Barlow",
+  "nickname": "LeftHand2God",
+  "height_inches": 74,
+  "weight_lbs": 185,
+  "reach_inches": 79,
+  "stance": "Southpaw",
+  "dob": "1995-08-02",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.81,
+  "str_acc": 0.51,
+  "sapm": 4.65,
+  "str_def": 0.52,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 1.0,
+  "sub_avg": 0.0
+}

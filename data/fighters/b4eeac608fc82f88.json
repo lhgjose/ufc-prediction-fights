@@ -1,0 +1,23 @@
+{
+  "fighter_id": "b4eeac608fc82f88",
+  "name": "Yves Jabouin",
+  "nickname": "Tiger",
+  "height_inches": 67,
+  "weight_lbs": 135,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1979-05-30",
+  "gender": "male",
+  "record_wins": 20,
+  "record_losses": 11,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.06,
+  "str_acc": 0.41,
+  "sapm": 2.93,
+  "str_def": 0.62,
+  "td_avg": 1.94,
+  "td_acc": 0.6,
+  "td_def": 0.82,
+  "sub_avg": 0.1
+}

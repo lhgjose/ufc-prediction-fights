@@ -1,0 +1,23 @@
+{
+  "fighter_id": "009341ed974bad72",
+  "name": "Jiri Prochazka",
+  "nickname": "",
+  "height_inches": 75,
+  "weight_lbs": 205,
+  "reach_inches": 80,
+  "stance": "Orthodox",
+  "dob": "1992-10-14",
+  "gender": "male",
+  "record_wins": 32,
+  "record_losses": 5,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 5.69,
+  "str_acc": 0.55,
+  "sapm": 5.6,
+  "str_def": 0.45,
+  "td_avg": 0.51,
+  "td_acc": 0.6,
+  "td_def": 0.68,
+  "sub_avg": 0.2
+}

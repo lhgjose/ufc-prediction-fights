@@ -1,0 +1,23 @@
+{
+  "fighter_id": "e1248941344b3288",
+  "name": "Alexander Volkanovski",
+  "nickname": "The Great",
+  "height_inches": 66,
+  "weight_lbs": 145,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1988-09-29",
+  "gender": "male",
+  "record_wins": 27,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 6.18,
+  "str_acc": 0.56,
+  "sapm": 3.36,
+  "str_def": 0.58,
+  "td_avg": 1.67,
+  "td_acc": 0.34,
+  "td_def": 0.7,
+  "sub_avg": 0.2
+}

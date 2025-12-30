@@ -1,0 +1,23 @@
+{
+  "fighter_id": "3e708ce33b6b18e6",
+  "name": "Victor Martinez",
+  "nickname": "The Brick",
+  "height_inches": 68,
+  "weight_lbs": 155,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "1991-07-17",
+  "gender": "male",
+  "record_wins": 13,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 7.94,
+  "str_acc": 0.51,
+  "sapm": 7.66,
+  "str_def": 0.53,
+  "td_avg": 0.7,
+  "td_acc": 0.33,
+  "td_def": 0.8,
+  "sub_avg": 0.0
+}

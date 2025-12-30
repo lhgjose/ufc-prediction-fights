@@ -1,0 +1,23 @@
+{
+  "fighter_id": "bd58d34e39b7b12a",
+  "name": "Ben Rothwell",
+  "nickname": "",
+  "height_inches": 76,
+  "weight_lbs": 265,
+  "reach_inches": 78,
+  "stance": "Orthodox",
+  "dob": "1981-10-17",
+  "gender": "male",
+  "record_wins": 39,
+  "record_losses": 14,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.71,
+  "str_acc": 0.42,
+  "sapm": 4.63,
+  "str_def": 0.47,
+  "td_avg": 0.68,
+  "td_acc": 0.34,
+  "td_def": 0.7,
+  "sub_avg": 0.4
+}

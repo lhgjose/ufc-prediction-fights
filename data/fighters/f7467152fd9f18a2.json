@@ -1,0 +1,23 @@
+{
+  "fighter_id": "f7467152fd9f18a2",
+  "name": "Taila Santos",
+  "nickname": "",
+  "height_inches": 66,
+  "weight_lbs": 125,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1993-06-22",
+  "gender": "female",
+  "record_wins": 19,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.39,
+  "str_acc": 0.48,
+  "sapm": 2.64,
+  "str_def": 0.58,
+  "td_avg": 2.0,
+  "td_acc": 0.76,
+  "td_def": 0.86,
+  "sub_avg": 1.1
+}

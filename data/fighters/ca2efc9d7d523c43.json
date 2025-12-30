@@ -1,0 +1,23 @@
+{
+  "fighter_id": "ca2efc9d7d523c43",
+  "name": "Shawn Jordan",
+  "nickname": "The Savage",
+  "height_inches": 72,
+  "weight_lbs": 260,
+  "reach_inches": 75,
+  "stance": "Southpaw",
+  "dob": "1984-10-21",
+  "gender": "male",
+  "record_wins": 19,
+  "record_losses": 8,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.87,
+  "str_acc": 0.5,
+  "sapm": 3.3,
+  "str_def": 0.47,
+  "td_avg": 1.97,
+  "td_acc": 0.38,
+  "td_def": 0.76,
+  "sub_avg": 0.1
+}

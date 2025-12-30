@@ -1,0 +1,23 @@
+{
+  "fighter_id": "2f43a3e82661fa99",
+  "name": "Rei Tsuruya",
+  "nickname": "",
+  "height_inches": 66,
+  "weight_lbs": 125,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "2002-06-22",
+  "gender": "male",
+  "record_wins": 10,
+  "record_losses": 1,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.24,
+  "str_acc": 0.52,
+  "sapm": 2.01,
+  "str_def": 0.42,
+  "td_avg": 5.06,
+  "td_acc": 0.37,
+  "td_def": 0.5,
+  "sub_avg": 1.9
+}

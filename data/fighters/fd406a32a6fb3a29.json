@@ -1,0 +1,23 @@
+{
+  "fighter_id": "fd406a32a6fb3a29",
+  "name": "Chris Duncan",
+  "nickname": "The Problem",
+  "height_inches": 70,
+  "weight_lbs": 155,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1993-05-10",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.02,
+  "str_acc": 0.46,
+  "sapm": 4.82,
+  "str_def": 0.51,
+  "td_avg": 3.27,
+  "td_acc": 0.42,
+  "td_def": 0.5,
+  "sub_avg": 0.7
+}

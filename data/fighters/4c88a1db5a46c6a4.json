@@ -1,0 +1,23 @@
+{
+  "fighter_id": "4c88a1db5a46c6a4",
+  "name": "Jai Herbert",
+  "nickname": "Black Country Banger",
+  "height_inches": 73,
+  "weight_lbs": 155,
+  "reach_inches": 77,
+  "stance": "Orthodox",
+  "dob": "1988-05-13",
+  "gender": "male",
+  "record_wins": 13,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.07,
+  "str_acc": 0.4,
+  "sapm": 3.26,
+  "str_def": 0.53,
+  "td_avg": 0.43,
+  "td_acc": 0.21,
+  "td_def": 0.66,
+  "sub_avg": 0.0
+}

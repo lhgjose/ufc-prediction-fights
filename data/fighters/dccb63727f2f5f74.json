@@ -1,0 +1,23 @@
+{
+  "fighter_id": "dccb63727f2f5f74",
+  "name": "Matt Frevola",
+  "nickname": "The SteamRolla",
+  "height_inches": 69,
+  "weight_lbs": 155,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1990-06-11",
+  "gender": "male",
+  "record_wins": 11,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.3,
+  "str_acc": 0.39,
+  "sapm": 3.76,
+  "str_def": 0.56,
+  "td_avg": 2.34,
+  "td_acc": 0.41,
+  "td_def": 0.4,
+  "sub_avg": 0.8
+}

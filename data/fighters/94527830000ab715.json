@@ -1,0 +1,23 @@
+{
+  "fighter_id": "94527830000ab715",
+  "name": "Rani Yahya",
+  "nickname": "",
+  "height_inches": 66,
+  "weight_lbs": 135,
+  "reach_inches": 67,
+  "stance": "Orthodox",
+  "dob": "1984-09-12",
+  "gender": "male",
+  "record_wins": 28,
+  "record_losses": 12,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 1.71,
+  "str_acc": 0.38,
+  "sapm": 2.08,
+  "str_def": 0.5,
+  "td_avg": 2.73,
+  "td_acc": 0.3,
+  "td_def": 0.29,
+  "sub_avg": 1.8
+}

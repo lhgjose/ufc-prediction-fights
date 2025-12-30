@@ -1,0 +1,23 @@
+{
+  "fighter_id": "4948e412fa6ab67d",
+  "name": "Ravena Oliveira",
+  "nickname": "Kenoudy",
+  "height_inches": 65,
+  "weight_lbs": 115,
+  "reach_inches": 65,
+  "stance": "Orthodox",
+  "dob": "1997-02-20",
+  "gender": "female",
+  "record_wins": 7,
+  "record_losses": 3,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 1.4,
+  "str_acc": 0.29,
+  "sapm": 2.8,
+  "str_def": 0.5,
+  "td_avg": 1.08,
+  "td_acc": 0.66,
+  "td_def": 0.5,
+  "sub_avg": 0.0
+}

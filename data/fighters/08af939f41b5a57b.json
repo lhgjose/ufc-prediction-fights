@@ -1,0 +1,23 @@
+{
+  "fighter_id": "08af939f41b5a57b",
+  "name": "Beneil Dariush",
+  "nickname": "",
+  "height_inches": 70,
+  "weight_lbs": 155,
+  "reach_inches": 72,
+  "stance": "Southpaw",
+  "dob": "1989-05-06",
+  "gender": "male",
+  "record_wins": 23,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.78,
+  "str_acc": 0.49,
+  "sapm": 2.62,
+  "str_def": 0.57,
+  "td_avg": 2.11,
+  "td_acc": 0.38,
+  "td_def": 0.82,
+  "sub_avg": 0.8
+}

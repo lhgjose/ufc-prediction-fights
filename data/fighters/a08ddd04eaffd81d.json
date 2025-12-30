@@ -1,0 +1,23 @@
+{
+  "fighter_id": "a08ddd04eaffd81d",
+  "name": "Mariya Agapova",
+  "nickname": "Money Mashka",
+  "height_inches": 66,
+  "weight_lbs": 125,
+  "reach_inches": 68,
+  "stance": "Southpaw",
+  "dob": "1997-04-07",
+  "gender": "female",
+  "record_wins": 10,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.43,
+  "str_acc": 0.54,
+  "sapm": 3.62,
+  "str_def": 0.52,
+  "td_avg": 0.55,
+  "td_acc": 0.66,
+  "td_def": 0.45,
+  "sub_avg": 0.8
+}

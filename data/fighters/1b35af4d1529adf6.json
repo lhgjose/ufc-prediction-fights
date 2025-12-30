@@ -1,0 +1,23 @@
+{
+  "fighter_id": "1b35af4d1529adf6",
+  "name": "Stephanie Luciano",
+  "nickname": "Rondinha",
+  "height_inches": 66,
+  "weight_lbs": 115,
+  "reach_inches": 65,
+  "stance": "Orthodox",
+  "dob": "1999-12-16",
+  "gender": "female",
+  "record_wins": 7,
+  "record_losses": 2,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 5.2,
+  "str_acc": 0.42,
+  "sapm": 3.04,
+  "str_def": 0.64,
+  "td_avg": 1.3,
+  "td_acc": 0.71,
+  "td_def": 0.8,
+  "sub_avg": 0.3
+}

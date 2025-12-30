@@ -1,0 +1,23 @@
+{
+  "fighter_id": "3236bf606fe9fa5b",
+  "name": "Travis Browne",
+  "nickname": "Hapa",
+  "height_inches": 78,
+  "weight_lbs": 255,
+  "reach_inches": 79,
+  "stance": "Orthodox",
+  "dob": "1982-07-17",
+  "gender": "male",
+  "record_wins": 18,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.93,
+  "str_acc": 0.41,
+  "sapm": 4.31,
+  "str_def": 0.42,
+  "td_avg": 1.21,
+  "td_acc": 0.68,
+  "td_def": 0.75,
+  "sub_avg": 0.2
+}

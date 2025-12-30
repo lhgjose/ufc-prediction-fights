@@ -1,0 +1,23 @@
+{
+  "fighter_id": "a6cba6bb66c1a8c9",
+  "name": "Danny Roberts",
+  "nickname": "Hot Chocolate",
+  "height_inches": 73,
+  "weight_lbs": 170,
+  "reach_inches": 74,
+  "stance": "Southpaw",
+  "dob": "1987-07-14",
+  "gender": "male",
+  "record_wins": 18,
+  "record_losses": 8,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.18,
+  "str_acc": 0.39,
+  "sapm": 3.73,
+  "str_def": 0.5,
+  "td_avg": 0.24,
+  "td_acc": 0.09,
+  "td_def": 0.57,
+  "sub_avg": 0.2
+}

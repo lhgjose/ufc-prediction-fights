@@ -1,0 +1,23 @@
+{
+  "fighter_id": "89839250eb25c9c1",
+  "name": "Caio Machado",
+  "nickname": "Bigfoot",
+  "height_inches": 76,
+  "weight_lbs": 250,
+  "reach_inches": 78,
+  "stance": "Southpaw",
+  "dob": "1994-07-20",
+  "gender": "male",
+  "record_wins": 8,
+  "record_losses": 4,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 5.82,
+  "str_acc": 0.53,
+  "sapm": 2.87,
+  "str_def": 0.63,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.82,
+  "sub_avg": 0.0
+}

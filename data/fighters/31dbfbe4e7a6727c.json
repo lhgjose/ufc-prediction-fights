@@ -1,0 +1,23 @@
+{
+  "fighter_id": "31dbfbe4e7a6727c",
+  "name": "Trey Waters",
+  "nickname": "The Truth",
+  "height_inches": 77,
+  "weight_lbs": 170,
+  "reach_inches": 77,
+  "stance": "Orthodox",
+  "dob": "1995-02-21",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 6.39,
+  "str_acc": 0.44,
+  "sapm": 5.83,
+  "str_def": 0.55,
+  "td_avg": 0.4,
+  "td_acc": 0.33,
+  "td_def": 0.85,
+  "sub_avg": 0.8
+}

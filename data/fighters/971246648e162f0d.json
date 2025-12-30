@@ -1,0 +1,23 @@
+{
+  "fighter_id": "971246648e162f0d",
+  "name": "Chase Hooper",
+  "nickname": "The Dream",
+  "height_inches": 73,
+  "weight_lbs": 155,
+  "reach_inches": 74,
+  "stance": "Southpaw",
+  "dob": "1999-09-13",
+  "gender": "male",
+  "record_wins": 16,
+  "record_losses": 4,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.51,
+  "str_acc": 0.49,
+  "sapm": 2.98,
+  "str_def": 0.39,
+  "td_avg": 2.49,
+  "td_acc": 0.33,
+  "td_def": 0.55,
+  "sub_avg": 2.1
+}

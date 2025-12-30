@@ -1,0 +1,23 @@
+{
+  "fighter_id": "826475cc758e60e6",
+  "name": "Rob Wilkinson",
+  "nickname": "Razor",
+  "height_inches": 75,
+  "weight_lbs": 185,
+  "reach_inches": 80,
+  "stance": "Orthodox",
+  "dob": "1992-02-22",
+  "gender": "male",
+  "record_wins": 11,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.74,
+  "str_acc": 0.5,
+  "sapm": 5.66,
+  "str_def": 0.39,
+  "td_avg": 4.47,
+  "td_acc": 0.25,
+  "td_def": 0.0,
+  "sub_avg": 0.0
+}

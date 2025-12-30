@@ -1,0 +1,23 @@
+{
+  "fighter_id": "24174a3f44ce8e03",
+  "name": "Chan-Mi Jeon",
+  "nickname": "",
+  "height_inches": 65,
+  "weight_lbs": 115,
+  "reach_inches": null,
+  "stance": "Orthodox",
+  "dob": "1997-08-28",
+  "gender": "female",
+  "record_wins": 5,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 6.23,
+  "str_acc": 0.31,
+  "sapm": 7.77,
+  "str_def": 0.55,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.0,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "f2f140ce7532e327",
+  "name": "Gabriel Santos",
+  "nickname": "Mosquitinho",
+  "height_inches": 69,
+  "weight_lbs": 145,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "1996-11-28",
+  "gender": "male",
+  "record_wins": 12,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.35,
+  "str_acc": 0.6,
+  "sapm": 4.31,
+  "str_def": 0.45,
+  "td_avg": 3.8,
+  "td_acc": 0.54,
+  "td_def": 0.87,
+  "sub_avg": 1.2
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "803bebcfb6d6f506",
+  "name": "Alex Gorgees",
+  "nickname": "Hitman",
+  "height_inches": 74,
+  "weight_lbs": 155,
+  "reach_inches": 74,
+  "stance": "Switch",
+  "dob": "1995-08-11",
+  "gender": "male",
+  "record_wins": 6,
+  "record_losses": 1,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 0.67,
+  "str_acc": 0.32,
+  "sapm": 2.27,
+  "str_def": 0.38,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.54,
+  "sub_avg": 0.0
+}

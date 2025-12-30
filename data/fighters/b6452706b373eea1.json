@@ -1,0 +1,23 @@
+{
+  "fighter_id": "b6452706b373eea1",
+  "name": "Renato Moicano",
+  "nickname": "",
+  "height_inches": 71,
+  "weight_lbs": 155,
+  "reach_inches": 72,
+  "stance": "Orthodox",
+  "dob": "1989-05-21",
+  "gender": "male",
+  "record_wins": 20,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.17,
+  "str_acc": 0.48,
+  "sapm": 3.57,
+  "str_def": 0.59,
+  "td_avg": 1.67,
+  "td_acc": 0.41,
+  "td_def": 0.62,
+  "sub_avg": 0.5
+}

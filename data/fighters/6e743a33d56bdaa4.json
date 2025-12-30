@@ -1,0 +1,23 @@
+{
+  "fighter_id": "6e743a33d56bdaa4",
+  "name": "Payton Talbott",
+  "nickname": "",
+  "height_inches": 70,
+  "weight_lbs": 135,
+  "reach_inches": 70,
+  "stance": "Switch",
+  "dob": "1998-09-09",
+  "gender": "male",
+  "record_wins": 11,
+  "record_losses": 1,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 6.62,
+  "str_acc": 0.56,
+  "sapm": 3.41,
+  "str_def": 0.46,
+  "td_avg": 0.78,
+  "td_acc": 0.44,
+  "td_def": 0.77,
+  "sub_avg": 0.2
+}

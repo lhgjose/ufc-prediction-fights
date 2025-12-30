@@ -1,0 +1,23 @@
+{
+  "fighter_id": "267f4a6568abe245",
+  "name": "Landon Quinones",
+  "nickname": "The Lone Wolf",
+  "height_inches": 69,
+  "weight_lbs": 155,
+  "reach_inches": 70,
+  "stance": "Southpaw",
+  "dob": "1995-11-21",
+  "gender": "male",
+  "record_wins": 7,
+  "record_losses": 3,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 6.77,
+  "str_acc": 0.4,
+  "sapm": 7.7,
+  "str_def": 0.55,
+  "td_avg": 0.5,
+  "td_acc": 0.33,
+  "td_def": 1.0,
+  "sub_avg": 0.0
+}

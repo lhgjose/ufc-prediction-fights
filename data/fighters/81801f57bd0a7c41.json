@@ -1,0 +1,23 @@
+{
+  "fighter_id": "81801f57bd0a7c41",
+  "name": "Marcus Brimage",
+  "nickname": "The Bama Beast",
+  "height_inches": 64,
+  "weight_lbs": 135,
+  "reach_inches": 71,
+  "stance": "Southpaw",
+  "dob": "1985-04-06",
+  "gender": "male",
+  "record_wins": 7,
+  "record_losses": 7,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.97,
+  "str_acc": 0.35,
+  "sapm": 3.64,
+  "str_def": 0.56,
+  "td_avg": 0.56,
+  "td_acc": 1.0,
+  "td_def": 0.8,
+  "sub_avg": 0.0
+}

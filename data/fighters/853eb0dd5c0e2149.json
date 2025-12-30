@@ -1,0 +1,23 @@
+{
+  "fighter_id": "853eb0dd5c0e2149",
+  "name": "Kai Kara-France",
+  "nickname": "Don't Blink",
+  "height_inches": 64,
+  "weight_lbs": 125,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1993-03-26",
+  "gender": "male",
+  "record_wins": 25,
+  "record_losses": 12,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 4.46,
+  "str_acc": 0.4,
+  "sapm": 3.24,
+  "str_def": 0.64,
+  "td_avg": 0.56,
+  "td_acc": 0.3,
+  "td_def": 0.83,
+  "sub_avg": 0.0
+}

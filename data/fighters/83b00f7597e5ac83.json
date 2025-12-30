@@ -1,0 +1,23 @@
+{
+  "fighter_id": "83b00f7597e5ac83",
+  "name": "Juan Adams",
+  "nickname": "The Kraken",
+  "height_inches": 77,
+  "weight_lbs": 265,
+  "reach_inches": 80,
+  "stance": "Orthodox",
+  "dob": "1992-01-16",
+  "gender": "male",
+  "record_wins": 5,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 7.09,
+  "str_acc": 0.55,
+  "sapm": 4.06,
+  "str_def": 0.34,
+  "td_avg": 0.91,
+  "td_acc": 0.66,
+  "td_def": 0.57,
+  "sub_avg": 0.0
+}

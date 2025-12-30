@@ -1,0 +1,23 @@
+{
+  "fighter_id": "886264a0c9f4ea5e",
+  "name": "Andre Muniz",
+  "nickname": "Sergipano",
+  "height_inches": 73,
+  "weight_lbs": 185,
+  "reach_inches": 78,
+  "stance": "Southpaw",
+  "dob": "1990-02-17",
+  "gender": "male",
+  "record_wins": 24,
+  "record_losses": 8,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.08,
+  "str_acc": 0.48,
+  "sapm": 2.46,
+  "str_def": 0.51,
+  "td_avg": 3.98,
+  "td_acc": 0.48,
+  "td_def": 0.35,
+  "sub_avg": 1.1
+}

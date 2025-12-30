@@ -1,0 +1,23 @@
+{
+  "fighter_id": "64b12fe31be7560c",
+  "name": "Eric Nolan",
+  "nickname": "Nightime",
+  "height_inches": 74,
+  "weight_lbs": 185,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "1997-09-13",
+  "gender": "male",
+  "record_wins": 8,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.14,
+  "str_acc": 0.39,
+  "sapm": 5.13,
+  "str_def": 0.41,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.71,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "d156513a19acf856",
+  "name": "Sam Alvey",
+  "nickname": "Smile'N",
+  "height_inches": 74,
+  "weight_lbs": 185,
+  "reach_inches": 75,
+  "stance": "Southpaw",
+  "dob": "1986-05-06",
+  "gender": "male",
+  "record_wins": 33,
+  "record_losses": 18,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 3.28,
+  "str_acc": 0.44,
+  "sapm": 3.63,
+  "str_def": 0.52,
+  "td_avg": 0.06,
+  "td_acc": 0.14,
+  "td_def": 0.82,
+  "sub_avg": 0.1
+}

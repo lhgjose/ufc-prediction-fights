@@ -1,0 +1,23 @@
+{
+  "fighter_id": "3c0437fbeda06962",
+  "name": "George Roop",
+  "nickname": "",
+  "height_inches": 73,
+  "weight_lbs": 135,
+  "reach_inches": 72,
+  "stance": "Orthodox",
+  "dob": "1981-11-10",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 13,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.43,
+  "str_acc": 0.34,
+  "sapm": 2.47,
+  "str_def": 0.6,
+  "td_avg": 1.05,
+  "td_acc": 0.57,
+  "td_def": 0.59,
+  "sub_avg": 0.1
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "8bb6f4479685bbcc",
+  "name": "Vaughan Lee",
+  "nickname": "",
+  "height_inches": 66,
+  "weight_lbs": 125,
+  "reach_inches": 66,
+  "stance": "Orthodox",
+  "dob": "1982-10-15",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 13,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.47,
+  "str_acc": 0.47,
+  "sapm": 2.07,
+  "str_def": 0.7,
+  "td_avg": 0.81,
+  "td_acc": 0.33,
+  "td_def": 0.72,
+  "sub_avg": 1.0
+}

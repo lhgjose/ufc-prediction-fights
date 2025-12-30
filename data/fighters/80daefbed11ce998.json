@@ -1,0 +1,23 @@
+{
+  "fighter_id": "80daefbed11ce998",
+  "name": "Alejandro Perez",
+  "nickname": "Turbo",
+  "height_inches": 66,
+  "weight_lbs": 135,
+  "reach_inches": 67,
+  "stance": "Orthodox",
+  "dob": "1989-09-02",
+  "gender": "male",
+  "record_wins": 23,
+  "record_losses": 9,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.45,
+  "str_acc": 0.35,
+  "sapm": 3.18,
+  "str_def": 0.61,
+  "td_avg": 0.54,
+  "td_acc": 0.22,
+  "td_def": 0.7,
+  "sub_avg": 0.3
+}

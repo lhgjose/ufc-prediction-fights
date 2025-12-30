@@ -1,0 +1,23 @@
+{
+  "fighter_id": "b0d6a1d8ac3d563d",
+  "name": "Max Griffin",
+  "nickname": "Pain",
+  "height_inches": 71,
+  "weight_lbs": 170,
+  "reach_inches": 76,
+  "stance": "Orthodox",
+  "dob": "1985-11-29",
+  "gender": "male",
+  "record_wins": 20,
+  "record_losses": 12,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.76,
+  "str_acc": 0.47,
+  "sapm": 3.7,
+  "str_def": 0.58,
+  "td_avg": 1.28,
+  "td_acc": 0.4,
+  "td_def": 0.7,
+  "sub_avg": 0.3
+}

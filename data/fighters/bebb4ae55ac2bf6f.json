@@ -1,0 +1,23 @@
+{
+  "fighter_id": "bebb4ae55ac2bf6f",
+  "name": "Chris Fishgold",
+  "nickname": "",
+  "height_inches": 68,
+  "weight_lbs": 145,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1992-06-06",
+  "gender": "male",
+  "record_wins": 18,
+  "record_losses": 4,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.01,
+  "str_acc": 0.32,
+  "sapm": 2.7,
+  "str_def": 0.46,
+  "td_avg": 2.59,
+  "td_acc": 0.46,
+  "td_def": 0.44,
+  "sub_avg": 1.3
+}

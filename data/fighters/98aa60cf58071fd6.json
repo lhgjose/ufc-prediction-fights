@@ -1,0 +1,23 @@
+{
+  "fighter_id": "98aa60cf58071fd6",
+  "name": "Kyoji Horiguchi",
+  "nickname": "",
+  "height_inches": 64,
+  "weight_lbs": 125,
+  "reach_inches": 63,
+  "stance": "Orthodox",
+  "dob": "1990-10-12",
+  "gender": "male",
+  "record_wins": 35,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 3.64,
+  "str_acc": 0.46,
+  "sapm": 2.26,
+  "str_def": 0.62,
+  "td_avg": 1.8,
+  "td_acc": 0.42,
+  "td_def": 0.54,
+  "sub_avg": 0.1
+}

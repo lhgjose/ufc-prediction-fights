@@ -1,0 +1,23 @@
+{
+  "fighter_id": "c169545ab0825f44",
+  "name": "Geane Herrera",
+  "nickname": "La Pulga",
+  "height_inches": 65,
+  "weight_lbs": 125,
+  "reach_inches": 66,
+  "stance": "Orthodox",
+  "dob": "1990-05-27",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 1.51,
+  "str_acc": 0.31,
+  "sapm": 5.07,
+  "str_def": 0.52,
+  "td_avg": 0.83,
+  "td_acc": 0.37,
+  "td_def": 0.38,
+  "sub_avg": 0.6
+}

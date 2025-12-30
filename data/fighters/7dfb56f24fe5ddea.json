@@ -1,0 +1,23 @@
+{
+  "fighter_id": "7dfb56f24fe5ddea",
+  "name": "Bobby Nash",
+  "nickname": "",
+  "height_inches": 72,
+  "weight_lbs": 170,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "1990-03-26",
+  "gender": "male",
+  "record_wins": 8,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.42,
+  "str_acc": 0.37,
+  "sapm": 3.95,
+  "str_def": 0.51,
+  "td_avg": 2.37,
+  "td_acc": 0.33,
+  "td_def": 1.0,
+  "sub_avg": 1.6
+}

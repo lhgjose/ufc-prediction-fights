@@ -1,0 +1,23 @@
+{
+  "fighter_id": "16690d100f995f8f",
+  "name": "Omari Akhmedov",
+  "nickname": "Wolverine",
+  "height_inches": 72,
+  "weight_lbs": 185,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1987-10-12",
+  "gender": "male",
+  "record_wins": 21,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.97,
+  "str_acc": 0.34,
+  "sapm": 2.84,
+  "str_def": 0.55,
+  "td_avg": 2.58,
+  "td_acc": 0.45,
+  "td_def": 0.65,
+  "sub_avg": 0.2
+}

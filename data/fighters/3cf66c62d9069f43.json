@@ -1,0 +1,23 @@
+{
+  "fighter_id": "3cf66c62d9069f43",
+  "name": "Lucie Pudilova",
+  "nickname": "",
+  "height_inches": 68,
+  "weight_lbs": 125,
+  "reach_inches": 67,
+  "stance": "Orthodox",
+  "dob": "1994-06-13",
+  "gender": "female",
+  "record_wins": 14,
+  "record_losses": 10,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.6,
+  "str_acc": 0.37,
+  "sapm": 4.07,
+  "str_def": 0.5,
+  "td_avg": 0.7,
+  "td_acc": 0.31,
+  "td_def": 0.67,
+  "sub_avg": 0.6
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "9ccf8371fd80d45d",
+  "name": "Luan Chagas",
+  "nickname": "Tarzan",
+  "height_inches": 72,
+  "weight_lbs": 170,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1993-06-17",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 3,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.16,
+  "str_acc": 0.47,
+  "sapm": 3.19,
+  "str_def": 0.62,
+  "td_avg": 0.32,
+  "td_acc": 0.12,
+  "td_def": 0.85,
+  "sub_avg": 0.3
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "51c655162e462ceb",
+  "name": "Shannon Ross",
+  "nickname": "The Turkish Delight",
+  "height_inches": 66,
+  "weight_lbs": 125,
+  "reach_inches": 66,
+  "stance": "Switch",
+  "dob": "1989-05-12",
+  "gender": "male",
+  "record_wins": 13,
+  "record_losses": 9,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.96,
+  "str_acc": 0.39,
+  "sapm": 7.39,
+  "str_def": 0.55,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 1.0,
+  "sub_avg": 0.0
+}

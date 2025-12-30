@@ -1,0 +1,23 @@
+{
+  "fighter_id": "5904b0b38dc6718d",
+  "name": "Cody Pfister",
+  "nickname": "The Fist",
+  "height_inches": 70,
+  "weight_lbs": 155,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1990-07-12",
+  "gender": "male",
+  "record_wins": 13,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 1.41,
+  "str_acc": 0.25,
+  "sapm": 2.8,
+  "str_def": 0.51,
+  "td_avg": 2.82,
+  "td_acc": 0.3,
+  "td_def": 0.0,
+  "sub_avg": 0.0
+}

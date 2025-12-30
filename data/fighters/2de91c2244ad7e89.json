@@ -1,0 +1,23 @@
+{
+  "fighter_id": "2de91c2244ad7e89",
+  "name": "Dominic Waters",
+  "nickname": "Sho Nuff",
+  "height_inches": 73,
+  "weight_lbs": 170,
+  "reach_inches": 79,
+  "stance": "Orthodox",
+  "dob": "1989-04-11",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 0.48,
+  "str_acc": 0.23,
+  "sapm": 2.53,
+  "str_def": 0.39,
+  "td_avg": 4.07,
+  "td_acc": 0.52,
+  "td_def": 0.28,
+  "sub_avg": 0.0
+}

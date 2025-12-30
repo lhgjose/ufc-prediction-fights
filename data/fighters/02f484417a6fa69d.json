@@ -1,0 +1,23 @@
+{
+  "fighter_id": "02f484417a6fa69d",
+  "name": "Uran Satybaldiev",
+  "nickname": "Gorilla",
+  "height_inches": 76,
+  "weight_lbs": 205,
+  "reach_inches": 79,
+  "stance": "Orthodox",
+  "dob": "1994-08-10",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 1,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.14,
+  "str_acc": 0.25,
+  "sapm": 3.66,
+  "str_def": 0.44,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.5,
+  "sub_avg": 1.7
+}

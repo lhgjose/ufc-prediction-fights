@@ -1,0 +1,23 @@
+{
+  "fighter_id": "65578a75fa7900e3",
+  "name": "Uriah Hall",
+  "nickname": "Prime Time",
+  "height_inches": 72,
+  "weight_lbs": 185,
+  "reach_inches": 79,
+  "stance": "Orthodox",
+  "dob": "1984-07-31",
+  "gender": "male",
+  "record_wins": 18,
+  "record_losses": 11,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.23,
+  "str_acc": 0.48,
+  "sapm": 3.85,
+  "str_def": 0.54,
+  "td_avg": 0.54,
+  "td_acc": 0.38,
+  "td_def": 0.64,
+  "sub_avg": 0.1
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "eff9074bc066f0f2",
+  "name": "Bia Mesquita",
+  "nickname": "",
+  "height_inches": 64,
+  "weight_lbs": 135,
+  "reach_inches": 67,
+  "stance": "Orthodox",
+  "dob": "1991-04-07",
+  "gender": "female",
+  "record_wins": 6,
+  "record_losses": 0,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.98,
+  "str_acc": 0.57,
+  "sapm": 0.83,
+  "str_def": 0.73,
+  "td_avg": 4.15,
+  "td_acc": 0.66,
+  "td_def": 0.0,
+  "sub_avg": 2.1
+}

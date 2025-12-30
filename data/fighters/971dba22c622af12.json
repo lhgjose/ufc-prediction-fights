@@ -1,0 +1,23 @@
+{
+  "fighter_id": "971dba22c622af12",
+  "name": "Josefine Knutsson",
+  "nickname": "Thunder",
+  "height_inches": 63,
+  "weight_lbs": 115,
+  "reach_inches": 60,
+  "stance": "Orthodox",
+  "dob": "1996-01-16",
+  "gender": "female",
+  "record_wins": 8,
+  "record_losses": 1,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.24,
+  "str_acc": 0.51,
+  "sapm": 2.13,
+  "str_def": 0.54,
+  "td_avg": 1.6,
+  "td_acc": 0.72,
+  "td_def": 0.35,
+  "sub_avg": 0.0
+}

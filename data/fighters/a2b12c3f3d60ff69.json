@@ -1,0 +1,23 @@
+{
+  "fighter_id": "a2b12c3f3d60ff69",
+  "name": "Alex Garcia",
+  "nickname": "The Dominican Nightmare",
+  "height_inches": 69,
+  "weight_lbs": 170,
+  "reach_inches": 72,
+  "stance": "Orthodox",
+  "dob": "1987-07-14",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 1.81,
+  "str_acc": 0.31,
+  "sapm": 3.03,
+  "str_def": 0.59,
+  "td_avg": 3.72,
+  "td_acc": 0.52,
+  "td_def": 0.66,
+  "sub_avg": 0.1
+}

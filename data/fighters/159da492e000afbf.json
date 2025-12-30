@@ -1,0 +1,23 @@
+{
+  "fighter_id": "159da492e000afbf",
+  "name": "Leandro Silva",
+  "nickname": "Buscape",
+  "height_inches": 69,
+  "weight_lbs": 155,
+  "reach_inches": 72,
+  "stance": "Orthodox",
+  "dob": "1985-11-11",
+  "gender": "male",
+  "record_wins": 20,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 2.39,
+  "str_acc": 0.48,
+  "sapm": 2.08,
+  "str_def": 0.63,
+  "td_avg": 1.76,
+  "td_acc": 0.37,
+  "td_def": 0.65,
+  "sub_avg": 0.4
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "bffeb123b21c9aad",
+  "name": "Darrell Montague",
+  "nickname": "Mongoose",
+  "height_inches": 66,
+  "weight_lbs": 125,
+  "reach_inches": 67,
+  "stance": "Southpaw",
+  "dob": "1987-11-03",
+  "gender": "male",
+  "record_wins": 13,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 1.92,
+  "str_acc": 0.25,
+  "sapm": 5.38,
+  "str_def": 0.52,
+  "td_avg": 0.72,
+  "td_acc": 0.25,
+  "td_def": 0.33,
+  "sub_avg": 1.4
+}

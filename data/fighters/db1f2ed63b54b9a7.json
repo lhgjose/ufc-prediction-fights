@@ -1,0 +1,23 @@
+{
+  "fighter_id": "db1f2ed63b54b9a7",
+  "name": "Hector Lombard",
+  "nickname": "",
+  "height_inches": 69,
+  "weight_lbs": 185,
+  "reach_inches": 71,
+  "stance": "Southpaw",
+  "dob": "1978-02-02",
+  "gender": "male",
+  "record_wins": 34,
+  "record_losses": 10,
+  "record_draws": 1,
+  "record_nc": 2,
+  "slpm": 3.02,
+  "str_acc": 0.46,
+  "sapm": 3.35,
+  "str_def": 0.53,
+  "td_avg": 1.69,
+  "td_acc": 0.48,
+  "td_def": 0.77,
+  "sub_avg": 0.5
+}

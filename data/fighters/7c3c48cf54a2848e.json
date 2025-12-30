@@ -1,0 +1,23 @@
+{
+  "fighter_id": "7c3c48cf54a2848e",
+  "name": "Yuta Sasaki",
+  "nickname": "Ulka",
+  "height_inches": 70,
+  "weight_lbs": 125,
+  "reach_inches": 71,
+  "stance": "Southpaw",
+  "dob": "1989-10-07",
+  "gender": "male",
+  "record_wins": 21,
+  "record_losses": 6,
+  "record_draws": 2,
+  "record_nc": 0,
+  "slpm": 2.16,
+  "str_acc": 0.41,
+  "sapm": 2.5,
+  "str_def": 0.5,
+  "td_avg": 3.03,
+  "td_acc": 0.43,
+  "td_def": 0.41,
+  "sub_avg": 1.2
+}

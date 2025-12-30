@@ -1,0 +1,23 @@
+{
+  "fighter_id": "76984112f697631f",
+  "name": "Leslie Smith",
+  "nickname": "The Peacemaker",
+  "height_inches": 69,
+  "weight_lbs": 135,
+  "reach_inches": 66,
+  "stance": "Orthodox",
+  "dob": "1982-08-17",
+  "gender": "female",
+  "record_wins": 10,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 7.56,
+  "str_acc": 0.4,
+  "sapm": 8.41,
+  "str_def": 0.51,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.62,
+  "sub_avg": 0.0
+}

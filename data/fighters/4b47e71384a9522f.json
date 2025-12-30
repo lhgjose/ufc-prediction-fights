@@ -1,0 +1,23 @@
+{
+  "fighter_id": "4b47e71384a9522f",
+  "name": "Tim Means",
+  "nickname": "The Dirty Bird",
+  "height_inches": 74,
+  "weight_lbs": 170,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1984-02-20",
+  "gender": "male",
+  "record_wins": 33,
+  "record_losses": 17,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 5.04,
+  "str_acc": 0.49,
+  "sapm": 3.65,
+  "str_def": 0.6,
+  "td_avg": 1.14,
+  "td_acc": 0.4,
+  "td_def": 0.64,
+  "sub_avg": 0.2
+}

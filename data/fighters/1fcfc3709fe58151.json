@@ -1,0 +1,23 @@
+{
+  "fighter_id": "1fcfc3709fe58151",
+  "name": "Peter Sobotta",
+  "nickname": "",
+  "height_inches": 72,
+  "weight_lbs": 170,
+  "reach_inches": 75,
+  "stance": "Southpaw",
+  "dob": "1987-01-11",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.14,
+  "str_acc": 0.4,
+  "sapm": 2.9,
+  "str_def": 0.58,
+  "td_avg": 1.53,
+  "td_acc": 0.32,
+  "td_def": 0.77,
+  "sub_avg": 0.5
+}

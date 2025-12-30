@@ -1,0 +1,23 @@
+{
+  "fighter_id": "6e7c758f5cdec01a",
+  "name": "Paddy Holohan",
+  "nickname": "The Hooligan",
+  "height_inches": 70,
+  "weight_lbs": 125,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1988-05-03",
+  "gender": "male",
+  "record_wins": 12,
+  "record_losses": 2,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.13,
+  "str_acc": 0.46,
+  "sapm": 2.81,
+  "str_def": 0.46,
+  "td_avg": 2.88,
+  "td_acc": 0.47,
+  "td_def": 0.71,
+  "sub_avg": 1.3
+}

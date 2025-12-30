@@ -1,0 +1,20 @@
+{
+  "event_id": "db1f2ed63b54b9a7",
+  "name": "UFC 196: McGregor vs Diaz",
+  "event_date": "2016-03-05",
+  "location": "Las Vegas, Nevada, USA",
+  "fight_ids": [
+    "4ace70bff9debdfb",
+    "7ffd80b65b0ff942",
+    "17c598d7841daae0",
+    "0bdea30d7a7322f7",
+    "ba2f3b9a12400aa0",
+    "e86f7b7f3a047d2a",
+    "90a5ddd6738605d9",
+    "49f83168974fb60f",
+    "d3255f2b8ef2b559",
+    "3f3b8dcd16dd7383",
+    "8295c37ad4b6187e",
+    "6ecd93dbbaba7e10"
+  ]
+}

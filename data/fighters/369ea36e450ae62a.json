@@ -1,0 +1,23 @@
+{
+  "fighter_id": "369ea36e450ae62a",
+  "name": "Armen Petrosyan",
+  "nickname": "Superman",
+  "height_inches": 75,
+  "weight_lbs": 185,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1990-11-03",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.84,
+  "str_acc": 0.53,
+  "sapm": 3.31,
+  "str_def": 0.53,
+  "td_avg": 0.17,
+  "td_acc": 0.33,
+  "td_def": 0.41,
+  "sub_avg": 0.0
+}

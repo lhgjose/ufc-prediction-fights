@@ -1,0 +1,23 @@
+{
+  "fighter_id": "eabf206b162b3b83",
+  "name": "Paul Craig",
+  "nickname": "Bearjew",
+  "height_inches": 75,
+  "weight_lbs": 205,
+  "reach_inches": 76,
+  "stance": "Orthodox",
+  "dob": "1987-11-27",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 10,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 2.5,
+  "str_acc": 0.45,
+  "sapm": 3.04,
+  "str_def": 0.43,
+  "td_avg": 1.43,
+  "td_acc": 0.18,
+  "td_def": 0.35,
+  "sub_avg": 1.3
+}

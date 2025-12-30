@@ -1,0 +1,23 @@
+{
+  "fighter_id": "b1a3e0aca758b322",
+  "name": "Derek Brunson",
+  "nickname": "The One",
+  "height_inches": 73,
+  "weight_lbs": 185,
+  "reach_inches": 77,
+  "stance": "Southpaw",
+  "dob": "1984-01-04",
+  "gender": "male",
+  "record_wins": 23,
+  "record_losses": 9,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.51,
+  "str_acc": 0.47,
+  "sapm": 3.05,
+  "str_def": 0.51,
+  "td_avg": 3.14,
+  "td_acc": 0.33,
+  "td_def": 0.85,
+  "sub_avg": 0.6
+}

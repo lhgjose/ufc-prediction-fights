@@ -1,0 +1,23 @@
+{
+  "fighter_id": "fcce75a25c14a804",
+  "name": "Bojan Velickovic",
+  "nickname": "Serbian Steel",
+  "height_inches": 72,
+  "weight_lbs": 170,
+  "reach_inches": 76,
+  "stance": "Southpaw",
+  "dob": "1988-12-18",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.18,
+  "str_acc": 0.34,
+  "sapm": 2.31,
+  "str_def": 0.57,
+  "td_avg": 0.67,
+  "td_acc": 0.25,
+  "td_def": 0.55,
+  "sub_avg": 0.5
+}

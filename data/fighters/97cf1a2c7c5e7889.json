@@ -1,0 +1,23 @@
+{
+  "fighter_id": "97cf1a2c7c5e7889",
+  "name": "Steve Garcia",
+  "nickname": "Mean Machine",
+  "height_inches": 72,
+  "weight_lbs": 145,
+  "reach_inches": 75,
+  "stance": "Southpaw",
+  "dob": "1992-05-22",
+  "gender": "male",
+  "record_wins": 19,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.39,
+  "str_acc": 0.49,
+  "sapm": 2.12,
+  "str_def": 0.59,
+  "td_avg": 0.86,
+  "td_acc": 0.4,
+  "td_def": 0.88,
+  "sub_avg": 0.4
+}

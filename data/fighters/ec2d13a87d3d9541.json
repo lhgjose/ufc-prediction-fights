@@ -1,0 +1,23 @@
+{
+  "fighter_id": "ec2d13a87d3d9541",
+  "name": "Sheldon Westcott",
+  "nickname": "",
+  "height_inches": 73,
+  "weight_lbs": 170,
+  "reach_inches": 71,
+  "stance": "Southpaw",
+  "dob": "1984-08-20",
+  "gender": "male",
+  "record_wins": 10,
+  "record_losses": 3,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.26,
+  "str_acc": 0.4,
+  "sapm": 3.73,
+  "str_def": 0.37,
+  "td_avg": 3.23,
+  "td_acc": 0.37,
+  "td_def": 0.14,
+  "sub_avg": 0.0
+}

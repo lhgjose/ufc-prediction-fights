@@ -1,0 +1,23 @@
+{
+  "fighter_id": "4b8fb0453a596b8e",
+  "name": "Hector Urbina",
+  "nickname": "El Toro",
+  "height_inches": 71,
+  "weight_lbs": 170,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1987-09-17",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 10,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 0.97,
+  "str_acc": 0.38,
+  "sapm": 2.44,
+  "str_def": 0.39,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.38,
+  "sub_avg": 3.8
+}

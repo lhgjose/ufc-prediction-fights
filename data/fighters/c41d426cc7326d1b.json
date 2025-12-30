@@ -1,0 +1,23 @@
+{
+  "fighter_id": "c41d426cc7326d1b",
+  "name": "Yan Xiaonan",
+  "nickname": "",
+  "height_inches": 65,
+  "weight_lbs": 115,
+  "reach_inches": 63,
+  "stance": "Orthodox",
+  "dob": "1989-06-16",
+  "gender": "female",
+  "record_wins": 19,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 4.69,
+  "str_acc": 0.45,
+  "sapm": 3.23,
+  "str_def": 0.6,
+  "td_avg": 0.84,
+  "td_acc": 0.73,
+  "td_def": 0.64,
+  "sub_avg": 0.0
+}

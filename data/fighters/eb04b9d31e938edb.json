@@ -1,0 +1,23 @@
+{
+  "fighter_id": "eb04b9d31e938edb",
+  "name": "Michelle Waterson-Gomez",
+  "nickname": "The Karate Hottie",
+  "height_inches": 63,
+  "weight_lbs": 115,
+  "reach_inches": 62,
+  "stance": "Orthodox",
+  "dob": "1986-01-06",
+  "gender": "female",
+  "record_wins": 18,
+  "record_losses": 13,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.42,
+  "str_acc": 0.46,
+  "sapm": 4.25,
+  "str_def": 0.48,
+  "td_avg": 1.39,
+  "td_acc": 0.33,
+  "td_def": 0.69,
+  "sub_avg": 0.6
+}

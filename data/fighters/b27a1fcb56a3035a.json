@@ -1,0 +1,23 @@
+{
+  "fighter_id": "b27a1fcb56a3035a",
+  "name": "Trevin Giles",
+  "nickname": "",
+  "height_inches": 72,
+  "weight_lbs": 170,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "1992-08-06",
+  "gender": "male",
+  "record_wins": 16,
+  "record_losses": 7,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.17,
+  "str_acc": 0.54,
+  "sapm": 2.39,
+  "str_def": 0.58,
+  "td_avg": 1.07,
+  "td_acc": 0.5,
+  "td_def": 0.72,
+  "sub_avg": 0.3
+}

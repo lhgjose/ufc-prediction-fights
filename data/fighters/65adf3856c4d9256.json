@@ -1,0 +1,23 @@
+{
+  "fighter_id": "65adf3856c4d9256",
+  "name": "Jafel Filho",
+  "nickname": "Pastor",
+  "height_inches": 67,
+  "weight_lbs": 125,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1993-05-05",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 1.85,
+  "str_acc": 0.41,
+  "sapm": 1.62,
+  "str_def": 0.5,
+  "td_avg": 2.52,
+  "td_acc": 0.45,
+  "td_def": 0.66,
+  "sub_avg": 2.2
+}

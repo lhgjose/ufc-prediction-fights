@@ -1,0 +1,23 @@
+{
+  "fighter_id": "b76c6268dc1d3c05",
+  "name": "Danielle Taylor",
+  "nickname": "Dynamite",
+  "height_inches": 60,
+  "weight_lbs": 115,
+  "reach_inches": 60,
+  "stance": "Orthodox",
+  "dob": "1989-10-25",
+  "gender": "female",
+  "record_wins": 9,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.75,
+  "str_acc": 0.29,
+  "sapm": 3.31,
+  "str_def": 0.71,
+  "td_avg": 0.2,
+  "td_acc": 0.2,
+  "td_def": 0.7,
+  "sub_avg": 0.2
+}

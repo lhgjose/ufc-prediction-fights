@@ -1,0 +1,23 @@
+{
+  "fighter_id": "c945adc22c2bfe8f",
+  "name": "Brad Pickett",
+  "nickname": "One Punch",
+  "height_inches": 66,
+  "weight_lbs": 135,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1978-09-24",
+  "gender": "male",
+  "record_wins": 25,
+  "record_losses": 14,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.02,
+  "str_acc": 0.31,
+  "sapm": 4.63,
+  "str_def": 0.55,
+  "td_avg": 2.47,
+  "td_acc": 0.44,
+  "td_def": 0.58,
+  "sub_avg": 0.4
+}

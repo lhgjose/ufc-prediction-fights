@@ -1,0 +1,23 @@
+{
+  "fighter_id": "82d4c957649faf9b",
+  "name": "Miguel Baeza",
+  "nickname": "Caramel Thunder",
+  "height_inches": 74,
+  "weight_lbs": 170,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "1992-08-23",
+  "gender": "male",
+  "record_wins": 10,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.09,
+  "str_acc": 0.49,
+  "sapm": 5.92,
+  "str_def": 0.46,
+  "td_avg": 0.36,
+  "td_acc": 0.22,
+  "td_def": 0.54,
+  "sub_avg": 2.0
+}

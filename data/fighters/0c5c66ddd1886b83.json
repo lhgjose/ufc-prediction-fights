@@ -1,0 +1,23 @@
+{
+  "fighter_id": "0c5c66ddd1886b83",
+  "name": "Caio Magalhaes",
+  "nickname": "Hellboy",
+  "height_inches": 73,
+  "weight_lbs": 185,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1987-12-14",
+  "gender": "male",
+  "record_wins": 10,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.27,
+  "str_acc": 0.4,
+  "sapm": 2.78,
+  "str_def": 0.56,
+  "td_avg": 1.05,
+  "td_acc": 0.15,
+  "td_def": 0.58,
+  "sub_avg": 1.6
+}

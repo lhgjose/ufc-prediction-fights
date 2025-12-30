@@ -1,0 +1,23 @@
+{
+  "fighter_id": "f782f953bfe7b5f2",
+  "name": "Jonathan Micallef",
+  "nickname": "The Captain",
+  "height_inches": 72,
+  "weight_lbs": 170,
+  "reach_inches": 77,
+  "stance": "Southpaw",
+  "dob": "1999-03-05",
+  "gender": "male",
+  "record_wins": 8,
+  "record_losses": 1,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.77,
+  "str_acc": 0.43,
+  "sapm": 4.0,
+  "str_def": 0.58,
+  "td_avg": 0.83,
+  "td_acc": 0.5,
+  "td_def": 0.5,
+  "sub_avg": 0.8
+}

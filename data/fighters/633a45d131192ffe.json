@@ -1,0 +1,23 @@
+{
+  "fighter_id": "633a45d131192ffe",
+  "name": "Kajan Johnson",
+  "nickname": "Ragin'",
+  "height_inches": 71,
+  "weight_lbs": 155,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1984-04-21",
+  "gender": "male",
+  "record_wins": 23,
+  "record_losses": 13,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.47,
+  "str_acc": 0.42,
+  "sapm": 1.59,
+  "str_def": 0.64,
+  "td_avg": 1.54,
+  "td_acc": 0.37,
+  "td_def": 0.62,
+  "sub_avg": 0.2
+}

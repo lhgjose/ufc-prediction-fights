@@ -1,0 +1,23 @@
+{
+  "fighter_id": "dd6103dd7127db1d",
+  "name": "Mike Malott",
+  "nickname": "Proper",
+  "height_inches": 73,
+  "weight_lbs": 170,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1991-11-07",
+  "gender": "male",
+  "record_wins": 13,
+  "record_losses": 2,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.93,
+  "str_acc": 0.48,
+  "sapm": 3.06,
+  "str_def": 0.56,
+  "td_avg": 1.88,
+  "td_acc": 0.5,
+  "td_def": 0.14,
+  "sub_avg": 0.8
+}

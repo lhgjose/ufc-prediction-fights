@@ -1,0 +1,23 @@
+{
+  "fighter_id": "f8f1ec513bcfef43",
+  "name": "Alexander Munoz",
+  "nickname": "",
+  "height_inches": 69,
+  "weight_lbs": 155,
+  "reach_inches": 72,
+  "stance": "Switch",
+  "dob": "1990-02-27",
+  "gender": "male",
+  "record_wins": 7,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.7,
+  "str_acc": 0.42,
+  "sapm": 4.73,
+  "str_def": 0.55,
+  "td_avg": 3.0,
+  "td_acc": 0.4,
+  "td_def": 1.0,
+  "sub_avg": 0.0
+}

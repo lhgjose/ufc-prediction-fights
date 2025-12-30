@@ -1,0 +1,23 @@
+{
+  "fighter_id": "d9a56ecb6e94f02e",
+  "name": "Evan Elder",
+  "nickname": "The Phenom",
+  "height_inches": 70,
+  "weight_lbs": 155,
+  "reach_inches": 72,
+  "stance": "Switch",
+  "dob": "1997-04-11",
+  "gender": "male",
+  "record_wins": 10,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.66,
+  "str_acc": 0.5,
+  "sapm": 4.94,
+  "str_def": 0.57,
+  "td_avg": 0.48,
+  "td_acc": 0.15,
+  "td_def": 0.4,
+  "sub_avg": 0.5
+}

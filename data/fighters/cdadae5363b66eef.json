@@ -1,0 +1,23 @@
+{
+  "fighter_id": "cdadae5363b66eef",
+  "name": "Francisco Figueiredo",
+  "nickname": "Sniper",
+  "height_inches": 66,
+  "weight_lbs": 125,
+  "reach_inches": 68,
+  "stance": "Southpaw",
+  "dob": "1989-10-23",
+  "gender": "male",
+  "record_wins": 13,
+  "record_losses": 5,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 2.04,
+  "str_acc": 0.61,
+  "sapm": 2.59,
+  "str_def": 0.61,
+  "td_avg": 2.51,
+  "td_acc": 0.75,
+  "td_def": 0.76,
+  "sub_avg": 0.4
+}

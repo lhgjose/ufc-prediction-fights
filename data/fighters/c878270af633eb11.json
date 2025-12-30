@@ -1,0 +1,23 @@
+{
+  "fighter_id": "c878270af633eb11",
+  "name": "Jordan Wright",
+  "nickname": "The Beverly Hills Ninja",
+  "height_inches": 74,
+  "weight_lbs": 205,
+  "reach_inches": 77,
+  "stance": "Orthodox",
+  "dob": "1991-10-07",
+  "gender": "male",
+  "record_wins": 12,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 4.1,
+  "str_acc": 0.56,
+  "sapm": 6.03,
+  "str_def": 0.31,
+  "td_avg": 2.09,
+  "td_acc": 0.45,
+  "td_def": 1.0,
+  "sub_avg": 0.4
+}

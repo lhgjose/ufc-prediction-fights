@@ -1,0 +1,23 @@
+{
+  "fighter_id": "15ea371202eb25e1",
+  "name": "Roberto Romero",
+  "nickname": "El Charro Negro",
+  "height_inches": 68,
+  "weight_lbs": 145,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "2000-01-30",
+  "gender": "male",
+  "record_wins": 8,
+  "record_losses": 5,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.56,
+  "str_acc": 0.49,
+  "sapm": 6.44,
+  "str_def": 0.44,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.71,
+  "sub_avg": 0.0
+}

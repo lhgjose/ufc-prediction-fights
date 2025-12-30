@@ -1,0 +1,23 @@
+{
+  "fighter_id": "72e5e5a6edfa8223",
+  "name": "Marcos Mariano",
+  "nickname": "Dhalsim",
+  "height_inches": 73,
+  "weight_lbs": 155,
+  "reach_inches": 76,
+  "stance": "Switch",
+  "dob": "1986-10-12",
+  "gender": "male",
+  "record_wins": 6,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 0.25,
+  "str_acc": 0.27,
+  "sapm": 2.11,
+  "str_def": 0.43,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.28,
+  "sub_avg": 0.0
+}

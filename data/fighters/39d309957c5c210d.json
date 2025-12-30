@@ -1,0 +1,23 @@
+{
+  "fighter_id": "39d309957c5c210d",
+  "name": "Mario Pinto",
+  "nickname": "",
+  "height_inches": 77,
+  "weight_lbs": 265,
+  "reach_inches": 79,
+  "stance": "Orthodox",
+  "dob": "1998-03-14",
+  "gender": "male",
+  "record_wins": 11,
+  "record_losses": 0,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.39,
+  "str_acc": 0.78,
+  "sapm": 2.42,
+  "str_def": 0.53,
+  "td_avg": 2.72,
+  "td_acc": 0.6,
+  "td_def": 1.0,
+  "sub_avg": 1.8
+}

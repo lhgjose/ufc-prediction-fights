@@ -1,0 +1,23 @@
+{
+  "fighter_id": "d967f0128c323de6",
+  "name": "Daniel Cormier",
+  "nickname": "DC",
+  "height_inches": 71,
+  "weight_lbs": 235,
+  "reach_inches": 72,
+  "stance": "Orthodox",
+  "dob": "1979-03-20",
+  "gender": "male",
+  "record_wins": 22,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 4.25,
+  "str_acc": 0.52,
+  "sapm": 2.92,
+  "str_def": 0.54,
+  "td_avg": 1.83,
+  "td_acc": 0.44,
+  "td_def": 0.8,
+  "sub_avg": 0.4
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "8a304bfd6bf04a57",
+  "name": "Demetrious Johnson",
+  "nickname": "Mighty Mouse",
+  "height_inches": 63,
+  "weight_lbs": 125,
+  "reach_inches": 66,
+  "stance": "Orthodox",
+  "dob": "1986-08-13",
+  "gender": "male",
+  "record_wins": 27,
+  "record_losses": 3,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.43,
+  "str_acc": 0.54,
+  "sapm": 1.66,
+  "str_def": 0.67,
+  "td_avg": 3.35,
+  "td_acc": 0.56,
+  "td_def": 0.65,
+  "sub_avg": 0.5
+}

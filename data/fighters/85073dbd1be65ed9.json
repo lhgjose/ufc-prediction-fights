@@ -1,0 +1,23 @@
+{
+  "fighter_id": "85073dbd1be65ed9",
+  "name": "Greg Hardy",
+  "nickname": "Prince of War",
+  "height_inches": 77,
+  "weight_lbs": 265,
+  "reach_inches": 80,
+  "stance": "Orthodox",
+  "dob": "1988-07-28",
+  "gender": "male",
+  "record_wins": 7,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 4.79,
+  "str_acc": 0.5,
+  "sapm": 3.31,
+  "str_def": 0.55,
+  "td_avg": 0.2,
+  "td_acc": 0.33,
+  "td_def": 0.64,
+  "sub_avg": 0.0
+}

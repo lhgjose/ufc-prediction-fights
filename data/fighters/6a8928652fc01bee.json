@@ -1,0 +1,23 @@
+{
+  "fighter_id": "6a8928652fc01bee",
+  "name": "Brandon Jenkins",
+  "nickname": "The Human Highlight Reel",
+  "height_inches": 72,
+  "weight_lbs": 155,
+  "reach_inches": 71,
+  "stance": "Switch",
+  "dob": "1991-09-30",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 9,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.93,
+  "str_acc": 0.41,
+  "sapm": 8.05,
+  "str_def": 0.33,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.27,
+  "sub_avg": 0.0
+}

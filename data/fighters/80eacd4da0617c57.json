@@ -1,0 +1,23 @@
+{
+  "fighter_id": "80eacd4da0617c57",
+  "name": "Joseph Benavidez",
+  "nickname": "",
+  "height_inches": 64,
+  "weight_lbs": 125,
+  "reach_inches": 65,
+  "stance": "Southpaw",
+  "dob": "1984-07-31",
+  "gender": "male",
+  "record_wins": 28,
+  "record_losses": 8,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.52,
+  "str_acc": 0.34,
+  "sapm": 2.67,
+  "str_def": 0.61,
+  "td_avg": 1.41,
+  "td_acc": 0.3,
+  "td_def": 0.62,
+  "sub_avg": 0.6
+}

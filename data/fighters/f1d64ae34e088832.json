@@ -1,0 +1,23 @@
+{
+  "fighter_id": "f1d64ae34e088832",
+  "name": "Charles Jourdain",
+  "nickname": "Air",
+  "height_inches": 69,
+  "weight_lbs": 135,
+  "reach_inches": 69,
+  "stance": "Switch",
+  "dob": "1995-11-27",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 8,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 5.48,
+  "str_acc": 0.49,
+  "sapm": 4.25,
+  "str_def": 0.56,
+  "td_avg": 0.33,
+  "td_acc": 0.21,
+  "td_def": 0.47,
+  "sub_avg": 0.7
+}

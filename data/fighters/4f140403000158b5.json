@@ -1,0 +1,23 @@
+{
+  "fighter_id": "4f140403000158b5",
+  "name": "Herbert Burns",
+  "nickname": "The Blaze",
+  "height_inches": 69,
+  "weight_lbs": 145,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1988-02-02",
+  "gender": "male",
+  "record_wins": 11,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 1.86,
+  "str_acc": 0.36,
+  "sapm": 5.17,
+  "str_def": 0.41,
+  "td_avg": 2.94,
+  "td_acc": 0.34,
+  "td_def": 0.66,
+  "sub_avg": 1.8
+}

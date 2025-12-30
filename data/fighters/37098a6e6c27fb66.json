@@ -1,0 +1,23 @@
+{
+  "fighter_id": "37098a6e6c27fb66",
+  "name": "Vince Morales",
+  "nickname": "Vandetta",
+  "height_inches": 67,
+  "weight_lbs": 135,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "1990-11-12",
+  "gender": "male",
+  "record_wins": 16,
+  "record_losses": 10,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.57,
+  "str_acc": 0.37,
+  "sapm": 4.0,
+  "str_def": 0.53,
+  "td_avg": 0.59,
+  "td_acc": 0.4,
+  "td_def": 0.58,
+  "sub_avg": 0.5
+}

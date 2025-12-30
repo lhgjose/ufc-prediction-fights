@@ -1,0 +1,23 @@
+{
+  "fighter_id": "ec13c393d029297d",
+  "name": "Kaue Fernandes",
+  "nickname": "",
+  "height_inches": 69,
+  "weight_lbs": 155,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1995-03-17",
+  "gender": "male",
+  "record_wins": 11,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.28,
+  "str_acc": 0.55,
+  "sapm": 1.42,
+  "str_def": 0.62,
+  "td_avg": 1.18,
+  "td_acc": 1.0,
+  "td_def": 0.76,
+  "sub_avg": 0.0
+}

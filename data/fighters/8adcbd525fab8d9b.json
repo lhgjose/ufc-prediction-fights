@@ -1,0 +1,23 @@
+{
+  "fighter_id": "8adcbd525fab8d9b",
+  "name": "Elizeu Zaleski dos Santos",
+  "nickname": "Capoeira",
+  "height_inches": 71,
+  "weight_lbs": 170,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1986-12-11",
+  "gender": "male",
+  "record_wins": 25,
+  "record_losses": 10,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.16,
+  "str_acc": 0.41,
+  "sapm": 3.56,
+  "str_def": 0.55,
+  "td_avg": 0.79,
+  "td_acc": 0.2,
+  "td_def": 0.67,
+  "sub_avg": 0.4
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "6f242453c91a5af0",
+  "name": "Dennis Bermudez",
+  "nickname": "The Menace",
+  "height_inches": 66,
+  "weight_lbs": 155,
+  "reach_inches": 66,
+  "stance": "Orthodox",
+  "dob": "1986-12-13",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 9,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.42,
+  "str_acc": 0.46,
+  "sapm": 3.07,
+  "str_def": 0.59,
+  "td_avg": 3.89,
+  "td_acc": 0.4,
+  "td_def": 0.82,
+  "sub_avg": 1.1
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "7d96bc577e5178b2",
+  "name": "Gray Maynard",
+  "nickname": "",
+  "height_inches": 69,
+  "weight_lbs": 155,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "1979-05-09",
+  "gender": "male",
+  "record_wins": 13,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 1.92,
+  "str_acc": 0.32,
+  "sapm": 2.64,
+  "str_def": 0.66,
+  "td_avg": 2.91,
+  "td_acc": 0.47,
+  "td_def": 0.81,
+  "sub_avg": 0.7
+}

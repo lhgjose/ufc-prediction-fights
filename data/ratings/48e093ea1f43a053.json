@@ -1,0 +1,68 @@
+{
+  "fighter_id": "48e093ea1f43a053",
+  "ratings": {
+    "knockout_power": {
+      "dimension": "knockout_power",
+      "rating": 1440.1891105548152,
+      "games_played": 6,
+      "last_updated": "2016-12-17"
+    },
+    "striking_volume": {
+      "dimension": "striking_volume",
+      "rating": 1497.4178041929954,
+      "games_played": 6,
+      "last_updated": "2016-12-17"
+    },
+    "striking_defense": {
+      "dimension": "striking_defense",
+      "rating": 1524.6946569430215,
+      "games_played": 6,
+      "last_updated": "2016-12-17"
+    },
+    "wrestling_offense": {
+      "dimension": "wrestling_offense",
+      "rating": 1498.6327879989642,
+      "games_played": 6,
+      "last_updated": "2016-12-17"
+    },
+    "wrestling_defense": {
+      "dimension": "wrestling_defense",
+      "rating": 1530.5146612081323,
+      "games_played": 6,
+      "last_updated": "2016-12-17"
+    },
+    "submission_offense": {
+      "dimension": "submission_offense",
+      "rating": 1499.8514562976827,
+      "games_played": 6,
+      "last_updated": "2016-12-17"
+    },
+    "submission_defense": {
+      "dimension": "submission_defense",
+      "rating": 1510.116539198198,
+      "games_played": 6,
+      "last_updated": "2016-12-17"
+    },
+    "cardio": {
+      "dimension": "cardio",
+      "rating": 1493.9170732824095,
+      "games_played": 6,
+      "last_updated": "2016-12-17"
+    },
+    "pressure": {
+      "dimension": "pressure",
+      "rating": 1455.6365026750866,
+      "games_played": 6,
+      "last_updated": "2016-12-17"
+    },
+    "adaptability": {
+      "dimension": "adaptability",
+      "rating": 1486.53638569113,
+      "games_played": 6,
+      "last_updated": "2016-12-17"
+    }
+  },
+  "ko_losses": 4,
+  "last_fight_date": "2016-12-17",
+  "total_fights": 6
+}

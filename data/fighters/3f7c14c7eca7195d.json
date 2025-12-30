@@ -1,0 +1,23 @@
+{
+  "fighter_id": "3f7c14c7eca7195d",
+  "name": "Roy Nelson",
+  "nickname": "Big Country",
+  "height_inches": 72,
+  "weight_lbs": 263,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1976-06-20",
+  "gender": "male",
+  "record_wins": 22,
+  "record_losses": 14,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.18,
+  "str_acc": 0.36,
+  "sapm": 4.79,
+  "str_def": 0.46,
+  "td_avg": 1.14,
+  "td_acc": 0.27,
+  "td_def": 0.65,
+  "sub_avg": 0.1
+}

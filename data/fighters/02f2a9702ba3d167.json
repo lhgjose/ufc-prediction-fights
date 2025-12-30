@@ -1,0 +1,23 @@
+{
+  "fighter_id": "02f2a9702ba3d167",
+  "name": "Artem Lobov",
+  "nickname": "The Russian Hammer",
+  "height_inches": 69,
+  "weight_lbs": 145,
+  "reach_inches": 65,
+  "stance": "Southpaw",
+  "dob": "1986-08-11",
+  "gender": "male",
+  "record_wins": 13,
+  "record_losses": 15,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 3.52,
+  "str_acc": 0.41,
+  "sapm": 4.82,
+  "str_def": 0.5,
+  "td_avg": 0.39,
+  "td_acc": 0.25,
+  "td_def": 0.52,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "e14b5aa06eea9653",
+  "name": "Abel Trujillo",
+  "nickname": "Killa",
+  "height_inches": 68,
+  "weight_lbs": 155,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "1983-09-18",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 8,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 2.65,
+  "str_acc": 0.41,
+  "sapm": 2.31,
+  "str_def": 0.59,
+  "td_avg": 2.18,
+  "td_acc": 0.45,
+  "td_def": 0.4,
+  "sub_avg": 0.4
+}

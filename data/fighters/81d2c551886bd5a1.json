@@ -1,0 +1,23 @@
+{
+  "fighter_id": "81d2c551886bd5a1",
+  "name": "Alice Pereira",
+  "nickname": "Golden Girl",
+  "height_inches": 68,
+  "weight_lbs": 135,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "2005-12-20",
+  "gender": "female",
+  "record_wins": 6,
+  "record_losses": 1,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.47,
+  "str_acc": 0.31,
+  "sapm": 3.0,
+  "str_def": 0.72,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 1.0,
+  "sub_avg": 0.0
+}

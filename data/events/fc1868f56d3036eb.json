@@ -1,0 +1,19 @@
+{
+  "event_id": "fc1868f56d3036eb",
+  "name": "UFC Fight Night: Stephens vs. Choi",
+  "event_date": "2018-01-14",
+  "location": "St. Louis, Missouri, USA",
+  "fight_ids": [
+    "51e684bfce8d94aa",
+    "0820a29a03d58282",
+    "f767243bb48ab9d7",
+    "d85c76a61a820be9",
+    "3b1453df439a5024",
+    "4843f369dc8b5de5",
+    "738e0ccad2c9224b",
+    "1bf1a6fc9c9acc26",
+    "f8bb0aed83bd8638",
+    "9f10afab94cafc45",
+    "c4ecf4b894ccbced"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "4a28cb716c19157a",
+  "name": "Stephen Thompson",
+  "nickname": "Wonderboy",
+  "height_inches": 72,
+  "weight_lbs": 170,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1983-02-11",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 9,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.05,
+  "str_acc": 0.46,
+  "sapm": 3.0,
+  "str_def": 0.54,
+  "td_avg": 0.23,
+  "td_acc": 0.35,
+  "td_def": 0.63,
+  "sub_avg": 0.0
+}

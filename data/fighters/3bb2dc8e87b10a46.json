@@ -1,0 +1,23 @@
+{
+  "fighter_id": "3bb2dc8e87b10a46",
+  "name": "David Zawada",
+  "nickname": "Sagat",
+  "height_inches": 72,
+  "weight_lbs": 170,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1990-08-01",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 7,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.84,
+  "str_acc": 0.41,
+  "sapm": 4.54,
+  "str_def": 0.55,
+  "td_avg": 0.97,
+  "td_acc": 0.33,
+  "td_def": 0.57,
+  "sub_avg": 1.7
+}

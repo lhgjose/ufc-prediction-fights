@@ -1,0 +1,23 @@
+{
+  "fighter_id": "fc31f896cde2bc2e",
+  "name": "John Howard",
+  "nickname": "Doomsday",
+  "height_inches": 67,
+  "weight_lbs": 170,
+  "reach_inches": 72,
+  "stance": "Orthodox",
+  "dob": "1983-03-01",
+  "gender": "male",
+  "record_wins": 24,
+  "record_losses": 13,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.15,
+  "str_acc": 0.5,
+  "sapm": 3.08,
+  "str_def": 0.51,
+  "td_avg": 2.7,
+  "td_acc": 0.49,
+  "td_def": 0.53,
+  "sub_avg": 0.4
+}

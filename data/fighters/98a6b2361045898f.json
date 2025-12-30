@@ -1,0 +1,23 @@
+{
+  "fighter_id": "98a6b2361045898f",
+  "name": "Dong Hyun Ma",
+  "nickname": "Maestro",
+  "height_inches": 71,
+  "weight_lbs": 155,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "1988-09-09",
+  "gender": "male",
+  "record_wins": 16,
+  "record_losses": 11,
+  "record_draws": 3,
+  "record_nc": 0,
+  "slpm": 2.84,
+  "str_acc": 0.41,
+  "sapm": 4.1,
+  "str_def": 0.54,
+  "td_avg": 1.27,
+  "td_acc": 0.53,
+  "td_def": 0.33,
+  "sub_avg": 0.0
+}

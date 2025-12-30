@@ -1,0 +1,23 @@
+{
+  "fighter_id": "d05cb1e8d1b885d8",
+  "name": "Jinh Yu Frey",
+  "nickname": "",
+  "height_inches": 63,
+  "weight_lbs": 115,
+  "reach_inches": 65,
+  "stance": "Southpaw",
+  "dob": "1985-05-20",
+  "gender": "female",
+  "record_wins": 11,
+  "record_losses": 10,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.97,
+  "str_acc": 0.43,
+  "sapm": 4.23,
+  "str_def": 0.52,
+  "td_avg": 1.02,
+  "td_acc": 0.36,
+  "td_def": 0.9,
+  "sub_avg": 0.3
+}

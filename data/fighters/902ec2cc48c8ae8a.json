@@ -1,0 +1,23 @@
+{
+  "fighter_id": "902ec2cc48c8ae8a",
+  "name": "Julian Erosa",
+  "nickname": "Juicy J",
+  "height_inches": 73,
+  "weight_lbs": 145,
+  "reach_inches": 74,
+  "stance": "Southpaw",
+  "dob": "1989-07-31",
+  "gender": "male",
+  "record_wins": 31,
+  "record_losses": 13,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 6.21,
+  "str_acc": 0.48,
+  "sapm": 6.27,
+  "str_def": 0.48,
+  "td_avg": 1.78,
+  "td_acc": 0.43,
+  "td_def": 0.61,
+  "sub_avg": 0.7
+}

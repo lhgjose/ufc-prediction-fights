@@ -1,0 +1,23 @@
+{
+  "fighter_id": "84512339473dd300",
+  "name": "Steven Koslow",
+  "nickname": "Obi Won Shinobi The Pillow",
+  "height_inches": 67,
+  "weight_lbs": 125,
+  "reach_inches": 69,
+  "stance": "Switch",
+  "dob": "1997-01-22",
+  "gender": "male",
+  "record_wins": 6,
+  "record_losses": 1,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 0.77,
+  "str_acc": 0.37,
+  "sapm": 3.73,
+  "str_def": 0.4,
+  "td_avg": 5.28,
+  "td_acc": 0.55,
+  "td_def": 0.0,
+  "sub_avg": 1.1
+}

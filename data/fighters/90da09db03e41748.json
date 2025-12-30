@@ -1,0 +1,23 @@
+{
+  "fighter_id": "90da09db03e41748",
+  "name": "Sergey Khandozhko",
+  "nickname": "Honda",
+  "height_inches": 73,
+  "weight_lbs": 170,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "1992-05-19",
+  "gender": "male",
+  "record_wins": 28,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.41,
+  "str_acc": 0.41,
+  "sapm": 2.37,
+  "str_def": 0.6,
+  "td_avg": 0.76,
+  "td_acc": 0.28,
+  "td_def": 0.61,
+  "sub_avg": 0.0
+}

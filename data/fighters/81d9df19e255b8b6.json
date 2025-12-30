@@ -1,0 +1,23 @@
+{
+  "fighter_id": "81d9df19e255b8b6",
+  "name": "Jarred Brooks",
+  "nickname": "The Monkey God",
+  "height_inches": 63,
+  "weight_lbs": 125,
+  "reach_inches": 62,
+  "stance": "Switch",
+  "dob": "1993-05-02",
+  "gender": "male",
+  "record_wins": 13,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.12,
+  "str_acc": 0.46,
+  "sapm": 1.66,
+  "str_def": 0.62,
+  "td_avg": 4.54,
+  "td_acc": 0.57,
+  "td_def": 0.69,
+  "sub_avg": 0.6
+}

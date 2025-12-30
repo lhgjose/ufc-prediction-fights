@@ -1,0 +1,23 @@
+{
+  "fighter_id": "4bdedbdeedff7d1d",
+  "name": "Bolaji Oki",
+  "nickname": "The Zulu Warrior",
+  "height_inches": 70,
+  "weight_lbs": 155,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1995-11-15",
+  "gender": "male",
+  "record_wins": 10,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 6.59,
+  "str_acc": 0.44,
+  "sapm": 5.15,
+  "str_def": 0.61,
+  "td_avg": 1.01,
+  "td_acc": 0.6,
+  "td_def": 0.66,
+  "sub_avg": 0.0
+}

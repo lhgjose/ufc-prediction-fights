@@ -1,0 +1,23 @@
+{
+  "fighter_id": "99c7610aa74995d3",
+  "name": "Cathal Pendred",
+  "nickname": "The Punisher",
+  "height_inches": 73,
+  "weight_lbs": 170,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1987-09-02",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 4,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.49,
+  "str_acc": 0.44,
+  "sapm": 3.01,
+  "str_def": 0.55,
+  "td_avg": 2.46,
+  "td_acc": 0.23,
+  "td_def": 0.83,
+  "sub_avg": 0.4
+}

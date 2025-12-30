@@ -1,0 +1,23 @@
+{
+  "fighter_id": "c575ab451e3c5b1d",
+  "name": "Mickael Lebout",
+  "nickname": "Ragnar",
+  "height_inches": 71,
+  "weight_lbs": 155,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1987-08-16",
+  "gender": "male",
+  "record_wins": 16,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 2.6,
+  "str_acc": 0.34,
+  "sapm": 2.98,
+  "str_def": 0.54,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.6,
+  "sub_avg": 0.0
+}

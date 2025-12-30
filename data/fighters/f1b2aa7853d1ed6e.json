@@ -1,0 +1,23 @@
+{
+  "fighter_id": "f1b2aa7853d1ed6e",
+  "name": "Kamaru Usman",
+  "nickname": "The Nigerian Nightmare",
+  "height_inches": 72,
+  "weight_lbs": 170,
+  "reach_inches": 76,
+  "stance": "Switch",
+  "dob": "1987-05-11",
+  "gender": "male",
+  "record_wins": 21,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.16,
+  "str_acc": 0.51,
+  "sapm": 2.67,
+  "str_def": 0.55,
+  "td_avg": 2.79,
+  "td_acc": 0.44,
+  "td_def": 0.89,
+  "sub_avg": 0.1
+}

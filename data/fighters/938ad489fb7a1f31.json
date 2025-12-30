@@ -1,0 +1,23 @@
+{
+  "fighter_id": "938ad489fb7a1f31",
+  "name": "Levan Makashvili",
+  "nickname": "The Hornet",
+  "height_inches": 68,
+  "weight_lbs": 145,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1989-01-07",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 2,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.87,
+  "str_acc": 0.54,
+  "sapm": 2.07,
+  "str_def": 0.61,
+  "td_avg": 3.67,
+  "td_acc": 0.42,
+  "td_def": 0.85,
+  "sub_avg": 0.0
+}

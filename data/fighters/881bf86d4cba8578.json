@@ -1,0 +1,23 @@
+{
+  "fighter_id": "881bf86d4cba8578",
+  "name": "Nassourdine Imavov",
+  "nickname": "The Sniper",
+  "height_inches": 75,
+  "weight_lbs": 185,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1996-03-01",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 4.28,
+  "str_acc": 0.54,
+  "sapm": 3.17,
+  "str_def": 0.58,
+  "td_avg": 0.74,
+  "td_acc": 0.32,
+  "td_def": 0.81,
+  "sub_avg": 1.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "40a456a25d52ee65",
+  "name": "Rolando Bedoya",
+  "nickname": "The Machine",
+  "height_inches": 71,
+  "weight_lbs": 155,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "1997-01-13",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 6.23,
+  "str_acc": 0.47,
+  "sapm": 5.5,
+  "str_def": 0.52,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.75,
+  "sub_avg": 0.2
+}

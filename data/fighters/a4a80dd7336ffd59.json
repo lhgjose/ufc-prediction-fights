@@ -1,0 +1,23 @@
+{
+  "fighter_id": "a4a80dd7336ffd59",
+  "name": "Melissa Gatto",
+  "nickname": "",
+  "height_inches": 65,
+  "weight_lbs": 135,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1996-05-02",
+  "gender": "female",
+  "record_wins": 9,
+  "record_losses": 2,
+  "record_draws": 2,
+  "record_nc": 0,
+  "slpm": 3.78,
+  "str_acc": 0.49,
+  "sapm": 2.84,
+  "str_def": 0.54,
+  "td_avg": 1.47,
+  "td_acc": 0.28,
+  "td_def": 0.63,
+  "sub_avg": 0.5
+}

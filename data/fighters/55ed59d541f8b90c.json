@@ -1,0 +1,23 @@
+{
+  "fighter_id": "55ed59d541f8b90c",
+  "name": "Rolando Dy",
+  "nickname": "Dy Incredible",
+  "height_inches": 68,
+  "weight_lbs": 145,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1990-08-11",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 3.04,
+  "str_acc": 0.37,
+  "sapm": 4.47,
+  "str_def": 0.52,
+  "td_avg": 0.3,
+  "td_acc": 0.2,
+  "td_def": 0.68,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "88be62d6c1e6dadb",
+  "name": "Jose Ochoa",
+  "nickname": "Kalzifer",
+  "height_inches": 67,
+  "weight_lbs": 125,
+  "reach_inches": 67,
+  "stance": "Southpaw",
+  "dob": "2000-12-31",
+  "gender": "male",
+  "record_wins": 8,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 3.01,
+  "str_acc": 0.37,
+  "sapm": 2.33,
+  "str_def": 0.6,
+  "td_avg": 0.43,
+  "td_acc": 0.5,
+  "td_def": 0.59,
+  "sub_avg": 1.3
+}

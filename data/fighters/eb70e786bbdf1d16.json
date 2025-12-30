@@ -1,0 +1,23 @@
+{
+  "fighter_id": "eb70e786bbdf1d16",
+  "name": "Yanis Ghemmouri",
+  "nickname": "The Desert Warrior",
+  "height_inches": 69,
+  "weight_lbs": 135,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1995-01-24",
+  "gender": "male",
+  "record_wins": 12,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.29,
+  "str_acc": 0.38,
+  "sapm": 5.14,
+  "str_def": 0.35,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.0,
+  "sub_avg": 0.0
+}

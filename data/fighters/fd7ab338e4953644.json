@@ -1,0 +1,23 @@
+{
+  "fighter_id": "fd7ab338e4953644",
+  "name": "Manolo Zecchini",
+  "nickname": "Angelo Veneziano",
+  "height_inches": 68,
+  "weight_lbs": 145,
+  "reach_inches": 68,
+  "stance": "Orthodox",
+  "dob": "1996-10-22",
+  "gender": "male",
+  "record_wins": 11,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.34,
+  "str_acc": 0.21,
+  "sapm": 6.75,
+  "str_def": 0.46,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.0,
+  "sub_avg": 0.0
+}

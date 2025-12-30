@@ -1,0 +1,23 @@
+{
+  "fighter_id": "472f6f6e6d962f40",
+  "name": "Barb Honchak",
+  "nickname": "Little Warrior",
+  "height_inches": 64,
+  "weight_lbs": 125,
+  "reach_inches": 65,
+  "stance": "Orthodox",
+  "dob": "1979-08-30",
+  "gender": "female",
+  "record_wins": 10,
+  "record_losses": 4,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.04,
+  "str_acc": 0.3,
+  "sapm": 4.67,
+  "str_def": 0.66,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.0,
+  "sub_avg": 1.3
+}

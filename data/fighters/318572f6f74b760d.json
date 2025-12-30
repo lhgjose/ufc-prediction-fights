@@ -1,0 +1,23 @@
+{
+  "fighter_id": "318572f6f74b760d",
+  "name": "Charlie Ontiveros",
+  "nickname": "American Bad Boy",
+  "height_inches": 74,
+  "weight_lbs": 155,
+  "reach_inches": 74,
+  "stance": "Switch",
+  "dob": "1991-07-04",
+  "gender": "male",
+  "record_wins": 11,
+  "record_losses": 9,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 1.89,
+  "str_acc": 0.41,
+  "sapm": 5.86,
+  "str_def": 0.31,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.3,
+  "sub_avg": 0.0
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "55fa6ce3e522c8bb",
+  "name": "Zhalgas Zhumagulov",
+  "nickname": "",
+  "height_inches": 64,
+  "weight_lbs": 125,
+  "reach_inches": 66,
+  "stance": "Switch",
+  "dob": "1988-08-29",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 9,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 5.24,
+  "str_acc": 0.43,
+  "sapm": 5.86,
+  "str_def": 0.52,
+  "td_avg": 1.3,
+  "td_acc": 0.19,
+  "td_def": 0.75,
+  "sub_avg": 0.2
+}

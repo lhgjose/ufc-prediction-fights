@@ -1,0 +1,23 @@
+{
+  "fighter_id": "d4270315cbcf2569",
+  "name": "Jacob Malkoun",
+  "nickname": "Mamba",
+  "height_inches": 69,
+  "weight_lbs": 185,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1995-08-26",
+  "gender": "male",
+  "record_wins": 8,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.86,
+  "str_acc": 0.56,
+  "sapm": 2.48,
+  "str_def": 0.52,
+  "td_avg": 6.62,
+  "td_acc": 0.42,
+  "td_def": 0.2,
+  "sub_avg": 0.4
+}

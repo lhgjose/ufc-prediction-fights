@@ -1,0 +1,23 @@
+{
+  "fighter_id": "00a3ff40c4b2cf21",
+  "name": "Glaico Franca Moreira",
+  "nickname": "Nego",
+  "height_inches": 72,
+  "weight_lbs": 155,
+  "reach_inches": 77,
+  "stance": "Orthodox",
+  "dob": "1991-02-28",
+  "gender": "male",
+  "record_wins": 15,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.35,
+  "str_acc": 0.42,
+  "sapm": 3.46,
+  "str_def": 0.47,
+  "td_avg": 2.68,
+  "td_acc": 0.42,
+  "td_def": 0.76,
+  "sub_avg": 0.3
+}

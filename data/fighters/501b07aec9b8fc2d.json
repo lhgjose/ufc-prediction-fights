@@ -1,0 +1,23 @@
+{
+  "fighter_id": "501b07aec9b8fc2d",
+  "name": "Sam Stout",
+  "nickname": "Hands of Stone",
+  "height_inches": 69,
+  "weight_lbs": 155,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "1984-04-23",
+  "gender": "male",
+  "record_wins": 20,
+  "record_losses": 12,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.17,
+  "str_acc": 0.28,
+  "sapm": 4.08,
+  "str_def": 0.57,
+  "td_avg": 0.63,
+  "td_acc": 0.38,
+  "td_def": 0.77,
+  "sub_avg": 0.1
+}

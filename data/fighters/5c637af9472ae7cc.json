@@ -1,0 +1,23 @@
+{
+  "fighter_id": "5c637af9472ae7cc",
+  "name": "Jamey-Lyn Horth",
+  "nickname": "",
+  "height_inches": 67,
+  "weight_lbs": 125,
+  "reach_inches": 66,
+  "stance": "Orthodox",
+  "dob": "1990-03-30",
+  "gender": "female",
+  "record_wins": 9,
+  "record_losses": 2,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.63,
+  "str_acc": 0.55,
+  "sapm": 2.5,
+  "str_def": 0.63,
+  "td_avg": 1.17,
+  "td_acc": 0.42,
+  "td_def": 0.79,
+  "sub_avg": 0.2
+}

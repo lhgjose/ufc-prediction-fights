@@ -1,0 +1,23 @@
+{
+  "fighter_id": "f1928a52590c5532",
+  "name": "Curtis Millender",
+  "nickname": "Curtious",
+  "height_inches": 74,
+  "weight_lbs": 170,
+  "reach_inches": 76,
+  "stance": "Orthodox",
+  "dob": "1987-12-01",
+  "gender": "male",
+  "record_wins": 17,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.86,
+  "str_acc": 0.46,
+  "sapm": 2.95,
+  "str_def": 0.61,
+  "td_avg": 0.43,
+  "td_acc": 1.0,
+  "td_def": 0.57,
+  "sub_avg": 0.0
+}

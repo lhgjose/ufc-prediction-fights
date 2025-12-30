@@ -1,0 +1,23 @@
+{
+  "fighter_id": "4a57ebb14315b251",
+  "name": "Randa Markos",
+  "nickname": "Quiet Storm",
+  "height_inches": 64,
+  "weight_lbs": 115,
+  "reach_inches": 63,
+  "stance": "Orthodox",
+  "dob": "1985-08-10",
+  "gender": "female",
+  "record_wins": 11,
+  "record_losses": 12,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.97,
+  "str_acc": 0.43,
+  "sapm": 3.1,
+  "str_def": 0.58,
+  "td_avg": 1.12,
+  "td_acc": 0.28,
+  "td_def": 0.52,
+  "sub_avg": 0.2
+}

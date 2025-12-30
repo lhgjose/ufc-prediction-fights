@@ -1,0 +1,68 @@
+{
+  "fighter_id": "275aca31f61ba28c",
+  "ratings": {
+    "knockout_power": {
+      "dimension": "knockout_power",
+      "rating": 1567.9165945511363,
+      "games_played": 34,
+      "last_updated": "2025-11-15"
+    },
+    "striking_volume": {
+      "dimension": "striking_volume",
+      "rating": 1606.7152022733123,
+      "games_played": 34,
+      "last_updated": "2025-11-15"
+    },
+    "striking_defense": {
+      "dimension": "striking_defense",
+      "rating": 1555.5682340238413,
+      "games_played": 34,
+      "last_updated": "2025-11-15"
+    },
+    "wrestling_offense": {
+      "dimension": "wrestling_offense",
+      "rating": 1635.4888466492475,
+      "games_played": 34,
+      "last_updated": "2025-11-15"
+    },
+    "wrestling_defense": {
+      "dimension": "wrestling_defense",
+      "rating": 1604.490593579908,
+      "games_played": 34,
+      "last_updated": "2025-11-15"
+    },
+    "submission_offense": {
+      "dimension": "submission_offense",
+      "rating": 1618.1874075815726,
+      "games_played": 34,
+      "last_updated": "2025-11-15"
+    },
+    "submission_defense": {
+      "dimension": "submission_defense",
+      "rating": 1537.447546414753,
+      "games_played": 34,
+      "last_updated": "2025-11-15"
+    },
+    "cardio": {
+      "dimension": "cardio",
+      "rating": 1564.056866705127,
+      "games_played": 34,
+      "last_updated": "2025-11-15"
+    },
+    "pressure": {
+      "dimension": "pressure",
+      "rating": 1656.9605122809521,
+      "games_played": 34,
+      "last_updated": "2025-11-15"
+    },
+    "adaptability": {
+      "dimension": "adaptability",
+      "rating": 1559.2539847113505,
+      "games_played": 34,
+      "last_updated": "2025-11-15"
+    }
+  },
+  "ko_losses": 2,
+  "last_fight_date": "2025-11-15",
+  "total_fights": 34
+}

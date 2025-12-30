@@ -1,0 +1,23 @@
+{
+  "fighter_id": "2296125b6c362355",
+  "name": "Wulijiburen",
+  "nickname": "Beast Master",
+  "height_inches": 69,
+  "weight_lbs": 135,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1989-03-01",
+  "gender": "male",
+  "record_wins": 20,
+  "record_losses": 9,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 1.61,
+  "str_acc": 0.42,
+  "sapm": 3.02,
+  "str_def": 0.56,
+  "td_avg": 3.28,
+  "td_acc": 0.42,
+  "td_def": 0.77,
+  "sub_avg": 0.4
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "9123c54d0a2b72dd",
+  "name": "Christian Colombo",
+  "nickname": "",
+  "height_inches": 77,
+  "weight_lbs": 265,
+  "reach_inches": null,
+  "stance": "Orthodox",
+  "dob": "1980-07-01",
+  "gender": "male",
+  "record_wins": 8,
+  "record_losses": 3,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.76,
+  "str_acc": 0.44,
+  "sapm": 4.02,
+  "str_def": 0.42,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.33,
+  "sub_avg": 0.0
+}

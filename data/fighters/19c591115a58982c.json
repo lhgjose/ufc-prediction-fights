@@ -1,0 +1,23 @@
+{
+  "fighter_id": "19c591115a58982c",
+  "name": "Viacheslav Borshchev",
+  "nickname": "Slava Claus",
+  "height_inches": 71,
+  "weight_lbs": 155,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1992-01-08",
+  "gender": "male",
+  "record_wins": 8,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 5.1,
+  "str_acc": 0.5,
+  "sapm": 4.46,
+  "str_def": 0.57,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.43,
+  "sub_avg": 0.1
+}

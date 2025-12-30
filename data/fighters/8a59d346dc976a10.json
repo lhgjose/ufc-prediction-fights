@@ -1,0 +1,23 @@
+{
+  "fighter_id": "8a59d346dc976a10",
+  "name": "Thiago Tavares",
+  "nickname": "",
+  "height_inches": 67,
+  "weight_lbs": 145,
+  "reach_inches": 70,
+  "stance": "Orthodox",
+  "dob": "1984-11-08",
+  "gender": "male",
+  "record_wins": 21,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.0,
+  "str_acc": 0.4,
+  "sapm": 2.31,
+  "str_def": 0.62,
+  "td_avg": 3.83,
+  "td_acc": 0.42,
+  "td_def": 0.62,
+  "sub_avg": 1.5
+}

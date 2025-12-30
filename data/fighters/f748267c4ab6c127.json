@@ -1,0 +1,23 @@
+{
+  "fighter_id": "f748267c4ab6c127",
+  "name": "Rhys McKee",
+  "nickname": "Skeletor",
+  "height_inches": 74,
+  "weight_lbs": 170,
+  "reach_inches": 78,
+  "stance": "Orthodox",
+  "dob": "1995-09-10",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 7,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.71,
+  "str_acc": 0.4,
+  "sapm": 7.15,
+  "str_def": 0.47,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.47,
+  "sub_avg": 0.0
+}

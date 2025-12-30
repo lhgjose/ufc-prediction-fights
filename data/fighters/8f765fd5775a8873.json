@@ -1,0 +1,23 @@
+{
+  "fighter_id": "8f765fd5775a8873",
+  "name": "Rinat Fakhretdinov",
+  "nickname": "Gladiator",
+  "height_inches": 72,
+  "weight_lbs": 170,
+  "reach_inches": 74,
+  "stance": "Orthodox",
+  "dob": "1991-09-28",
+  "gender": "male",
+  "record_wins": 24,
+  "record_losses": 1,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 5.03,
+  "str_acc": 0.52,
+  "sapm": 3.61,
+  "str_def": 0.54,
+  "td_avg": 3.91,
+  "td_acc": 0.34,
+  "td_def": 0.91,
+  "sub_avg": 0.2
+}

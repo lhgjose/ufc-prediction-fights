@@ -1,0 +1,23 @@
+{
+  "fighter_id": "1338e2c7480bdf9e",
+  "name": "Israel Adesanya",
+  "nickname": "The Last Stylebender",
+  "height_inches": 76,
+  "weight_lbs": 185,
+  "reach_inches": 80,
+  "stance": "Switch",
+  "dob": "1989-07-22",
+  "gender": "male",
+  "record_wins": 24,
+  "record_losses": 5,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.02,
+  "str_acc": 0.48,
+  "sapm": 3.2,
+  "str_def": 0.55,
+  "td_avg": 0.05,
+  "td_acc": 0.11,
+  "td_def": 0.76,
+  "sub_avg": 0.1
+}

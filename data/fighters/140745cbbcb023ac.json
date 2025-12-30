@@ -1,0 +1,23 @@
+{
+  "fighter_id": "140745cbbcb023ac",
+  "name": "Mauricio Rua",
+  "nickname": "Shogun",
+  "height_inches": 73,
+  "weight_lbs": 205,
+  "reach_inches": 76,
+  "stance": "Orthodox",
+  "dob": "1981-11-25",
+  "gender": "male",
+  "record_wins": 27,
+  "record_losses": 14,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 3.57,
+  "str_acc": 0.5,
+  "sapm": 2.79,
+  "str_def": 0.54,
+  "td_avg": 2.01,
+  "td_acc": 0.48,
+  "td_def": 0.49,
+  "sub_avg": 0.7
+}

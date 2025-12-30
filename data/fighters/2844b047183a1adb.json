@@ -1,0 +1,23 @@
+{
+  "fighter_id": "2844b047183a1adb",
+  "name": "Luis Pena",
+  "nickname": "Violent Bob Ross",
+  "height_inches": 75,
+  "weight_lbs": 155,
+  "reach_inches": 75,
+  "stance": "Southpaw",
+  "dob": "1993-07-05",
+  "gender": "male",
+  "record_wins": 9,
+  "record_losses": 3,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 3.66,
+  "str_acc": 0.46,
+  "sapm": 3.12,
+  "str_def": 0.51,
+  "td_avg": 1.17,
+  "td_acc": 0.33,
+  "td_def": 0.48,
+  "sub_avg": 1.2
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "98215d037be5bcb7",
+  "name": "Cynthia Calvillo",
+  "nickname": "",
+  "height_inches": 64,
+  "weight_lbs": 115,
+  "reach_inches": 64,
+  "stance": "Orthodox",
+  "dob": "1987-07-13",
+  "gender": "female",
+  "record_wins": 9,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.41,
+  "str_acc": 0.38,
+  "sapm": 4.12,
+  "str_def": 0.64,
+  "td_avg": 1.8,
+  "td_acc": 0.44,
+  "td_def": 0.77,
+  "sub_avg": 0.8
+}

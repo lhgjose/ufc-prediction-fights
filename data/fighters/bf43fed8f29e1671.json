@@ -1,0 +1,23 @@
+{
+  "fighter_id": "bf43fed8f29e1671",
+  "name": "Marcin Held",
+  "nickname": "",
+  "height_inches": 69,
+  "weight_lbs": 155,
+  "reach_inches": 71,
+  "stance": "Orthodox",
+  "dob": "1992-01-18",
+  "gender": "male",
+  "record_wins": 23,
+  "record_losses": 7,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 1.41,
+  "str_acc": 0.34,
+  "sapm": 2.02,
+  "str_def": 0.47,
+  "td_avg": 2.46,
+  "td_acc": 0.46,
+  "td_def": 0.37,
+  "sub_avg": 1.3
+}

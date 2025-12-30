@@ -1,0 +1,23 @@
+{
+  "fighter_id": "d802174b0c0c1f4e",
+  "name": "Magomed Ankalaev",
+  "nickname": "",
+  "height_inches": 75,
+  "weight_lbs": 205,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1992-06-02",
+  "gender": "male",
+  "record_wins": 21,
+  "record_losses": 2,
+  "record_draws": 1,
+  "record_nc": 1,
+  "slpm": 3.65,
+  "str_acc": 0.52,
+  "sapm": 2.59,
+  "str_def": 0.56,
+  "td_avg": 0.79,
+  "td_acc": 0.22,
+  "td_def": 0.87,
+  "sub_avg": 0.0
+}

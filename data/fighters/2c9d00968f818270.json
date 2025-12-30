@@ -1,0 +1,23 @@
+{
+  "fighter_id": "2c9d00968f818270",
+  "name": "Hakeem Dawodu",
+  "nickname": "Mean",
+  "height_inches": 68,
+  "weight_lbs": 145,
+  "reach_inches": 73,
+  "stance": "Orthodox",
+  "dob": "1991-07-02",
+  "gender": "male",
+  "record_wins": 13,
+  "record_losses": 4,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 5.45,
+  "str_acc": 0.5,
+  "sapm": 3.37,
+  "str_def": 0.56,
+  "td_avg": 0.0,
+  "td_acc": 0.0,
+  "td_def": 0.65,
+  "sub_avg": 0.0
+}

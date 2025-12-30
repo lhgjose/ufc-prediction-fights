@@ -1,0 +1,23 @@
+{
+  "fighter_id": "b4192a975027aab6",
+  "name": "Maryna Moroz",
+  "nickname": "Iron Lady",
+  "height_inches": 67,
+  "weight_lbs": 125,
+  "reach_inches": 67,
+  "stance": "Orthodox",
+  "dob": "1991-09-08",
+  "gender": "female",
+  "record_wins": 11,
+  "record_losses": 6,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 4.42,
+  "str_acc": 0.33,
+  "sapm": 4.89,
+  "str_def": 0.51,
+  "td_avg": 0.7,
+  "td_acc": 0.24,
+  "td_def": 0.42,
+  "sub_avg": 0.6
+}

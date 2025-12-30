@@ -1,0 +1,23 @@
+{
+  "fighter_id": "ed209f6618c82e41",
+  "name": "Hacran Dias",
+  "nickname": "Barnabe",
+  "height_inches": 68,
+  "weight_lbs": 155,
+  "reach_inches": 69,
+  "stance": "Orthodox",
+  "dob": "1984-06-16",
+  "gender": "male",
+  "record_wins": 23,
+  "record_losses": 6,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.08,
+  "str_acc": 0.41,
+  "sapm": 3.31,
+  "str_def": 0.55,
+  "td_avg": 2.5,
+  "td_acc": 0.39,
+  "td_def": 0.76,
+  "sub_avg": 0.5
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "7acbb0972e75281a",
+  "name": "Marvin Vettori",
+  "nickname": "The Italian Dream",
+  "height_inches": 72,
+  "weight_lbs": 185,
+  "reach_inches": 74,
+  "stance": "Southpaw",
+  "dob": "1993-09-20",
+  "gender": "male",
+  "record_wins": 19,
+  "record_losses": 10,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.74,
+  "str_acc": 0.45,
+  "sapm": 4.55,
+  "str_def": 0.56,
+  "td_avg": 1.41,
+  "td_acc": 0.43,
+  "td_def": 0.68,
+  "sub_avg": 0.4
+}

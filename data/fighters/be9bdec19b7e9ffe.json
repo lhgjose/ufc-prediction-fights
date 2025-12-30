@@ -1,0 +1,23 @@
+{
+  "fighter_id": "be9bdec19b7e9ffe",
+  "name": "Austen Lane",
+  "nickname": "",
+  "height_inches": 78,
+  "weight_lbs": 245,
+  "reach_inches": 80,
+  "stance": "Orthodox",
+  "dob": "1987-11-09",
+  "gender": "male",
+  "record_wins": 13,
+  "record_losses": 7,
+  "record_draws": 0,
+  "record_nc": 1,
+  "slpm": 2.74,
+  "str_acc": 0.5,
+  "sapm": 2.23,
+  "str_def": 0.4,
+  "td_avg": 1.52,
+  "td_acc": 0.28,
+  "td_def": 0.33,
+  "sub_avg": 0.0
+}

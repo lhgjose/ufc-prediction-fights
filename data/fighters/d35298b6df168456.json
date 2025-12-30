@@ -1,0 +1,23 @@
+{
+  "fighter_id": "d35298b6df168456",
+  "name": "Talita Alencar",
+  "nickname": "Problem Child",
+  "height_inches": 61,
+  "weight_lbs": 115,
+  "reach_inches": 58,
+  "stance": "Orthodox",
+  "dob": "1990-10-17",
+  "gender": "female",
+  "record_wins": 7,
+  "record_losses": 1,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 2.91,
+  "str_acc": 0.37,
+  "sapm": 3.36,
+  "str_def": 0.55,
+  "td_avg": 3.02,
+  "td_acc": 0.26,
+  "td_def": 0.66,
+  "sub_avg": 0.6
+}

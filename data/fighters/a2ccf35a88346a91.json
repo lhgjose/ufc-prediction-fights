@@ -1,0 +1,23 @@
+{
+  "fighter_id": "a2ccf35a88346a91",
+  "name": "Erick Gonzalez",
+  "nickname": "The Ghost Pepper",
+  "height_inches": 71,
+  "weight_lbs": 155,
+  "reach_inches": 75,
+  "stance": "Orthodox",
+  "dob": "1992-01-20",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 8,
+  "record_draws": 0,
+  "record_nc": 0,
+  "slpm": 2.4,
+  "str_acc": 0.36,
+  "sapm": 8.08,
+  "str_def": 0.4,
+  "td_avg": 6.0,
+  "td_acc": 0.55,
+  "td_def": 0.5,
+  "sub_avg": 0.0
+}

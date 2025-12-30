@@ -1,0 +1,18 @@
+{
+  "event_id": "c32eab6c2119e989",
+  "name": "UFC Fight Night: Poirier vs. Hooker",
+  "event_date": "2020-06-27",
+  "location": "Las Vegas, Nevada, USA",
+  "fight_ids": [
+    "f8dd1e75978a3957",
+    "f2d9814936a6eb35",
+    "9ce56acac775d386",
+    "cfd47fddbb705f26",
+    "67ed3ad521ef619c",
+    "8a8fea2c10512434",
+    "9025e3c6b6d71253",
+    "75570ea2da94a4fb",
+    "1b8d366ac0f110f3",
+    "0f369d09416b9e34"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "fighter_id": "46d0a888d87d91ac",
+  "name": "Abu Azaitar",
+  "nickname": "Captain Morocco",
+  "height_inches": 69,
+  "weight_lbs": 185,
+  "reach_inches": 76,
+  "stance": "Orthodox",
+  "dob": "1986-03-10",
+  "gender": "male",
+  "record_wins": 14,
+  "record_losses": 4,
+  "record_draws": 1,
+  "record_nc": 0,
+  "slpm": 4.38,
+  "str_acc": 0.43,
+  "sapm": 4.32,
+  "str_def": 0.51,
+  "td_avg": 1.0,
+  "td_acc": 0.37,
+  "td_def": 0.42,
+  "sub_avg": 0.0
+}
