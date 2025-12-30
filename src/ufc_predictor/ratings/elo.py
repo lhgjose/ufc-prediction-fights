@@ -176,3 +176,44 @@ def probability_to_rating_difference(prob: float) -> float:
     if prob <= 0 or prob >= 1:
         raise ValueError("Probability must be between 0 and 1 (exclusive)")
     return -400.0 * math.log10((1.0 / prob) - 1.0)
+
+
+def finish_multiplier(method: str, round_finished: int = None, scheduled_rounds: int = 3) -> float:
+    """
+    Calculate K-factor multiplier based on finish method.
+
+    Finishes (especially early ones) should transfer more rating because they
+    demonstrate clear superiority. This addresses the issue where head-to-head
+    results don't impact ratings enough.
+
+    Args:
+        method: Fight method (KO/TKO, Submission, Decision, etc.)
+        round_finished: Round the fight ended (None for decisions)
+        scheduled_rounds: Total scheduled rounds (3 or 5)
+
+    Returns:
+        Multiplier for K-factor (1.0 = no change, >1.0 = more rating transfer)
+    """
+    if not method:
+        return 1.0
+
+    method_upper = method.upper()
+
+    # Base multipliers by method
+    if "KO" in method_upper or "TKO" in method_upper:
+        base_mult = 1.5  # KOs transfer 50% more rating
+    elif "SUB" in method_upper:
+        base_mult = 1.4  # Submissions transfer 40% more rating
+    elif "DEC" in method_upper:
+        return 1.0  # Decisions = normal transfer
+    else:
+        return 1.0
+
+    # Early finish bonus (round 1-2 finishes get extra boost)
+    if round_finished is not None:
+        if round_finished == 1:
+            base_mult *= 1.3  # First round finish = 30% extra
+        elif round_finished == 2:
+            base_mult *= 1.15  # Second round finish = 15% extra
+
+    return base_mult

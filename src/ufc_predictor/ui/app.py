@@ -179,16 +179,16 @@ def main():
                 is_title_fight=is_title_fight,
             )
 
-        # Store prediction in session state
+        # Store prediction in session state (use different keys to avoid widget conflict)
         st.session_state["prediction"] = prediction
-        st.session_state["fighter1"] = fighter1
-        st.session_state["fighter2"] = fighter2
+        st.session_state["pred_fighter1"] = fighter1
+        st.session_state["pred_fighter2"] = fighter2
 
     # Display prediction if available
     if "prediction" in st.session_state:
         prediction = st.session_state["prediction"]
-        fighter1 = st.session_state["fighter1"]
-        fighter2 = st.session_state["fighter2"]
+        fighter1 = st.session_state["pred_fighter1"]
+        fighter2 = st.session_state["pred_fighter2"]
 
         st.divider()
 

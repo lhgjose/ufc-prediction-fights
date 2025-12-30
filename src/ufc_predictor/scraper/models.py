@@ -17,6 +17,7 @@ class Fighter:
     reach_inches: Optional[int] = None
     stance: Optional[str] = None  # Orthodox, Southpaw, Switch
     dob: Optional[date] = None
+    gender: Optional[str] = None  # "male" or "female"
     record_wins: int = 0
     record_losses: int = 0
     record_draws: int = 0

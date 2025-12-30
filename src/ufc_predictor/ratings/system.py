@@ -10,7 +10,7 @@ from ..scraper.models import Event, Fight, Fighter
 from ..scraper.storage import DataStorage
 from .adjustments import apply_chin_degradation, apply_inactivity_decay, get_k_factor_with_recency
 from .dimensions import extract_dimension_scores
-from .elo import calculate_new_rating, dynamic_k_factor, expected_score
+from .elo import calculate_new_rating, dynamic_k_factor, expected_score, finish_multiplier
 from .models import DEFAULT_K_FACTOR, FighterRatings, RatingUpdate, SkillDimension
 
 logging.basicConfig(level=logging.INFO)
@@ -158,6 +158,15 @@ class RatingSystem:
             k1 = get_k_factor_with_recency(k1, fight_date, current_date)
             k2 = get_k_factor_with_recency(k2, fight_date, current_date)
 
+            # Apply finish multiplier (KO/Sub transfer more rating)
+            finish_mult = finish_multiplier(
+                fight.method,
+                fight.round_finished,
+                fight.scheduled_rounds or 3,
+            )
+            k1 *= finish_mult
+            k2 *= finish_mult
+
             # Weight by dimension score weight
             k1 *= f1_score.weight
             k2 *= f2_score.weight
@@ -287,6 +296,11 @@ class RatingSystem:
     def clear_cache(self) -> None:
         """Clear the in-memory ratings cache."""
         self._ratings_cache.clear()
+
+    def reset(self) -> None:
+        """Reset rating system to initial state (for backtesting)."""
+        self._ratings_cache.clear()
+        self._update_history.clear()
 
     def get_all_ratings(self) -> dict[str, FighterRatings]:
         """Get all cached ratings."""
